@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000050551393</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/50/55/13/KALICONT000050551393.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des industries de carrières et matériaux de construction du 6 juillet 2022 - Étendue par arrêté du 24 sept. 2024 JORF 17 novembre 2024</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3249</NUM>
+
+<DATE_PUBLI>2024-11-17</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale de l'industrie des tuiles et briques (IDCC 1170) par arrêté du 3 juillet 2024.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046598805" titretxt="Convention collective nationale du 6 juillet 2022"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000020969558" titretxt="Formation professionnelle des conducteurs routiers"/>
+<LIEN_TXT idtxt="KALITEXT000023157908" titretxt="Formation professionnelle des conducteurs routiers"/>
+<LIEN_TXT idtxt="KALITEXT000027779037" titretxt="Modalités de négociation des accords collectifs"/>
+<LIEN_TXT idtxt="KALITEXT000032080870" titretxt="Formation professionnelle obligatoire des conducteurs routiers"/>
+<LIEN_TXT idtxt="KALITEXT000036512227" titretxt="Fusion des conventions collectives des ouvriers et des ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000037482573" titretxt="Fusion des conventions collectives des ouvriers et des ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000038683620" titretxt="Fusion des conventions collectives des ouvriers et des ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000039399516" titretxt="Rapprochement des conventions collectives"/>
+<LIEN_TXT idtxt="KALITEXT000041685668" titretxt="Fusion des champs conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000041685636" titretxt="Fusion des conventions"/>
+<LIEN_TXT idtxt="KALITEXT000043348795" titretxt="Rapprochement des conventions collectives"/>
+<LIEN_TXT idtxt="KALITEXT000049693991" titretxt="Modification de la convention collective nationale"/>
+<LIEN_TXT idtxt="KALITEXT000050228977" titretxt="Catégories de bénéficiaires des garanties de protection sociale complémentaire collective"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000050051829" titretxt="Salaires minimaux garantis 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046240526" titretxt="Auvergne-Rhône-Alpes Salaires minimaux garantis année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047951249" titretxt="Auvergne-Rhône-Alpes Salaires minimaux au 1er février 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050028013" titretxt="Auvergne-Rhône-Alpes Salaires minimaux au 1er février 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047410044" titretxt="Bourgogne-Franche-Comté Salaires minimaux au 1er septembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969118" titretxt="Bourgogne-Franche-Comté Salaires minimaux au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050028053" titretxt="Bourgogne-Franche-Comté Salaires minimaux au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047376134" titretxt="Bretagne Salaires minimaux et indemnité de transport au 1er septembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052326" titretxt="Bretagne Salaires minimaux 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050027992" titretxt="Bretagne Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046076043" titretxt="Centre-Val de Loire Salaires minimaux garantis 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047792395" titretxt="Centre-Val de Loire Salaires minimaux au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049916384" titretxt="Centre-Val de Loire Salaires minimaux 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046076066" titretxt="Grand Est Salaires minimaux garantis 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047376158" titretxt="Grand Est Salaires minimaux au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047865808" titretxt="Grand Est Salaires minimaux au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049495802" titretxt="Grand Est Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050028033" titretxt="Hauts-de-France Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046725266" titretxt="Île-de-France Salaires minimaux au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047865832" titretxt="Île-de-France Salaires minimaux au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049730860" titretxt="Île-de-France Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046076089" titretxt="Normandie Salaires minimaux garantis 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047951272" titretxt="Normandie Salaires minimaux 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049611968" titretxt="Normandie Salaires minimaux 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046240503" titretxt="Nouvelle-Aquitaine Salaires minimaux garantis année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048051772" titretxt="Nouvelle-Aquitaine Salaires minimaux au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049605540" titretxt="Nouvelle-Aquitaine Salaires minimaux 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046265519" titretxt="Occitanie Salaires minimaux garantis pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047782915" titretxt="Occitanie Salaires minimaux 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150130" titretxt="Occitanie Salaires minimaux au 1er septembre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049693727" titretxt="Occitanie Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046265542" titretxt="Pays de la Loire Salaires minimaux garantis au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047376111" titretxt="Pays de la Loire Salaires minimaux au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047514603" titretxt="Pays de la Loire Salaires minimaux au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969139" titretxt="Pays de la Loire Salaires minimaux au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049508611" titretxt="Pays de la Loire Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046054648" titretxt="Sud PACA et Corse Salaires minimaux au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046758475" titretxt="Sud PACA et Corse Salaires minimaux au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000049067177" titretxt="Sud PACA et Corse Salaires minimaux"/>
+<LIEN_TXT idtxt="KALITEXT000049870035" titretxt="Sud PACA et Corse Salaires minimaux au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000045953251" titretxt="Salaires au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047734143" titretxt="Salaires minimaux conventionnels 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049870056" titretxt="Salaires minimaux au 1er janvier 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Industries de carrières et matériaux de construction</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

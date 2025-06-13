@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625629</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625629.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625629" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I.5. Agent de sécurité mobile</p>
+<p>Coefficient 140</p>
+<p>L'agent de sécurité mobile est un agent de sécurité qui effectue :<br/>
+– des rondes à horaires variables ou non, sur plusieurs sites ;<br/>
+– des interventions sur alarme dans le cadre des missions de télésécurité.</p>
+<p>Son travail principal consiste à effectuer des rondes de surveillance et/ou des interventions pour prévenir des malveillances et des risques facilement détectables tels que l'incendie ou l'intrusion.</p>
+<p>Les activités les plus communément attribuées consistent à :<br/>
+– effectuer des rondes de surveillance pour prévenir des malveillances et des risques facilement détectables tels que l'incendie ou l'intrusion ;<br/>
+– intervenir pour effectuer une levée de doute ;<br/>
+– détecter l'origine de l'alarme ;<br/>
+– prévenir ou à faire prévenir les services ou personnes concernés en mesure de faire cesser le trouble concerné ;<br/>
+– procéder aux actions de sauvegarde adaptées et à assurer la continuité de la protection du site selon les consignes prédéterminées et/ou les instructions du centre de télésurveillance ;<br/>
+– rendre compte de sa mission à sa hiérarchie, au client par l'intermédiaire de la fiche visite, ainsi qu'éventuellement aux services publics concernés.<br/>
+Il a pour instructions :<br/>
+– d'assurer sa propre sécurité notamment en respectant le code de la route ;<br/>
+– de ne pas mettre en péril la sécurité d'autrui ;<br/>
+– d'exécuter les tâches définies, d'assurer leur combinaison, de conserver les moyens d'accès fournis.</p>
+<p>Moyens</p>
+<p>Moyens mis à sa disposition par l'entreprise conformément aux dispositions législatives et réglementaires en vigueur :<br/>
+– il dispose d'un véhicule non banalisé dont les organes de sécurité sont maintenus en bon état de fonctionnement ;<br/>
+– il dispose d'un moyen de communication servant tant à l'exercice de sa mission qu'à sa protection personnelle ;<br/>
+– il dispose d'un cahier de consignes précisant pour chaque site :<br/>
+– la localisation géographique ;<br/>
+– les dispositifs d'ouverture et de fermeture ;<br/>
+– les spécifications de l'alarme ;<br/>
+– les classes de risques présents sur le site.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la route.</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

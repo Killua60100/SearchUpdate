@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635173</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635173.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 16 juillet 2021 (Avenant n° 46 du 16 juillet 2021)</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1486</NUM>
+
+<DATE_PUBLI>2023-05-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005679895" titretxt="Convention collective nationale du 15 décembre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000044253019" titretxt="Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 16 juillet 2021"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005679899" titretxt="Annexe I. Classification des employés, techniciens et agents de maîtrise"/>
+<LIEN_TXT idtxt="KALITEXT000005679901" titretxt="Annexe I. Classification des employés, techniciens et agents de maîtrise"/>
+<LIEN_TXT idtxt="KALITEXT000005679903" titretxt="Annexe I. Classification des employés, techniciens et agents de maîtrise"/>
+<LIEN_TXT idtxt="KALITEXT000005679905" titretxt="Annexe II. Classification des ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005679907" titretxt="Annexe III. Grille des rémunérations minimales brutes des chargés d'enquête"/>
+<LIEN_TXT idtxt="KALITEXT000005679909" titretxt="Protocole d'accord sur la date d'application"/>
+<LIEN_TXT idtxt="KALITEXT000005679911" titretxt="Protocole d'accord sur la révision de l'annexe enquêteurs"/>
+<LIEN_TXT idtxt="KALITEXT000005679913" titretxt="Méthode pour la mise en place de la nouvelle classification des ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005679885" titretxt="Annexe IV. Enquêteurs"/>
+<LIEN_TXT idtxt="KALITEXT000005679889" titretxt="Fins de chantier dans l'ingénierie"/>
+<LIEN_TXT idtxt="KALITEXT000005679891" titretxt="COMMISSION PARITAIRE NATIONALE DE L'EMPLOI"/>
+<LIEN_TXT idtxt="KALITEXT000005679893" titretxt="Champ d'application de la convention collective et de certains avenants"/>
+<LIEN_TXT idtxt="KALITEXT000005679915" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005679919" titretxt="Prévoyance Annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005679921" titretxt="Prévoyance Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005679924" titretxt="Travaux exceptionnels liés au passage à l'euro"/>
+<LIEN_TXT idtxt="KALITEXT000005679928" titretxt="Insertion des jeunes par la formation en alternance et annulation de l'accord du 14 décembre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005679932" titretxt="Champ d'application économique"/>
+<LIEN_TXT idtxt="KALITEXT000005679934" titretxt="Champ d'application (foires et salons)"/>
+<LIEN_TXT idtxt="KALITEXT000005679936" titretxt="Durée du travail (application de la loi du 13 juin 1998)"/>
+<LIEN_TXT idtxt="KALITEXT000005679938" titretxt="Etude et suivi de l'aménagement du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005679940" titretxt="Accord relatif à la mise en place d'un dispositif délivrant des certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005679942" titretxt="Introduction des métiers de l'Internet"/>
+<LIEN_TXT idtxt="KALITEXT000005679944" titretxt="Avis d'interprétation relatif à l'accord du 5 juillet 2001 (domaine de l'Internet)"/>
+<LIEN_TXT idtxt="KALITEXT000005679946" titretxt="Statut des salariés du secteur d'activité d'organisation des foires, salons et congrès"/>
+<LIEN_TXT idtxt="KALITEXT000005679948" titretxt="Capital de temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005679950" titretxt="Travaux exceptionnels le dimanche et les jours fériés liés au passage à l'euro"/>
+<LIEN_TXT idtxt="KALITEXT000005679952" titretxt="Cessation anticipée d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005679954" titretxt="Cessation d'activité de certains travailleurs salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005679956" titretxt="Champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000005679958" titretxt="Financement de l'OPIIEC"/>
+<LIEN_TXT idtxt="KALITEXT000005679960" titretxt="Avenant à l'accord du 27 mai 2002 relatif à la cessation d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005679962" titretxt="Départ et mise à la retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005679964" titretxt="Dispositions financières du travail du dimanche et des jours fériés"/>
+<LIEN_TXT idtxt="KALITEXT000005679968" titretxt="Travail exceptionnel du dimanche et des jours fériés (art. 35)"/>
+<LIEN_TXT idtxt="KALITEXT000005679970" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005679972" titretxt="Lettre d'adhésion de la fédération des commerces et des services UNSA à la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils (SYNTEC)"/>
+<LIEN_TXT idtxt="KALITEXT000005679974" titretxt="Disponibilités du plan de formation des entreprises employant au minimum 10 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005679976" titretxt="Révision de certaines dispositions de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005679978" titretxt="Abrogation de 2 accords formation"/>
+<LIEN_TXT idtxt="KALITEXT000005679980" titretxt="Avenant modifiant l'accord du 19 mai 1995 portant sur la CPNE de l'ingénierie, des services informatiques et du conseil"/>
+<LIEN_TXT idtxt="KALITEXT000005679982" titretxt="Modification de l'accord du 27 décembre 2004 relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005679984" titretxt="Création de l'observatoire paritaire de la négociation collective"/>
+<LIEN_TXT idtxt="KALITEXT000005679986" titretxt="Avenant modifiant l'avenant du 12 juillet 2005 relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005679988" titretxt="Avenant relatif à l'accord national du 27 décembre 2004 sur la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000017855705" titretxt="Classification et aux salaires ETAM pour les années 2007 et 2008"/>
+<LIEN_TXT idtxt="KALITEXT000018659204" titretxt="Portage salarial"/>
+<LIEN_TXT idtxt="KALITEXT000018826946" titretxt="Elections prud'homales du 3 décembre 2008"/>
+<LIEN_TXT idtxt="KALITEXT000019384967" titretxt="Révision de l'article 3 de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000019384991" titretxt="Révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000019385014" titretxt="Révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000019385034" titretxt="Missions de l'ADESATT et financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000019385064" titretxt="Missions de l'ADESATT et financement du paritarisme(annexe à l'accord du 25 octobre 2007)"/>
+<LIEN_TXT idtxt="KALITEXT000019385565" titretxt="Egalité professionnelle entre les hommes et les femmes"/>
+<LIEN_TXT idtxt="KALITEXT000019385613" titretxt="Lettre d'adhésion de la CGT à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et  financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000019732079" titretxt="Gestion prévisionnelle des emplois et des compétences (GPEC)"/>
+<LIEN_TXT idtxt="KALITEXT000020137344" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000020137442" titretxt="Commission paritaire nationale de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000020608470" titretxt="Annexe à l'accord du 25 octobre 2007 relatif au paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000020851791" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000021237441" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022017876" titretxt="Modification du champ d'application de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000022017887" titretxt="Mise en oeuvre des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000022968985" titretxt="Mise en place d'un système de participation des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000023157828" titretxt="Emploi des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000023374678" titretxt="Création d'une commission paritaire de validation des accords d'entreprises de moins de 200 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000023561412" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000023714910" titretxt="Financement d'actions pour la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024683557" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024832242" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000025351053" titretxt="OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000025683532" titretxt="CQP"/>
+<LIEN_TXT idtxt="KALITEXT000025805094" titretxt="Professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000026123259" titretxt="Fonctionnement de l'OPCA FAFIEC"/>
+<LIEN_TXT idtxt="KALITEXT000026804497" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000026804506" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026804523" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026942664" titretxt="Création de commissions paritaires régionales de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000027661879" titretxt="Santé et risques psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000027757127" titretxt="Désignation d'organismes assureurs"/>
+<LIEN_TXT idtxt="KALITEXT000027931631" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000028465378" titretxt="Activité partielle des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000029264464" titretxt="Durée du travail"/>
+<LIEN_TXT idtxt="KALITEXT000029264482" titretxt="CQP"/>
+<LIEN_TXT idtxt="KALITEXT000030160078" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000030309431" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000030482991" titretxt="Pacte social pour la compétitivité et un calendrier social responsable"/>
+<LIEN_TXT idtxt="KALITEXT000030579160" titretxt="CPNE"/>
+<LIEN_TXT idtxt="KALITEXT000030778374" titretxt="OPCA FAFIEC"/>
+<LIEN_TXT idtxt="KALITEXT000031260456" titretxt="Fonctionnement de l'OPCA FAFIEC"/>
+<LIEN_TXT idtxt="KALITEXT000031260480" titretxt="Création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP)"/>
+<LIEN_TXT idtxt="KALITEXT000031260497" titretxt="Formation professionnelle et apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000031260575" titretxt="Commission paritaire nationale de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000031964500" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000032730090" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000036835606" titretxt="Commission paritaire permanente de négociation et d'interprétation (CPPNI)"/>
+<LIEN_TXT idtxt="KALITEXT000038115633" titretxt="Missions de l'ADESATT et financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000039748302" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000041549497" titretxt="Formation professionnelle, développement des compétences et employabilité"/>
+<LIEN_TXT idtxt="KALITEXT000041788859" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000042085741" titretxt="Sécurisation des parcours professionnels des acteurs du dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000042085809" titretxt="Liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000042258095" titretxt="Modification de l'accord du 31 octobre 2019 (formation professionnelle)"/>
+<LIEN_TXT idtxt="KALITEXT000042668864" titretxt="Commission paritaire TPE et PME"/>
+<LIEN_TXT idtxt="KALITEXT000042597920" titretxt="Dispositif spécifique d'activité partielle"/>
+<LIEN_TXT idtxt="KALITEXT000042705384" titretxt="Modification de l'accord du 30 janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043104130" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043145685" titretxt="Avenant n° 4 à l'accord du 7 octobre 2015 (complémentaire santé)"/>
+<LIEN_TXT idtxt="KALITEXT000043929421" titretxt="Adhésion de la CFTC MEDIA+ à l'accord du 7 octobre 2015"/>
+<LIEN_TXT idtxt="KALITEXT000044159279" titretxt="ADESATT et financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000045110196" titretxt="Innovation et performance sociale"/>
+<LIEN_TXT idtxt="KALITEXT000046033534" titretxt="Statut des salariés du secteur de l'événementiel"/>
+<LIEN_TXT idtxt="KALITEXT000046033552" titretxt="CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000046033571" titretxt="Révision de la CCN"/>
+<LIEN_TXT idtxt="KALITEXT000047006854" titretxt="Enquêteurs (annexe IV)"/>
+<LIEN_TXT idtxt="KALITEXT000047006904" titretxt="Modifications de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000047007009" titretxt="Formation professionnelle, développement des compétences et à l'employabilité"/>
+<LIEN_TXT idtxt="KALITEXT000047348314" titretxt="Interruption spontanée de grossesse"/>
+<LIEN_TXT idtxt="KALITEXT000047348328" titretxt="Organisation hybride du travail en entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000047348407" titretxt="Durée du travail"/>
+<LIEN_TXT idtxt="KALITEXT000047348456" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000047551135" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000048150692" titretxt="Sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000048974817" titretxt="Catégories de bénéficiaires du régime de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000049300389" titretxt="Commission paritaire TPE et PME"/>
+<LIEN_TXT idtxt="KALITEXT000049300374" titretxt="Complémentaire santé portant revalorisation des cotisations"/>
+<LIEN_TXT idtxt="KALITEXT000049620629" titretxt="Lutte contre le harcèlement sexuel et les agissements sexistes au travail"/>
+<LIEN_TXT idtxt="KALITEXT000051447093" titretxt="Complémentaire santé portant revalorisation des cotisations"/>
+<LIEN_TXT idtxt="KALITEXT000051537723" titretxt="Rectificatif à l'avenant n° 7 du 18 décembre 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005679990" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005679992" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005679994" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005679996" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005679998" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680000" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680002" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680004" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680006" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680008" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680010" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680012" titretxt="Salaires (ETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000005680014" titretxt="Salaires (ingénieurs et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005680016" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680018" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680020" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005680022" titretxt="Salaires (ETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000017855695" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019861267" titretxt="Salaires ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000019861275" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023105054" titretxt="Salaires (ETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000023105061" titretxt="Salaires (ingénieurs et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000023157839" titretxt="relatif aux salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000024683670" titretxt="Rémunérations minimales des apprentis"/>
+<LIEN_TXT idtxt="KALITEXT000025167910" titretxt="Salaires minimaux conventionnels (ETAM) "/>
+<LIEN_TXT idtxt="KALITEXT000025167917" titretxt="Salaires minimaux conventionnels (ingénieurs et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000027757139" titretxt="Salaires minimaux (ETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000027757146" titretxt="Salaires minimaux (Ingénieurs et cadres) "/>
+<LIEN_TXT idtxt="KALITEXT000035330676" titretxt="Minima conventionnels ETAM/Ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000041549573" titretxt="Salaires minima hiérarchiques"/>
+<LIEN_TXT idtxt="KALITEXT000046033597" titretxt="Salaires minimaux hiérarchiques au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046744408" titretxt="Salaires minimaux hiérarchiques"/>
+<LIEN_TXT idtxt="KALITEXT000046744424" titretxt="Salaires minimaux hiérarchiques (ETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000050228699" titretxt="Salaires minimaux au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005680024" titretxt="ARRETE du 13 avril 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005680026" titretxt="ARRETE du 9 mars 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005680028" titretxt="ARRETE du 3 octobre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005680030" titretxt="ARRETE du 18 octobre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005680032" titretxt="ARRETE du 13 mars 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005680034" titretxt="ARRETE du 18 octobre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005680036" titretxt="ARRETE du 2 janvier 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005680038" titretxt="ARRETE du 22 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005680040" titretxt="ARRETE du 27 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005680042" titretxt="ARRETE du 15 septembre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005680044" titretxt="ARRETE du 16 avril 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005680046" titretxt="ARRETE du 8 février 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005680048" titretxt="ARRETE du 13 février 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005680051" titretxt="ARRETE du 20 juillet 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005680053" titretxt="ARRETE du 30 mars 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005680055" titretxt="ARRETE du 31 mars 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005680057" titretxt="ARRETE du 21 mai 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005680059" titretxt="ARRETE du 19 juillet 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005680061" titretxt="ARRETE du 21 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005680063" titretxt="ARRETE du 25 février 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005680065" titretxt="ARRETE du 10 novembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005680067" titretxt="ARRETE du 10 novembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005680069" titretxt="ARRETE du 17 avril 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005680071" titretxt="ARRETE du 30 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005680073" titretxt="ARRETE du 11 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005680075" titretxt="ARRETE du 15 novembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005680077" titretxt="ARRETE du 8 février 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005680079" titretxt="ARRETE du 8 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005680081" titretxt="ARRETE du 19 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005680083" titretxt="ARRETE du 2 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005680085" titretxt="ARRETE du 2 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005680087" titretxt="ARRETE du 30 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005680089" titretxt="ARRETE du 16 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005680091" titretxt="ARRETE du 26 octobre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005680093" titretxt="ARRETE du 11 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680095" titretxt="ARRETE du 13 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680097" titretxt="ARRETE du 3 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680099" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680101" titretxt="ARRETE du 6 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680103" titretxt="ARRETE du 6 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005680105" titretxt="ARRETE du 23 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005680107" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005680109" titretxt="ARRETE du 17 octobre 2006"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3018</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

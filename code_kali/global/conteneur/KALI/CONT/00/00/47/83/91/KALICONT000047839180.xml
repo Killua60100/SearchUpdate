@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000047839180</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3243</NUM>
+
+<DATE_PUBLI>2023-08-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000045397019" titretxt="Convention collective nationale du 24 novembre 2021"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046287993" titretxt="Promotion par alternance (« Pro-A »)"/>
+<LIEN_TXT idtxt="KALITEXT000048975128" titretxt="Mise en œuvre dispositif-type d'intéressement"/>
+<LIEN_TXT idtxt="KALITEXT000049916779" titretxt="Dispositif-type d'intéressement"/>
+<LIEN_TXT idtxt="KALITEXT000050141007" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000050391623" titretxt="Reconversion ou promotion par alternance « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000050974910" titretxt="Modification de l'article 9 B de la convention collective"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000049612209" titretxt="Salaires minima au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051315280" titretxt="Salaires minima hiérarchiques au 1er avril 2025 "/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison (commerces)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3389</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625651</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625651.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625651" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I.16.1. Formation chef d'équipe de prévention incendie industriel</p>
+<p>Il maintient la formation de son équipe suivant la spécificité du site.<br/>
+Il entraîne l'équipe et programme des exercices :<br/>
+– d'évacuation du personnel par bâtiment ;<br/>
+– d'intervention pour secours aux personnes blessés ou malades ;<br/>
+– d'intervention de lutte contre le feu (méthodes + moyens matériels) ;<br/>
+– de mise en œuvre du plan d'opération interne.</p>
+<p>Mise en place de la prestation</p>
+<p>Il veille à la sauvegarde des personnes et à la protection des biens, pour cela :<br/>
+– il attribue les activités missions aux agents présents sur les postes ;<br/>
+– il supervise la délivrance des permis de feu et de la mise en situation de sécurité de toutes les zones en travaux sur le site ;<br/>
+– il met hors et en service la détection incendie dans la zone concernée sous la responsabilité du représentant client du site ;<br/>
+– il organise les visites de prévention incendie ;<br/>
+– il organise les essais prévus des installations incendie ;<br/>
+– il organise la vérification des matériels de prévention et de protection ;<br/>
+– il supervise les circuits de vérification (rondes) suivant la consigne en cours.</p>
+<p>Exploitation du poste central de sécurité incendie</p>
+<p>Il gère le poste central de sécurité, et en assure la supervise et coordonne la gestion du PCS :<br/>
+– coordination et la gestion technique centralisée ;<br/>
+– il réceptionne les différents flux d'informations transitant sur l'ensemble du poste par l'intermédiaire des gestions informatisées, surveillance vidéo, moyens de communication (téléphone, interphone, portatif radio) ;<br/>
+– il appelle recours si nécessaire au personnel d'astreinte de la maintenance technique ou de la sécurité ;<br/>
+– il transmet des alertes et demande des moyens d'interventions extérieurs en cas de nécessité (PPI) ;<br/>
+– il réceptionne les alarmes, et application de la procédure appropriée au travers des consignes ;<br/>
+– il rédige et tient rédaction et tenue à jour de la main courante en notant tous les faits et événements survenus.</p>
+<p>Coordination des interventions</p>
+<p>Il encadre et dirige son équipe afin d'assurer la sécurité sauvegarder les personnes présentes sur le site d'affectation et lutter contre les feux risques liés à l'exploitation de ce site.</p>
+<p>Pour chaque intervention :<br/>
+– il analyse la situation d'urgence ;<br/>
+– il fait appliquer la marche générale des opérations ;<br/>
+– en fin d'intervention, il rend compte au client et à sa hiérarchie.</p>
+<p>Il connaît :<br/>
+1. Les techniques et l'utilisation de matériels propres au secourisme en équipe.<br/>
+2. Les opérations de sauvetage en milieu industriel.<br/>
+3. Les effets des incendies et des explosions.<br/>
+4. Les facteurs aggravants lors d'une intervention.<br/>
+5. L'organisation des secours du site d'affectation (consignes et plans).<br/>
+6. Les plans d'urgence.</p>
+<p>Contrôle et suivi de la prestation de son équipe :<br/>
+– la ponctualité ;<br/>
+– la bonne tenue ;<br/>
+– la bonne exécution des tâches confiées, et l'application des consignes ;<br/>
+– les connaissances des agents ayant suivi des formations dans les centres ou organismes agréés, et propose des recyclages pour les remises à niveau ;<br/>
+– la prestation des agents et leur efficacité dans les missions confiées.</p>
+<p>Il doit savoir présenter un tableau des compétences du personnel de sécurité incendie.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

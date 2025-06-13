@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635191</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635191.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale du commerce et de la réparation de l'automobile, du cycle et du motocycle et des activités connexes, ainsi que du contrôle technique automobile du 15 janvier 1981. Etendue par arrêté du 30 octobre 1981 JONC 3 décembre 1981.</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1090</NUM>
+
+<DATE_PUBLI>1981-04-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005685156" titretxt="Convention collective nationale du 15 janvier 1981"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005685203" titretxt="ANNEXE I -  Clauses applicables exclusivement dans les établissements de formation des conducteurs et d'éducation à la sécurité routière"/>
+<LIEN_TXT idtxt="KALITEXT000005685205" titretxt="Annexe II -  Application de la convention collective nationale du 15 janvier 1981 au personnel des établissements de formation des conducteurs et d'éducation à la sécurité routière "/>
+<LIEN_TXT idtxt="KALITEXT000005685207" titretxt="ANNEXE III -  Gestion des régimes complémentaires de prévoyance applicables aux salariés des établissements de formation des conducteurs et d'éducation à la sécurité routière Avenant n° 20 bis du 23 novembre 1993 "/>
+<LIEN_TXT idtxt="KALITEXT000005685172" titretxt="Annexe 2-2 - application des 35 heures par attribution de jours de repos "/>
+<LIEN_TXT idtxt="KALITEXT000005685174" titretxt="Annexe 2-3 - annualisation des horaires de travail  "/>
+<LIEN_TXT idtxt="KALITEXT000005685176" titretxt="Accès au bénéfice des allégements de cotisations liés à la réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000025273753" titretxt="Annexe : Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000030369873" titretxt="Annexe : Dispositions sur le dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000005685184" titretxt="Réduction et aménagement du temps de travail "/>
+<LIEN_TXT idtxt="KALITEXT000005685186" titretxt="Formation professionnelle des jeunes "/>
+<LIEN_TXT idtxt="KALITEXT000005685192" titretxt="Actions et moyens de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005685150" titretxt="APASCA - Association paritaire d'action sociale et culturelle de l'automobile, du cycle et du motocycle "/>
+<LIEN_TXT idtxt="KALITEXT000005685152" titretxt="Statuts de l'APASCA Accord annexe à l'avenant n° 11 du 26 juillet 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685154" titretxt="Classification Avenant n° 13 du 29 mai 1986 Dispositions transitoires "/>
+<LIEN_TXT idtxt="KALITEXT000005685200" titretxt="Formation professionnelle - Résolution  "/>
+<LIEN_TXT idtxt="KALITEXT000005685194" titretxt="Formation professionnelle des jeunes salariés de moins de 26 ans  "/>
+<LIEN_TXT idtxt="KALITEXT000005685196" titretxt="Formation professionnelle des jeunes salariés de moins de 26 ans  - Annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005685198" titretxt="Formation professionnelle des jeunes salariés de moins de 26 ans  - Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005685180" titretxt="Valorisation de la carrière et de la qualification des salariés  "/>
+<LIEN_TXT idtxt="KALITEXT000005685182" titretxt="Création et reconnaissance de certificats de qualification professionnelle  "/>
+<LIEN_TXT idtxt="KALITEXT000005685215" titretxt="Formation-qualification "/>
+<LIEN_TXT idtxt="KALITEXT000005685217" titretxt="Formation professionnelle dans les entreprises artisanales de la branche du commerce et de la réparation automobile "/>
+<LIEN_TXT idtxt="KALITEXT000005685219" titretxt="Formation professionnelle dans les entreprises artisanales. Annexe. - Règlement intérieur de la section paritaire particulière n° 2"/>
+<LIEN_TXT idtxt="KALITEXT000005685223" titretxt="Financement de la formation dans les entreprises artisanales (Pour l'exercice 1989)"/>
+<LIEN_TXT idtxt="KALITEXT000005685213" titretxt="Certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005685225" titretxt="Liste des diplômes et titres qualifiants "/>
+<LIEN_TXT idtxt="KALITEXT000005685221" titretxt="Participation à la formation professionnelle dans l'artisanat (entreprises de moins de 10 salariés) "/>
+<LIEN_TXT idtxt="KALITEXT000005685227" titretxt="Promotion des premières formations technologiques et professionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000005685231" titretxt="Contrats d'objectifs professionnels régionaux "/>
+<LIEN_TXT idtxt="KALITEXT000005685209" titretxt="Création d'un fonds d'assurance formation "/>
+<LIEN_TXT idtxt="KALITEXT000047404007" titretxt="Missions confiées au GNFA"/>
+<LIEN_TXT idtxt="KALITEXT000005685233" titretxt="Réduction de la durée hebdomadaire du travail "/>
+<LIEN_TXT idtxt="KALITEXT000005685235" titretxt="Organisation du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005685249" titretxt="Annexe I Règlement général - Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685251" titretxt="Annexe II RPS - Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685253" titretxt="Prévoyance - Règlement du régime professionnel obligatoire (RPO)"/>
+<LIEN_TXT idtxt="KALITEXT000005685257" titretxt="Prévoyance - Règlement du fonds social"/>
+<LIEN_TXT idtxt="KALITEXT000005685247" titretxt="Régimes professionnels obligatoires et supplémentaires de prévoyance gérés par l'I.P.S.A."/>
+<LIEN_TXT idtxt="KALITEXT000005685237" titretxt="Formation continue - Fongibilité des ressources "/>
+<LIEN_TXT idtxt="KALITEXT000005685259" titretxt="Cessation anticipée d'activité des salariés totalisant 160 trimestres ou plus de cotisations d'assurance vieillesse "/>
+<LIEN_TXT idtxt="KALITEXT000005685245" titretxt="Protocole de conciliation"/>
+<LIEN_TXT idtxt="KALITEXT000005685239" titretxt="Formation professionnelle continue (entreprises de moins de 10 salariés) "/>
+<LIEN_TXT idtxt="KALITEXT000005685243" titretxt="Agrément des actions de formation professionnelle continue et des primes de formation  qualification  "/>
+<LIEN_TXT idtxt="KALITEXT000005685267" titretxt="Réduction et modulation de la durée du travail  "/>
+<LIEN_TXT idtxt="KALITEXT000005685269" titretxt="Réduction et modulation de la durée du travail - Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005685261" titretxt="Réduction - Annualisation de la durée du travail "/>
+<LIEN_TXT idtxt="KALITEXT000005685263" titretxt="Emploi et  temps de travail Avenant n° 27 du 28 mai 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685241" titretxt="Capital temps de formation  "/>
+<LIEN_TXT idtxt="KALITEXT000005685271" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs "/>
+<LIEN_TXT idtxt="KALITEXT000005685273" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs - Règlement général"/>
+<LIEN_TXT idtxt="KALITEXT000005685275" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs - Règlement du régime professionnel obligatoire (RPO)"/>
+<LIEN_TXT idtxt="KALITEXT000005685277" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs - Règlement du régime professionnel supplémentaire (RPS) "/>
+<LIEN_TXT idtxt="KALITEXT000005685279" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs - Règlement de la garantie indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000005685281" titretxt="Cessation anticipée d'activité  "/>
+<LIEN_TXT idtxt="KALITEXT000005685295" titretxt="Régime de prévoyance des services de l'automobile, à l'exclusion des établissements de formation des conducteurs et des centres de formation des moniteurs"/>
+<LIEN_TXT idtxt="KALITEXT000005685300" titretxt="Institutions de prévoyance des salariés de l'automobile, du cycle et du motocycle (IPSA) -  Règlement du régime professionnel obligatoire(RPO)"/>
+<LIEN_TXT idtxt="KALITEXT000005685302" titretxt="Institutions de prévoyance des salariés de l'automobile, du cycle et du motocycle (IPSA) -  Règlement du régime professionnel supplémentaire (RPS)"/>
+<LIEN_TXT idtxt="KALITEXT000005685298" titretxt="Institutions de prévoyance des salariés de l'automobile, du cycle et du motocycle (IPSA) -  Règlement général"/>
+<LIEN_TXT idtxt="KALITEXT000005685285" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs et les centres de formation des moniteurs  RÈGLEMENT GÉNÉRAL"/>
+<LIEN_TXT idtxt="KALITEXT000005685306" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs et les centres de formation des moniteurs  RÈGLEMENT DU RÉGIME PROFESSIONNEL OBLIGATOIRE (RPO)"/>
+<LIEN_TXT idtxt="KALITEXT000005685304" titretxt="Régimes de prévoyance applicables dans les établissements de formation des conducteurs et les centres de formation des moniteurs"/>
+<LIEN_TXT idtxt="KALITEXT000005685283" titretxt="Adaptation de la convention collective nationale  aux nouvelles nécessités sd'organisation du travail "/>
+<LIEN_TXT idtxt="KALITEXT000005685265" titretxt="Développement de l'emploi en contrepartie de la cessation d'activité des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000005685291" titretxt="Certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000039333409" titretxt="Avenant du 31 mars 2000 à l'accord national du 18 décembre 1998 (35 heures)"/>
+<LIEN_TXT idtxt="KALITEXT000005685289" titretxt="Salaires  "/>
+<LIEN_TXT idtxt="KALITEXT000005685293" titretxt="Liste des diplômes et titres qualifiants  Avenant n° 5 du 18 mai 2000 à l'accord national paritaire du 24 juin 1992"/>
+<LIEN_TXT idtxt="KALITEXT000018562800" titretxt="Contrats d'objectifs professionnels régionaux Accord du 27 juin 2000 "/>
+<LIEN_TXT idtxt="KALITEXT000005685318" titretxt="Prévoyance - Règlements  "/>
+<LIEN_TXT idtxt="KALITEXT000005685316" titretxt="Prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005685314" titretxt="Capital fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000005685322" titretxt="Fonctionnement du paritarisme "/>
+<LIEN_TXT idtxt="KALITEXT000005685326" titretxt="Dérogation particulière à la mutualisation des indemnités de départ à la retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005685328" titretxt="CEASACM "/>
+<LIEN_TXT idtxt="KALITEXT000005685330" titretxt="Prestations « maladie de longue durée » et « invalidité » "/>
+<LIEN_TXT idtxt="KALITEXT000005685312" titretxt="Protection sociale complémentaire - Redéploiement  Avenant n° 33 du 16 novembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005685308" titretxt="Désignation de l'organisme gestionnaire de l'épargne salariale"/>
+<LIEN_TXT idtxt="KALITEXT000005685332" titretxt="Epargne salariale et création d'Inter-Auto-Plan"/>
+<LIEN_TXT idtxt="KALITEXT000005685310" titretxt="Epargne salariale  Avenant n° 34 du 27 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685334" titretxt="Règlement d'Inter-Auto-Plan - Rectificatif au règlement du 27 juin 2002 Avenant du 6 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685336" titretxt="Qualifications et classifications professionnelles  Avenant n° 35 du 6 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685338" titretxt="Répertoire national des qualifications des services de l'automobile (RNQSA) - Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005685340" titretxt="Certificats de qualification professionnelle Avenant n° 1 du 23 avril 2003 à l'accord du 27 octobre 1999 "/>
+<LIEN_TXT idtxt="KALITEXT000005685342" titretxt="Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685344" titretxt="Garanties supplémentaires de prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685346" titretxt="Modification du règlement d'Inter-Auto-Plan"/>
+<LIEN_TXT idtxt="KALITEXT000005685348" titretxt="Epargne salariale  Avenant n° 34 bis du 24 septembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685350" titretxt="Modification des statuts du CESA"/>
+<LIEN_TXT idtxt="KALITEXT000005685352" titretxt="Fonctionnement du paritarisme  Avenant n° 3 du 29 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685356" titretxt="Formation à la prévention des risques liés à l'amiante  Avenant du 19 novembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685368" titretxt="Fonctionnement du paritarisme "/>
+<LIEN_TXT idtxt="KALITEXT000005685362" titretxt="Travail de nuit et régime d'équivalence  "/>
+<LIEN_TXT idtxt="KALITEXT000005685358" titretxt="Certificats de qualification professionnelle "/>
+<LIEN_TXT idtxt="KALITEXT000005685364" titretxt="Qualifications professionnelles  "/>
+<LIEN_TXT idtxt="KALITEXT000005685372" titretxt="Départ à la retraite "/>
+<LIEN_TXT idtxt="KALITEXT000005685370" titretxt="Mise à la retraite "/>
+<LIEN_TXT idtxt="KALITEXT000005685376" titretxt="Mise à la retraite "/>
+<LIEN_TXT idtxt="KALITEXT000005685378" titretxt="Contrats et périodes de professionnalisation  "/>
+<LIEN_TXT idtxt="KALITEXT000005685394" titretxt="Paritarisme "/>
+<LIEN_TXT idtxt="KALITEXT000005685386" titretxt="Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685388" titretxt="Dialogue paritaire de branche "/>
+<LIEN_TXT idtxt="KALITEXT000005685396" titretxt="APASCA  Avenant n° 41 du 28 septembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685400" titretxt="Dialogue social  "/>
+<LIEN_TXT idtxt="KALITEXT000005685424" titretxt="Adhésion de la fédération des commerces et des services UNSA à la convention collective "/>
+<LIEN_TXT idtxt="KALITEXT000005685402" titretxt="Statuts de l'IPSA   Avenant n° 1 du 9 décembre 2004 à l'accord du 15 mars 2001 "/>
+<LIEN_TXT idtxt="KALITEXT000005685404" titretxt="Statuts du CESA Avenant n° 4 du 9 décembre 2004 à l'accord du 16 novembre 2000 "/>
+<LIEN_TXT idtxt="KALITEXT000005685406" titretxt="Prévoyance - règlements Avenant n° 8 du 9 décembre 2004 à l'accord du 16 novembre 2000 "/>
+<LIEN_TXT idtxt="KALITEXT000005685412" titretxt="Validation des acquis de l'expérience"/>
+<LIEN_TXT idtxt="KALITEXT000005685410" titretxt="Entretien professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000005685408" titretxt="Droit individuel à la formation"/>
+<LIEN_TXT idtxt="KALITEXT000005685418" titretxt="Règlement d'Inter-Auto-Plan "/>
+<LIEN_TXT idtxt="KALITEXT000005685420" titretxt="Epargne salariale  "/>
+<LIEN_TXT idtxt="KALITEXT000005685422" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005685428" titretxt="Modification des statuts de l'ANFA (formation professionnelle) Avenant n° 7 du 24 mars 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685426" titretxt="Dialogue social "/>
+<LIEN_TXT idtxt="KALITEXT000005685431" titretxt="Prévoyance - Règlements RGP et RPO  "/>
+<LIEN_TXT idtxt="KALITEXT000005685433" titretxt="Sauvegarde du régime professionnel de protection sociale Avenant n° 45 du 13 septembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685437" titretxt="Travail du dimanche des vendeurs salariés de l'automobile sur la communauté d'agglomération de Rennes"/>
+<LIEN_TXT idtxt="KALITEXT000005685439" titretxt="Prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005685441" titretxt="Mise à jour du répertoire national des certifications (RNC)"/>
+<LIEN_TXT idtxt="KALITEXT000005685443" titretxt="Edition 2006 du RNQSA  "/>
+<LIEN_TXT idtxt="KALITEXT000005685445" titretxt="Financement de la formation professionnelle  "/>
+<LIEN_TXT idtxt="KALITEXT000005685457" titretxt="Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005685447" titretxt="Sauvegarde du régime professionnel de protection sociale "/>
+<LIEN_TXT idtxt="KALITEXT000005685449" titretxt="Domaine d'application des périodes de professionnalisation  Délibération paritaire n° 3-06 du 21 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685451" titretxt="Plan d'action pour le développement des compétences dans les ateliers de maintenance et de réparation  "/>
+<LIEN_TXT idtxt="KALITEXT000005685453" titretxt="Prévoyance - règlement du RPO Avenant n° 10 du 19 septembre 2006  à l'accord du 16 novembre 2000 "/>
+<LIEN_TXT idtxt="KALITEXT000005685455" titretxt="Repos dominical (Savoie) "/>
+<LIEN_TXT idtxt="KALITEXT000005685459" titretxt="Prévoyance  "/>
+<LIEN_TXT idtxt="KALITEXT000005685461" titretxt="Paritarisme "/>
+<LIEN_TXT idtxt="KALITEXT000005685463" titretxt="Action des partenaires sociaux "/>
+<LIEN_TXT idtxt="KALITEXT000017579191" titretxt="Travail du dimanche pour l'année 2007 (Rennes) Protocole d'accord du 16 janvier 2007"/>
+<LIEN_TXT idtxt="KALITEXT000017784353" titretxt="Paritarisme - CPN : modification des statuts  "/>
+<LIEN_TXT idtxt="KALITEXT000005685465" titretxt="Temps de déplacement professionnel "/>
+<LIEN_TXT idtxt="KALITEXT000017842663" titretxt="Contrats et périodes de professionnalisation "/>
+<LIEN_TXT idtxt="KALITEXT000017890017" titretxt="Actualisation du RNQSA et du RNC "/>
+<LIEN_TXT idtxt="KALITEXT000018122105" titretxt="Epargne salariale Inter-Auto-Plan "/>
+<LIEN_TXT idtxt="KALITEXT000018155060" titretxt="Règlement Inter-Auto-Plan "/>
+<LIEN_TXT idtxt="KALITEXT000020211151" titretxt="Adhésion du 29 juin 2007 de la FGMM CFDT à différents accords relatifs à l'épargne salariale"/>
+<LIEN_TXT idtxt="KALITEXT000018562430" titretxt="(Rennes) Travail du dimanche pour l'année 2007  "/>
+<LIEN_TXT idtxt="KALITEXT000018562825" titretxt="Renouvellement de l'accord du 27 juin 2000  "/>
+<LIEN_TXT idtxt="KALITEXT000018826866" titretxt="Formation professionnelle des jeunes "/>
+<LIEN_TXT idtxt="KALITEXT000019022096" titretxt="Mise à jour des certifications reconnues par la branche  "/>
+<LIEN_TXT idtxt="KALITEXT000020898242" titretxt="Réforme du bac professionnel  "/>
+<LIEN_TXT idtxt="KALITEXT000019074073" titretxt="(Rennes) Travail du dimanche pour l'année 2008 "/>
+<LIEN_TXT idtxt="KALITEXT000019460102" titretxt="Heures supplémentaires  "/>
+<LIEN_TXT idtxt="KALITEXT000019652488" titretxt="RNQSA et RNC pour 2009  Accord du 3 juillet 2008"/>
+<LIEN_TXT idtxt="KALITEXT000020041718" titretxt="Prévoyance  "/>
+<LIEN_TXT idtxt="KALITEXT000020041752" titretxt="Champ d'application de la convention  "/>
+<LIEN_TXT idtxt="KALITEXT000019747168" titretxt="(Rennes) Travail du dimanche pour l'année 2008 "/>
+<LIEN_TXT idtxt="KALITEXT000020608403" titretxt="Travail du dimanche pour l'année 2009 (Rennes)  Accord du 13 janvier 2009"/>
+<LIEN_TXT idtxt="KALITEXT000020549617" titretxt="Contrats d'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000020549604" titretxt="Périodes d'essai  "/>
+<LIEN_TXT idtxt="KALITEXT000021509670" titretxt="RNQSA et RNCSA pour l'année 2010"/>
+<LIEN_TXT idtxt="KALITEXT000021509679" titretxt="Règlements de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000021237315" titretxt="Parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000022378026" titretxt="Versements au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000022377999" titretxt="Règlements de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022168515" titretxt="Epargne salariale"/>
+<LIEN_TXT idtxt="KALITEXT000023348038" titretxt="Développement du dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000023363147" titretxt="Règlements de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000023363155" titretxt="Dispositions conventionnelles en matière de salaire et de formation-qualification"/>
+<LIEN_TXT idtxt="KALITEXT000022822584" titretxt="Travail du dimanche (Rennes)           "/>
+<LIEN_TXT idtxt="KALITEXT000023348019" titretxt="Missions de l'ANFA et du GNFA dans le cadre de la GPEC"/>
+<LIEN_TXT idtxt="KALITEXT000023363107" titretxt="RNQSA et RNCSA pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000023363136" titretxt="Capital de fin de carrière au bénéfice de certains salariés de moins de 60 ans"/>
+<LIEN_TXT idtxt="KALITEXT000023589640" titretxt="Fédération générale des mines et de la métallurgie"/>
+<LIEN_TXT idtxt="KALITEXT000023684768" titretxt="Repos dominical (Meurthe-et-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000024408370" titretxt="Travail du dimanche pour l'année 2011 (Rennes)"/>
+<LIEN_TXT idtxt="KALITEXT000023995528" titretxt="Versements au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000024401078" titretxt="Egalité professionnelle entre les femmes et les hommes et mixité des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000024454636" titretxt="Organisme assureur prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024575833" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000024454649" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024462014" titretxt="Activités et missions de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000024769874" titretxt="Adhésion de la CGT Métal"/>
+<LIEN_TXT idtxt="KALITEXT000024575842" titretxt="Droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000024575853" titretxt="CQP"/>
+<LIEN_TXT idtxt="KALITEXT000024575884" titretxt="Contrats et périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000024890923" titretxt="Répertoire des certifications et répertoire des qualifications pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000024890953" titretxt="DIF"/>
+<LIEN_TXT idtxt="KALITEXT000024890992" titretxt="VAE"/>
+<LIEN_TXT idtxt="KALITEXT000024891013" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024891026" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024891034" titretxt="Modification de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000025168261" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000025264374" titretxt="Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000026696106" titretxt="Travail du dimanche pour l'année 2012 (Rennes)"/>
+<LIEN_TXT idtxt="KALITEXT000025627190" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000025264388" titretxt="Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000025805035" titretxt="Contrat et période de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000025805049" titretxt="Droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000026167543" titretxt="Epargne salariale"/>
+<LIEN_TXT idtxt="KALITEXT000026287088" titretxt="Adhésion de la FPS à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000026271331" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000026383121" titretxt="Maintien dans l'emploi des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000026695699" titretxt="Règlements de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026695707" titretxt="Garanties obligatoires de prévoyance (IPSA)"/>
+<LIEN_TXT idtxt="KALITEXT000026695721" titretxt="Garanties obligatoires de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026803447" titretxt="RNQSA et au RNCSA au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000026804769" titretxt="CGT métallurgie"/>
+<LIEN_TXT idtxt="KALITEXT000027041185" titretxt="Versements au fonds paritaire de sécurisation des parcours professionnels pour l'année 2013"/>
+<LIEN_TXT idtxt="KALITEXT000027626448" titretxt="Travail du dimanche (Rennes)"/>
+<LIEN_TXT idtxt="KALITEXT000027608611" titretxt="Formation professionnelle des jeunes"/>
+<LIEN_TXT idtxt="KALITEXT000027608721" titretxt="Adhésion de la FTM CGT à l'accord du 24 janvier 2013 relatif à la formation professionnelle des jeunes"/>
+<LIEN_TXT idtxt="KALITEXT000027691802" titretxt="Capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000027909611" titretxt="RNQSA et RNCSA pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000027909607" titretxt="FPS"/>
+<LIEN_TXT idtxt="KALITEXT000028053362" titretxt="Taux de cotisations de prévoyance obligatoire pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000028319214" titretxt="Régime complémentaire de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028319241" titretxt="Régime professionnel complémentaire de santé (RPCS)"/>
+<LIEN_TXT idtxt="KALITEXT000028319267" titretxt="Portabilité des garanties du régime de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000028319282" titretxt="Adhésion de la FTM CGT aux accords du 19 septembre 2013"/>
+<LIEN_TXT idtxt="KALITEXT000028568474" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000028836851" titretxt="Statuts du CESA"/>
+<LIEN_TXT idtxt="KALITEXT000028836870" titretxt="Travail du dimanche pour l'année 2014 (Rennes)"/>
+<LIEN_TXT idtxt="KALITEXT000028836863" titretxt="Dénomination des institutions paritaires membres d'IRP AUTO"/>
+<LIEN_TXT idtxt="KALITEXT000029138665" titretxt="Repos dominical (Meurthe-et-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000029361361" titretxt="Droit à capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000029264456" titretxt="Adhésion de la FGMM CFDT à l'accord RPCS et à ses avenants n°s 66 et 66 bis"/>
+<LIEN_TXT idtxt="KALITEXT000029725048" titretxt="RNQSA et RNCSA pour l'année 2015"/>
+<LIEN_TXT idtxt="KALITEXT000029725065" titretxt="Taux de cotisations de prévoyance obligatoire pour l'année 2015"/>
+<LIEN_TXT idtxt="KALITEXT000029725072" titretxt="Fonctionnement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000029617114" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000029725086" titretxt="Conventions de forfait en jours"/>
+<LIEN_TXT idtxt="KALITEXT000029725099" titretxt="Classifications et qualifications professionnelles, insertion et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000030068541" titretxt="Statuts de l'IPSA"/>
+<LIEN_TXT idtxt="KALITEXT000030369860" titretxt="Dispenses d'affiliation au RPCS"/>
+<LIEN_TXT idtxt="KALITEXT000030482910" titretxt="Financement du dispositif de solidarité et de prévention du régime professionnel complémentaire de santé"/>
+<LIEN_TXT idtxt="KALITEXT000030482923" titretxt="Travail du dimanche des vendeurs salariés (Rennes)"/>
+<LIEN_TXT idtxt="KALITEXT000030641487" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000030777949" titretxt="Développement de l'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000030777963" titretxt="Droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000031260374" titretxt="Taux de cotisations de prévoyance obligatoire pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000031260381" titretxt="RNQSA pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000031260415" titretxt="Répertoire des certifications RNCSA pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000031260348" titretxt="Régime professionnel complémentaire de santé (RPCS)"/>
+<LIEN_TXT idtxt="KALITEXT000032073858" titretxt="Création d'une association paritaire dédiée aux actions de solidarité et de prévention"/>
+<LIEN_TXT idtxt="KALITEXT000032512652" titretxt="Modification des statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000032512687" titretxt="Garanties du régime professionnel complémentaire de santé (RPCS)"/>
+<LIEN_TXT idtxt="KALITEXT000033083992" titretxt="Capital de fin de carrière au bénéfice de certains salariés prenant avant 60 ans une retraite anticipée pour carrière longue"/>
+<LIEN_TXT idtxt="KALITEXT000033286068" titretxt="RNCSA et RNQSA pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000033286085" titretxt="Tarif des cotisations de prévoyance obligatoire pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000033286092" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000034076929" titretxt="Portabilité des prestations complémentaires de prévoyance et de santé"/>
+<LIEN_TXT idtxt="KALITEXT000033926386" titretxt="Statuts d'IRP Auto Prévoyance Santé"/>
+<LIEN_TXT idtxt="KALITEXT000033926289" titretxt="Epargne salariale"/>
+<LIEN_TXT idtxt="KALITEXT000034032362" titretxt="Contrats de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000034032377" titretxt="Certificats de qualification professionnel (CQP)"/>
+<LIEN_TXT idtxt="KALITEXT000034032425" titretxt="Validation des acquis de l'expérience (VAE)"/>
+<LIEN_TXT idtxt="KALITEXT000034672933" titretxt="Repos dominical (Meurthe-et-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000034991283" titretxt="Actualisation du RNQSA et du RNCSA"/>
+<LIEN_TXT idtxt="KALITEXT000035318162" titretxt="Capital de fin de carrière en cas de retraite anticipée"/>
+<LIEN_TXT idtxt="KALITEXT000035318172" titretxt="Santé et sécurité des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000035318195" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000035318205" titretxt="Santé et sécurité des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000035318184" titretxt="Commissions paritaires régionales"/>
+<LIEN_TXT idtxt="KALITEXT000035980274" titretxt="Mise en place de commissions paritaires régionales"/>
+<LIEN_TXT idtxt="KALITEXT000035980288" titretxt="Tarif des cotisations de prévoyance obligatoire pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000036026110" titretxt="RNCSA et RNQSA pour le second semestre 2017"/>
+<LIEN_TXT idtxt="KALITEXT000036026185" titretxt="Actualisation du RNQSA et du RNCSA"/>
+<LIEN_TXT idtxt="KALITEXT000036827592" titretxt="RNCSA et RNQSA pour le premier semestre 2018"/>
+<LIEN_TXT idtxt="KALITEXT000037547376" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000038268487" titretxt="Représentation des organisations professionnelles et syndicales"/>
+<LIEN_TXT idtxt="KALITEXT000037767747" titretxt="Actualisation de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000038201409" titretxt="Capital de fin de carrière en cas de retraite anticipée"/>
+<LIEN_TXT idtxt="KALITEXT000038201419" titretxt="RNCSA et RNQSA pour le deuxième semestre 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038283122" titretxt="RNCSA et RNQSA pour le deuxième semestre 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038550581" titretxt="RNCSA et RNQSA premier semestre 2019"/>
+<LIEN_TXT idtxt="KALITEXT000038550596" titretxt="Actualisation de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000038753832" titretxt="Tarif des cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000038881394" titretxt="Prime d'intégration"/>
+<LIEN_TXT idtxt="KALITEXT000039097257" titretxt="Capital de fin de carrière en cas de retraite anticipée"/>
+<LIEN_TXT idtxt="KALITEXT000039179003" titretxt="Dispositif de reconversion ou promotion par l'alternance dit « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000039288508" titretxt="RNCSA et RNQSA pour le deuxième semestre 2019"/>
+<LIEN_TXT idtxt="KALITEXT000039288529" titretxt="Tarif des cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000041439618" titretxt="Cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000041439627" titretxt="Droit au capital de fin de carrière (retraite anticipée)"/>
+<LIEN_TXT idtxt="KALITEXT000041439636" titretxt="Cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000041458656" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000041458694" titretxt="Régime professionnel complémentaire de santé (RPCS)"/>
+<LIEN_TXT idtxt="KALITEXT000041698348" titretxt="Reconversion ou promotion par alternance dit « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000041973046" titretxt="RNCSA et RNQSA pour le premier semestre 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042096237" titretxt="Conditions exceptionnelles (Covid-19)"/>
+<LIEN_TXT idtxt="KALITEXT000042258038" titretxt="Modification anticipée fiche de qualification B.9.1 du RNQSA"/>
+<LIEN_TXT idtxt="KALITEXT000042258052" titretxt="Ouverture temporaire d'un droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000042258067" titretxt="Organisation des jurys CQP (Covid-19)"/>
+<LIEN_TXT idtxt="KALITEXT000042370374" titretxt="RNCSA et RNQSA pour le second semestre 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042597882" titretxt="Organisation des jurys CQP (Covid-19)"/>
+<LIEN_TXT idtxt="KALITEXT000043074607" titretxt="Cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000043234350" titretxt="Cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000043510668" titretxt="RNCSA et RNQSA pour le 1er semestre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000043510649" titretxt="Travail le dimanche (Seine-Maritime)"/>
+<LIEN_TXT idtxt="KALITEXT000043954727" titretxt="Modification anticipée d'une fiche de qualification du RNQSA"/>
+<LIEN_TXT idtxt="KALITEXT000043954741" titretxt="Ouverture temporaire d'un droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000044065052" titretxt="« Plan jeunes » 2021-2025"/>
+<LIEN_TXT idtxt="KALITEXT000043954756" titretxt="Congés exceptionnels pour événements personnels"/>
+<LIEN_TXT idtxt="KALITEXT000044226026" titretxt="RNCSA et RNQSA pour le 2d semestre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000044942717" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000044942749" titretxt="Cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000045372765" titretxt="RNCSA et RNQSA premier semestre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046099843" titretxt="Capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000046099775" titretxt="Gestion prévisionnelle de l'emploi et des compétences (GPEC)"/>
+<LIEN_TXT idtxt="KALITEXT000046106626" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000046288082" titretxt="Mise à jour du RNCSA et fiches RNQSA pour le second semestre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046657016" titretxt="Dispositif « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000046657038" titretxt="Validation d'une modification de statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000046744351" titretxt="Prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000047348090" titretxt="RNCSA et RNQSA premier semestre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047537339" titretxt="Modification anticipée du RNQSA"/>
+<LIEN_TXT idtxt="KALITEXT000047537356" titretxt="Statuts de l'ANFA"/>
+<LIEN_TXT idtxt="KALITEXT000047792457" titretxt="Droit au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000047792474" titretxt="Tarif des cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000048051918" titretxt="RNCSA et RNQSA pour le second semestre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049095048" titretxt="RNCSA et RNQSA pour le premier semestre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049095073" titretxt="Règlements de prévoyance (RPO)"/>
+<LIEN_TXT idtxt="KALITEXT000049620572" titretxt="Modification du champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000049870092" titretxt="Droit temporaire au capital de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000050140738" titretxt="RNCSA et RNQSA pour le second semestre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050506544" titretxt="Catégories objectives de salariés pour le bénéfice de garanties supplémentaires de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000050506559" titretxt="Tarif des cotisations de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000050506574" titretxt="Congés exceptionnels pour évènements personnels (articles 2.09 et 4.07 de la convention collective)"/>
+<LIEN_TXT idtxt="KALITEXT000051294955" titretxt="RNCSA et RNQSA pour le 1er semestre 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051294970" titretxt="Règlement général de prévoyance (RGP) et régime professionnel obligatoire (RPO)"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005685467" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685469" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685471" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685473" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685475" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685477" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685479" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685481" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685483" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685485" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685487" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685489" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685491" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005685493" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685495" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005685497" titretxt="Salaires "/>
+<LIEN_TXT idtxt="KALITEXT000005685499" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005685501" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005685503" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005685505" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018043432" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019652475" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021802310" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022271331" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023330576" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000024769882" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000027041195" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000028313684" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000029725320" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000031260361" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000033286166" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000036231735" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000038201435" titretxt="Salaires minima 2019"/>
+<LIEN_TXT idtxt="KALITEXT000039358189" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000043709942" titretxt="Salaires minima au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000044463222" titretxt="Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000044942765" titretxt="Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046054723" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000046744362" titretxt="Salaires minima au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047416099" titretxt="Salaires minima au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047792485" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000049300360" titretxt="Salaires minima au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050792261" titretxt="Salaires minima au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005685507" titretxt="ARRETE du 30 octobre 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005685509" titretxt="ARRETE du 20 janvier 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005685511" titretxt="ARRETE du 10 mars 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005685513" titretxt="Arrêté du 26 décembre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005685515" titretxt="ARRETE du 11 octobre 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005685517" titretxt="ARRETE du 8 mars 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685519" titretxt="ARRETE du 29 mars 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685521" titretxt="ARRETE du 21 mai 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685523" titretxt="ARRETE du 16 juillet 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685525" titretxt="ARRETE du 6 août 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685527" titretxt="ARRETE du 27 novembre 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005685529" titretxt="ARRETE du 22 mai 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005685531" titretxt="ARRETE du 1 juillet 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005685533" titretxt="ARRETE du 4 juillet 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005685535" titretxt="ARRETE du 12 mars 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005685537" titretxt="ARRETE du 27 juillet 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005685539" titretxt="ARRETE du 4 novembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005685541" titretxt="ARRETE du 26 décembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005685543" titretxt="ARRETE du 21 février 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005685545" titretxt="ARRETE du 21 avril 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005685547" titretxt="ARRETE du 3 octobre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005685549" titretxt="ARRETE du 20 juillet 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005685551" titretxt="ARRETE du 9 octobre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005685553" titretxt="ARRETE du 5 décembre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005685555" titretxt="ARRETE du 23 septembre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005685557" titretxt="ARRETE du 6 juillet 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005685559" titretxt="ARRETE du 14 août 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005685561" titretxt="ARRETE du 10 décembre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005685563" titretxt="ARRETE du 4 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005685565" titretxt="ARRETE du 13 mai 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005685568" titretxt="ARRETE du 12 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005685570" titretxt="ARRETE du 21 décembre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005685572" titretxt="ARRETE du 20 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005685574" titretxt="ARRETE du 3 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005685576" titretxt="ARRETE du 3 juin 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005685578" titretxt="ARRETE du 10 juin 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005685580" titretxt="ARRETE du 27 juillet 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005685582" titretxt="ARRETE du 27 janvier 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685584" titretxt="ARRETE du 8 février 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685586" titretxt="ARRETE du 8 février 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685588" titretxt="ARRETE du 8 février 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685590" titretxt="ARRETE du 12 février 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685592" titretxt="ARRETE du 13 mai 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685594" titretxt="ARRETE du 28 mai 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685596" titretxt="ARRETE du 17 juin 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685598" titretxt="ARRETE du 16 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685600" titretxt="ARRETE du 18 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685602" titretxt="ARRETE du 22 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685604" titretxt="ARRETE du 22 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685606" titretxt="ARRETE du 24 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685608" titretxt="ARRETE du 10 juillet 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005685610" titretxt="ARRETE du 7 août 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005685612" titretxt="ARRETE du 12 octobre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005685614" titretxt="ARRETE du 26 janvier 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005685616" titretxt="ARRETE du 17 février 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005685618" titretxt="ARRETE du 9 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005685620" titretxt="ARRETE du 26 juin 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005685622" titretxt="ARRETE du 11 octobre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005685624" titretxt="ARRETE du 11 juillet 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005685626" titretxt="ARRETE du 22 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005685628" titretxt="ARRETE du 26 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005685630" titretxt="ARRETE du 11 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685632" titretxt="ARRETE du 11 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685634" titretxt="ARRETE du 2 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685636" titretxt="ARRETE du 26 mars 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685638" titretxt="ARRETE du 30 avril 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685640" titretxt="ARRETE du 2 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685642" titretxt="ARRETE du 3 mars 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685644" titretxt="ARRETE du 9 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685646" titretxt="ARRETE du 7 mai 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685648" titretxt="ARRETE du 5 août 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685650" titretxt="ARRETE du 10 novembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685652" titretxt="ARRETE du 15 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685654" titretxt="ARRETE du 14 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685656" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685658" titretxt="ARRETE du 11 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685660" titretxt="ARRETE du 18 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685662" titretxt="ARRETE du 20 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685664" titretxt="ARRETE du 26 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685666" titretxt="ARRETE du 3 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685668" titretxt="ARRETE du 23 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685670" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685672" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685674" titretxt="ARRETE du 21 novembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685676" titretxt="ARRETE du 12 février 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005685678" titretxt="ARRETE du 15 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005685680" titretxt="ARRETE du 16 juillet 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Services de l'automobile (Commerce et réparation de l'automobile, du cycle et du motocycle, activités connexes, contrôle technique automobile, formation des conducteurs)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3034</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

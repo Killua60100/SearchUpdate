@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047865928</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/86/59/KALIARTI000047865928.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Collecte des cotisations</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-04-14</DATE_DEBUT>
+<DATE_FIN>2025-06-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000047865919" date_publi="2999-01-01" date_signature="2023-04-14" nature="Accord" nor="ASET2350639M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2023-04-14" fin="2999-01-01" id_txt="KALITEXT000047865919">Accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005636008" date_publi="1995-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1850" titre="Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996" url="conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051691530" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2025-06-01" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000051691460" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-04-14" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000047865928" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'ADDSA a en charge la contractualisation ou la résiliation de toute convention avec un ou plusieurs organismes ou sociétés afin de confier la mission de collecter et recouvrer la cotisation à la charge des employeurs tant pour le personnel non-avocat que pour les avocats salariés.</p>
+<p align="left">L'organisme et/ou la société retenue(s) en charge de la collecte de la cotisation reverse à l'ADDSA le montant des sommes collectées après prélèvement éventuel de frais de gestion et ce dans les conditions de la convention précitée.</p>
+<p align="left">
+<em>À la date du présent accord, la collecte et le reversement à l'association paritaire précitée ont été confiés à KERIALIS Prévoyance qui en est toujours chargée.</em>
+ (1)
+</p>
+<p align="left">Tout autre collecteur peut être désigné par la CPPNI tant au titre du personnel non-avocat qu'au titre des avocats salariés.</p>
+<p>
+<font color="808080">
+<em>
+ (1) L'alinéa 3 est exclu de l'extension en tant qu'il contrevient aux dispositions des articles L. 931-1 et L. 931-2 du code de la sécurité sociale qui n'autorisent pas la collecte des fonds de financement du paritarisme par un organisme de prévoyance. <br/>
+(Arrêté du 30 novembre 2023 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

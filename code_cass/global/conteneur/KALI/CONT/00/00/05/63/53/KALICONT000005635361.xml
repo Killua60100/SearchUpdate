@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635361</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635361.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale du personnel des agences générales d'assurances du 17 septembre 2019 (Avenant n° 22 du 17 septembre 2019) - Étendue par arrêté du 21 mai 2021 JORF 4 juin 2021</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>2335</NUM>
+
+<DATE_PUBLI>2020-01-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005661613" titretxt="Convention collective nationale du 2 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000041751952" titretxt="Convention collective nationale du 17 septembre 2019"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005665137" titretxt="Aménagement et réduction du temps de travail dans les agences générales d'assurances"/>
+<LIEN_TXT idtxt="KALITEXT000005661974" titretxt="Annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005661986" titretxt="Départ et mise en retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005662002" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005662159" titretxt="Entretien professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000020211140" titretxt="Egalité salariale entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000020314233" titretxt="Actualisation de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000022418459" titretxt="Répartition des sommes à verser au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000023589626" titretxt="Création d'une commission paritaire de validation des accords"/>
+<LIEN_TXT idtxt="KALITEXT000023690265" titretxt="Modalités de répartition de la contribution au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000023690275" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000024983757" titretxt="Création d'OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000025264410" titretxt="OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000025174724" titretxt="Actualisation de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000025174732" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000025351010" titretxt="Modalités de répartition de la contribution du FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000028313439" titretxt="Affectation aux CFA de fonds collectés par OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000029584658" titretxt="OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000028313455" titretxt="Versements aux CFA pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000026976541" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000027041169" titretxt="Modalités de répartition de la contribution au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000028313468" titretxt="Versements aux CFA pour l'année 2013"/>
+<LIEN_TXT idtxt="KALITEXT000028665686" titretxt="Répartition des versements au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000028665696" titretxt="Aménagement et réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000029149063" titretxt="Temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000029584658" titretxt="OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000030309280" titretxt="Temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000030733270" titretxt="OPCABAIA"/>
+<LIEN_TXT idtxt="KALITEXT000030482895" titretxt="Répartition des versements au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000031254619" titretxt="Création d'un régime de frais de santé obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000032169884" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000032748715" titretxt="Création d'un régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000033462619" titretxt="Affectation aux CFA de fonds collectés par OPCABAIA pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034475518" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000034991271" titretxt="Création d'une commission paritaire permanente de négociation et d'interprétation"/>
+<LIEN_TXT idtxt="KALITEXT000035980407" titretxt="Versements des fonds aux CFA pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000036747642" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000038073255" titretxt="Affectation des fonds collectés par OPCABAIA aux CFA"/>
+<LIEN_TXT idtxt="KALITEXT000038073274" titretxt="Montants affectés aux CFA pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038544916" titretxt="Création d'un régime de prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000038544934" titretxt="Modification de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000041405236" titretxt="Classification des emplois (Titre III)"/>
+<LIEN_TXT idtxt="KALITEXT000041686365" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041686355" titretxt="Régime complémentaire santé obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000042511024" titretxt="Modification de l'accord du 24 juin 2015 (régime de frais de santé obligatoire)"/>
+<LIEN_TXT idtxt="KALITEXT000042511038" titretxt="Modification de l'accord du 26 novembre 2015 (formation professionnelle)"/>
+<LIEN_TXT idtxt="KALITEXT000042511007" titretxt="Reconversion ou promotion par alternance (Pro-A)."/>
+<LIEN_TXT idtxt="KALITEXT000042949224" titretxt="Modification de l'avenant n° 22 du 17 septembre 2019"/>
+<LIEN_TXT idtxt="KALITEXT000043348652" titretxt="Forfait annuel en jours"/>
+<LIEN_TXT idtxt="KALITEXT000044201607" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000044201654" titretxt="Intéressement collectif des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000044201681" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046565639" titretxt="Intéressement collectif des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000046582085" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000048548880" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000050329443" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000050329384" titretxt="Égalité professionnelle et salariale entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000050962349" titretxt="Catégories objectives de bénéficiaires des régimes de protection sociale complémentaire des cadres"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662181" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005662203" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005662225" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005662248" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018797744" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020314274" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023680077" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025351020" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000027041179" titretxt="Salaires minima au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000028665700" titretxt="Salaires minima annuels au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000030482905" titretxt="Salaires minima annuels au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032173421" titretxt="Salaires minima annuels au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034672928" titretxt="Salaires minima annuels au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000036747648" titretxt="Salaires minima 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038616108" titretxt="Salaires minimaux au 1er janvier 2019 (annexe I)"/>
+<LIEN_TXT idtxt="KALITEXT000042319253" titretxt="Salaires minima au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043709901" titretxt="Salaires minima au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045954016" titretxt="Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046955567" titretxt="Salaires minima au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047792627" titretxt="Salaires minima au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049300737" titretxt="Salaires au 1er janvier 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662270" titretxt="ARRETE du 9 décembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005662288" titretxt="ARRETE du 16 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005662294" titretxt="ARRETE du 23 mars 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662306" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662314" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662316" titretxt="ARRETE du 28 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005662320" titretxt="ARRETE du 3 mai 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Personnels des agences générales d'assurances</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3115</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

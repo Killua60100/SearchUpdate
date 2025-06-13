@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000045396702</ID>
+<TITRE_TA>Dispositions conclusives</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2021-12-09" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045396703" num="11" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="REMPLACE" fin="2024-01-04" id="KALIARTI000045396705" num="12" origine="KALI"/>
+<LIEN_ART debut="2024-01-04" etat="REMPLACE" fin="2024-12-17" id="KALIARTI000049637711" num="12" origine="KALI"/>
+<LIEN_ART debut="2024-12-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051380107" num="12" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396706" num="13" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396707" num="14" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396708" num="15" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396711" num="16" origine="KALI"/>
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396714" num="17" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045396641" date_publi="2999-01-01" date_signature="2021-12-08" nature="Accord" nor="ASET2250032M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Formation professionnelle et apprentissage" debut="2021-12-09" fin="2999-01-01" id_txt="KALITEXT000045396641">Accord du 8 décembre 2021 relatif à la formation professionnelle et à l'apprentissage</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649850</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649850.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Adhésion</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649839">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649850" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<em>Conformément à l'article L. 2261-3 du code du travail, toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale ou associative ou groupements d'employeurs qui n'est pas partie à la présente convention pourra y adhérer ultérieurement.</em>
+ (1) 
+</p>
+<p align="left">
+<em>Cette adhésion sera notifiée aux parties signataires de la convention collective et prendra effet conformément à la législation et réglementation en vigueur.</em>
+ (2)
+</p>
+<p>
+<font color="808080">
+<em>
+ (1) Le 1er alinéa de l'article 3 est étendu sous réserve du respect des dispositions de l'article L. 2261-3 du code du travail. <br/>
+(Arrêté du 18 décembre 2020 - art. 1)</em>
+</font>
+</p>
+<p>
+<font color="808080">
+<em>
+ (2) Le dernier alinéa de l'article 3 est étendu sous réserve du respect des dispositions de l'article L. 2261-3 du code du travail et des articles D. 2231-3 et D. 2231-8 dudit code. <br/>
+(Arrêté du 18 décembre 2020 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901781" naturetexte="CODE" nortexte="" num="L2261-3" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-3</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

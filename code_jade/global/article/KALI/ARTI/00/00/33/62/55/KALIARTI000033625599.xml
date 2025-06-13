@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625599</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/55/KALIARTI000033625599.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625599" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">1.1. Le champ d'application du présent accord est celui de l'article 1er des clauses générales de la convention collective nationale des entreprises de prévention et de sécurité.</p>
+<p align="left">Les salariés relevant de l'annexe VIII sont exclusivement concernés par le présent article ainsi que par les articles 2, 3.1, 3.3, 3.4, 3.5, 4.2, 4.3, 4.4, 5, 6, 7, 8 et 9.</p>
+<p align="left">1.2. À l'inverse, les dispositions des articles 3.2 et 4.1 ne sont pas applicables aux salariés relevant de l'annexe VIII.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000038201653" datesignatexte="2018-09-17" id="KALIARTI000038201656" naturetexte="Avenant" nortexte="ASET1851096M" num="1er" numtexte="" sens="cible" typelien="CITATION">Qualifications professionnelles - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000005680938" datesignatexte="2002-07-31" id="KALITEXT000005680938" naturetexte="AVENANT" nortexte="ASET0250772M" num="" numtexte="" sens="source" typelien="CITATION">Annexe VIII : Dispositions particulières aux emplois de la sûreté aérienne et aéroportuaire</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

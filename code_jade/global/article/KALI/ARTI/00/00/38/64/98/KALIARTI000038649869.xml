@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649869</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649869.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649840">Chapitre II Droit syndical et liberté syndicale</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649869" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">7.10. Droit syndical</p>
+<p align="left">Conformément à la Constitution de la République française du 4 octobre 1958, les employeurs et les salariés sont libres de défendre leurs droits et leurs intérêts par l'action syndicale. L'exercice du droit syndical est reconnu dans toutes les entreprises de navigation intérieure, dans le respect des droits et libertés garantis par la Constitution de la République, en particulier de la liberté individuelle du travail.</p>
+<p align="left">L'exercice de l'action syndicale ne doit pas avoir pour conséquence des actes contraires aux lois et règlements en vigueur.</p>
+<p align="center">7.20. Liberté syndicale</p>
+<p align="left">Les salariés et les employeurs sont tenus de respecter la liberté syndicale et la liberté d'opinion au sein de l'entreprise.</p>
+<p align="left">Le chef d'entreprise ou ses représentants ne doivent employer aucun moyen de pression en faveur ou à l'encontre d'une organisation syndicale quelconque et de ses représentants.</p>
+<p align="left">Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauche, la conduite et la répartition du travail, la formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures disciplinaires et de rupture du contrat de travail.</p>
+<p align="left">Les salariés s'engagent de leur côté à ne pas prendre en considération dans le travail le fait que leurs collègues et le personnel avec lequel ils sont en rapport adhèrent à telle ou telle organisation syndicale, ou qu'ils n'adhèrent à aucun syndicat.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

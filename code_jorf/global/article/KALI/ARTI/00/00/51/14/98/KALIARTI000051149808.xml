@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051149808</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/14/98/KALIARTI000051149808.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051149797" date_publi="2025-02-10" date_signature="2024-10-24" nature="Avenant" nor="ASET2450977M" num="2" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051149797">Avenant n° 2 du 24 octobre 2024 à l'accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-06-01" fin="2999-01-01" id="KALISCTA000051149800">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635185" date_publi="1979-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1000" titre="Convention collective nationale des avocats et de leur personnel du 20 février 1979. Etendue par arrêté du 13 novembre 1979 JONC 9 janvier 1980" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635185.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051149808" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La loi n° 2018-771 pour la liberté de choisir son avenir professionnel du 5 septembre 2018 a donné aux Urssaf et MSA la collecte du dialogue social à compter du 1er janvier 2022, au détriment des OPCO.</p>
+<p align="left">Depuis, des dérogations ont été mises en place pour permettre la collecte du dialogue social par les OPCO.</p>
+<p align="left">Un accord du 14 avril 2023 (art. 3) a fixé à 6 pour 10 000 (0,06 %), le taux de financement du fonds de fonctionnement du paritarisme à la charge des employeurs entrant dans le champ d'application des conventions collectives du personnel salarié des cabinets d'avocats (IDCC 1000) et des avocats salariés (IDCC 1850).</p>
+<p align="left">Cet accord rappelle que la gestion des fonds relève de l'association paritaire pour le développement du dialogue social dans la branche professionnelle des cabinets d'avocats (ADDSA) et précise que la collecte et le recouvrement sont actuellement effectués par l'institution de prévoyance KERIALIS.</p>
+<p align="left">Il a été étendu par arrêté du 30 novembre 2023 publié au Journal officiel du 9 décembre 2023, à l'exclusion de l'alinéa 3 de l'article 6, en tant qu'il contrevenait aux articles L. 931-1 et L. 931-2 du code de la sécurité sociale, qui n'autorisent pas la collecte des fonds du financement du paritarisme par un organisme de prévoyance.</p>
+<p align="left">Cet accord prévoit que tout autre collecteur peut être désigné par la CPPNI, tant au titre du personnel non avocat qu'au titre des avocats salariés.</p>
+<p align="left">L'assemblée générale de l'ADDSA du 18 juin 2024 a proposé de confier la collecte du paritarisme à l'OPCO EP dans le cadre d'une convention à régulariser entre l'ADDSA et l'OPCO EP.</p>
+<p align="left">Le présent avenant a pour but de désigner le collecteur du fonds de financement du paritarisme dans les conditions prévues à l'accord du 14 avril 2023 étendu et de préciser des éléments relatifs à cette collecte.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745543" naturetexte="CODE" nortexte="" num="L931-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L931-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745546" naturetexte="CODE" nortexte="" num="L931-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L931-2</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

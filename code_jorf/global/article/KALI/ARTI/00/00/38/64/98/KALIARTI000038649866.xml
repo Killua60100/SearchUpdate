@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649866</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649866.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Négociation annuelle sur les salaires et examen de la situation économique et de l'emploi dans la branche</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>SALAIRES</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649839">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649866" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">5.10. Négociation annuelle</p>
+<p align="left">Conformément aux dispositions légales en vigueur, les parties signataires liées par la présente convention se réunissent au moins une fois par an pour engager une négociation sur les niveaux des rémunérations minimales professionnelles garanties pour les différentes catégories de personnel visées dans les annexes de la présente convention.</p>
+<p align="left">Cette négociation portera sur les salaires et prend en compte l'objectif d'égalité professionnelle entre les femmes et les hommes, ainsi que les mesures permettant de l'atteindre.</p>
+<p align="left">Cette négociation sera l'occasion, au moins une fois par an, d'un examen de la situation économique et de l'emploi dans la branche.</p>
+<p align="center">5.20. Négociation triennale</p>
+<p align="left">Conformément aux dispositions légales en vigueur, les parties signataires liées par la présente convention se réunissent au moins une fois tous les 3 ans pour engager une négociation sur :<br/>
+– les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées ;<br/>
+– les conditions de travail, la gestion prévisionnelle des emplois et des compétences, et sur la prise en compte de la pénibilité du travail ;<br/>
+– les mesures tendant à l'insertion professionnelle et au maintien dans l'emploi des travailleurs handicapés ;<br/>
+– les priorités, les objectifs et les moyens de la formation professionnelle des salariés.</p>
+<p align="center">5.30. Négociation quinquennale</p>
+<p align="left">Conformément aux dispositions légales en vigueur, les parties signataires liées par la présente convention se réunissent au moins une fois tous les 5 ans pour engager une négociation :<br/>
+– pour examiner la nécessité de réviser les classifications ;<br/>
+– pour engager une négociation sur l'institution d'un ou plusieurs plans d'épargne interentreprises ou plans d'épargne pour la retraite collectifs interentreprises lorsqu'il n'existe aucun accord conclu à ce niveau en la matière.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

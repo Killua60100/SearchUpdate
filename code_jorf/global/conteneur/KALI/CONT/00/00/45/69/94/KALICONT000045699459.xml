@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000045699459</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/45/69/94/KALICONT000045699459.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la production et de la transformation des papiers et cartons du 29 janvier 2021</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3238</NUM>
+
+<DATE_PUBLI>2022-07-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000043918738" titretxt="Convention collective du 29 janvier 2021"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000044479301" titretxt="Reconversion ou promotion par alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000047011469" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000047136987" titretxt="Mesures urgentes en faveur de l'emploi et de la formation"/>
+<LIEN_TXT idtxt="KALITEXT000047348943" titretxt="Mise à jour de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000048043949" titretxt="Négociation d'un accord relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000049095610" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000049095621" titretxt="Indemnité de panier de nuit des OETAM"/>
+<LIEN_TXT idtxt="KALITEXT000049508777" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000050394480" titretxt="Formation professionnelle, alternance et gestion prévisionnelle des emplois et des compétences"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000045847377" titretxt="Rémunérations pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045847897" titretxt="Salaires pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046054737" titretxt="Primes de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000047537545" titretxt="Salaires au 1er février 2023 (OETAM)"/>
+<LIEN_TXT idtxt="KALITEXT000047537556" titretxt="Salaires au 1er février 2023 (Ingénieurs et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000047537567" titretxt="Primes et astreintes au 1er février 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049869914" titretxt="Salaires minima des OETAM 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049869924" titretxt="Salaires minima des ingénieurs et cadres au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049916754" titretxt="Primes et astreintes au 1er mai 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Production et transformation des papiers et cartons</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

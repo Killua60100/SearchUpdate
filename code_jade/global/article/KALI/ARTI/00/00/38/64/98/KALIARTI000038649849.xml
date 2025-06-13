@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649849</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649849.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Entrée en vigueur. – Durée. – Dénonciation. – Révision</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649839">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649849" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">2.10. Date d'effet et durée</p>
+<p align="left">La présente convention est conclue pour une durée indéterminée, sauf dénonciation.</p>
+<p align="left">Elle prend effet au lendemain de la publication de l'arrêté d'extension au Journal officiel.</p>
+<p align="center">2.20. Révision</p>
+<p align="left">Avant toute demande de révision d'un ou plusieurs articles de la présente convention, accompagnée ou non de la dénonciation de cette dernière, les parties demanderesses doivent obligatoirement, à peine de nullité, informer de leur intention la CPPNI ainsi que les autres parties signataires et joindre une proposition de rédaction nouvelle ou de suppression concernant ce ou ces articles.</p>
+<p align="left">La demande est examinée lors de la réunion de la CPPNI nationale suivante initialement fixée sous réserve du respect d'un préavis de 3 mois.</p>
+<p align="left">Les dispositions soumises à révision devront faire l'objet d'un accord dans un délai de 12 mois suivant la demande de révision. Passé ce délai et si aucun accord n'est intervenu la demande de révision sera réputée caduque et de ce fait, le texte antérieur continuera à s'appliquer. En cas d'impossibilité, constatée par le président, d'aboutir à un accord sur le projet de révision, les parties peuvent faire jouer la procédure de dénonciation prévue au paragraphe ci-dessous.</p>
+<p align="center">2.30. Dénonciation</p>
+<p align="left">La présente convention pourra être dénoncée à tout moment, en totalité ou en partie, par l'une des parties signataires avec un préavis de 3 mois. À peine de nullité, cette dénonciation est notifiée à chacune des autres parties signataires ainsi qu'aux services du ministère du travail par lettre recommandée avec avis de réception.</p>
+<p align="center">2.40. Durée de validité de la convention en cours de révision</p>
+<p align="left">En tous les cas la convention continue de produire ses effets jusqu'à l'entrée en vigueur d'une nouvelle convention ou, à défaut, pendant une durée de 1 an à compter de l'expiration du délai de préavis si la dénonciation émane de la totalité des signataires employeurs ou des signataires salariés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625631</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625631.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625631" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I.5.1. Formation agent de sécurité mobile</p>
+<p>Axe n° 1. Connaissance du matériel de détection</p>
+<p>1.1. La détection intrusion : étude pratique des éléments composant une installation (centrale d'alarme, détecteurs périphériques et périmétriques).<br/>
+1.2. La détection incendie : étude pratique des principaux types de détecteurs et de leur emploi.<br/>
+1.3. Le cas particulier des alarmes techniques (chaud/froid, niveau d'eau, arrêt machine, chaudière, procédure de mise en sécurité).<br/>
+1.4. La gestion technique centralisée : identification des zones sur tableau de signalisation, exploitation des données sur écran ou synoptique, traçabilité des événements sur imprimante (sur site).<br/>
+1.5. La signalétique et les symboles de sécurité : produits dangereux (manipulation, stockage) et risques toxicologiques, mesures de sécurité, moyens de secours et de circulation.<br/>
+1.6. Description de la chaîne de la télésécurité et de ses acteurs.<br/>
+1.7. Glossaire des abréviations indiquant la nature des incidents et conditionnant la nature de l'intervention.</p>
+<p>Axe n° 2. Sécurité routière</p>
+<p>2.1. Le respect des dispositions générales relatives à la sécurité routière (vitesse, signalisation routière d'obligations, d'interdictions et de stationnement, port de la ceinture, respect des usagers de la route et application des réglementations relatives à la conduite).<br/>
+2.2. Les réglementations techniques applicables au véhicule : moyens de signalisation et d'avertissement, organes moteurs, pneumatiques, système de freinage, tenue du carnet du véhicule pour le contrôle et l'entretien.<br/>
+2.3. Mise en pratique de ces réglementations dans le cadre de l'activité professionnelle.<br/>
+2.4. Les principes de conduite préventive et les techniques d'orientation.<br/>
+2.5. Apprentissage des comportements d'un véhicule (perte d'adhérence, manœuvres d'urgence, facteurs accentogènes).<br/>
+2.6. Adaptation de la conduite selon les situations et les contextes (pluie, nuit, verglas…).<br/>
+2.7. Incidence de l'état du véhicule sur la sécurité du conducteur et des autres usagers.</p>
+<p>Axe n° 3. Règles et modes opératoires régissant la ronde de sécurité et de l'intervention</p>
+<p>3.1. La préparation et l'organisation de la ronde (prise en compte des consignes et du matériel, choix des fréquences et des itinéraires, gestion des clés…).<br/>
+3.2. Le déroulement d'une ronde préventive, de dissuasion ou de détection.<br/>
+3.3. La transmission périodique d'informations et la rédaction des comptes rendus.<br/>
+3.4. L'approche du site (configuration des lieux, repérage des moyens d'accès, vérification des abords, contact radio).<br/>
+3.5. La levée de doute (identification des anomalies par ronde extérieure, contact radio).<br/>
+3.6. L'intervention (vérification des installations, actions correctives, préservation des indices, contact radio).<br/>
+3.7. L'accueil des services publics et la gestion administrative des événements.</p>
+<p>Axe n° 4. Habilitation électrique H0B0</p>
+<p>Formation des personnels aux notions élémentaires d'électricité, aux mesures de précaution face à un incident ou à un accident d'origine électrique, aux règles de secours en présence d'une personne électrisée.</p>
+<p>Axe n° 5. Habilitation mécanique M0</p>
+<p>Formation aux risques liés au travail en hauteur, aux risques thermiques, aux bruits, aux produits dangereux et au travail en espace confiné.</p>
+<p>Axe n° 6. Sauveteur secouriste du travail</p>
+<p>Formation aux gestes élémentaires pour savoir analyser la situation, déclencher l'alerte et assister l'accidenté jusqu'à l'arrivée des secours.<br/>
+Recyclage annuel : 14 heures (SST, sécurité routière, analyse de la pratique d'intervention).</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

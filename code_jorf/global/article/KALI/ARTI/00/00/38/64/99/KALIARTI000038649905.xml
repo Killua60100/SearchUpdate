@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649905</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/99/KALIARTI000038649905.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>28</NUM>
+<TITRE>Démission pour élever son enfant</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649845">Chapitre VIII Contrat de travail et parentalité</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649905" num="28" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Pour élever son enfant, le salarié peut, sous réserve d'en informer son employeur au moins 15 jours à l'avance, rompre son contrat de travail à l'issue du congé de maternité ou d'adoption ou, le cas échéant, 2 mois après la naissance ou l'arrivée au foyer de l'enfant, sans être tenu de respecter le délai de préavis, ni de devoir de ce fait d'indemnité de rupture.</p>
+<p align="left">Le salarié bénéficie pendant 1 an d'une priorité de réembauche dans les emplois auxquels sa qualification lui permet de prétendre.</p>
+<p align="left">L'employeur lui accorde, en cas de réemploi, le bénéfice de tous les avantages qu'il avait acquis au moment de son départ.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

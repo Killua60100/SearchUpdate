@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000043006530</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3229</NUM>
+
+<DATE_PUBLI>2020-12-25</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000038649836" titretxt="Convention collective nationale du 20 décembre 2018"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005671468" titretxt="Réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005671470" titretxt="RTT concernant le personnel navigant du transport de fret par voie de navigation intérieure"/>
+<LIEN_TXT idtxt="KALITEXT000005671472" titretxt="RTT négociée (personnel navigant du fret)  (flotte classique)"/>
+<LIEN_TXT idtxt="KALITEXT000005671474" titretxt="RTT, repos divers, modes d'organisation du travail, composition des équipages, système de rémunération applicable au personnel salarié relevant du régime de flotte exploitée en relèves"/>
+<LIEN_TXT idtxt="KALITEXT000005652636" titretxt="Organisation du travail"/>
+<LIEN_TXT idtxt="KALITEXT000005652648" titretxt="Délibération de la CPNEFP portant sur la création du CQP &quot; capitaine de bateau fluvial &quot; pour le personnel navigant des entreprises de transport fluvial"/>
+<LIEN_TXT idtxt="KALITEXT000020549712" titretxt="Certification professionnelle « Pilote de croisière de courte durée »"/>
+<LIEN_TXT idtxt="KALITEXT000032508497" titretxt="Mise en place de garanties complémentaires de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000033660137" titretxt="Formation professionnelle tout au long de la vie, professionnalisation, sécurisation des parcours professionnels et emploi dans le transport fluvial"/>
+<LIEN_TXT idtxt="KALITEXT000038268670" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000041549822" titretxt="Liste des certifications professionnelles éligibles à la Pro-A"/>
+<LIEN_TXT idtxt="KALITEXT000043348345" titretxt="Activité réduite pour le maintien en emploi (ARME)"/>
+<LIEN_TXT idtxt="KALITEXT000050699574" titretxt="Modification de la convention collective"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000039179777" titretxt="Rémunérations minimales garanties pour l'année 2019"/>
+<LIEN_TXT idtxt="KALITEXT000043941620" titretxt="Rémunérations annuelles minimales garanties au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045396971" titretxt="Rémunérations annuelles minimales garanties au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045971761" titretxt="Rémunérations annuelles minimales garanties 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046478330" titretxt="Salaires minima conventionnels et grilles de classifications"/>
+<LIEN_TXT idtxt="KALITEXT000047348922" titretxt="Salaires minima conventionnels au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048157463" titretxt="Salaires minima conventionnels au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049271418" titretxt="Minima conventionnels au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051315183" titretxt="Salaires minima conventionnels au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Navigation intérieure</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

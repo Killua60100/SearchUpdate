@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000035326397</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/35/32/63/KALICONT000035326397.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective de branche des salariés en portage salarial du 22 mars 2017</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3219</NUM>
+
+<DATE_PUBLI>2017-07-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000035184768" titretxt="Convention collective du 22 mars 2017"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000035184854" titretxt="Méthode de négociation"/>
+<LIEN_TXT idtxt="KALITEXT000036063288" titretxt="Désignation de l'organisme paritaire collecteur agréé (OPCA)"/>
+<LIEN_TXT idtxt="KALITEXT000036904059" titretxt="Adhésion FEPS à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000038115991" titretxt="Modification de l'article 36 de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000038116000" titretxt="Prélèvements sociaux, fiscaux et autres charges"/>
+<LIEN_TXT idtxt="KALITEXT000038116009" titretxt="Modification de la convention collective (suite aux réserves)"/>
+<LIEN_TXT idtxt="KALITEXT000038268704" titretxt="Compte rendu d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000038330663" titretxt="Dialogue social et son financement"/>
+<LIEN_TXT idtxt="KALITEXT000041698820" titretxt="Opérateur de compétences (OPCO)"/>
+<LIEN_TXT idtxt="KALITEXT000042313447" titretxt="Agenda social"/>
+<LIEN_TXT idtxt="KALITEXT000042313460" titretxt="Contribution conventionnelle à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000042313469" titretxt="Entretien professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000042313487" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000043458253" titretxt="Protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000043458317" titretxt="Lieu de travail et frais de déplacement professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000043458326" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043942540" titretxt="Contrat de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000047348883" titretxt="Classification et rémunération"/>
+<LIEN_TXT idtxt="KALITEXT000047734518" titretxt="Prélèvements sociaux, fiscaux et autres charges financées par le salarié porté"/>
+<LIEN_TXT idtxt="KALITEXT000051315167" titretxt="Protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051664898" titretxt="Modification de l'article 36 « Stipulations financières »"/>
+<LIEN_TXT idtxt="KALITEXT000051664907" titretxt="Modification de l'article 1er « Champ d'application »"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Branche des salariés en portage salarial</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3383</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

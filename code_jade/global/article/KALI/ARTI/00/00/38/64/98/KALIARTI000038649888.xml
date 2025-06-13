@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649888</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649888.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>19</NUM>
+<TITRE>Médecine du travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649842">Chapitre IV Emploi et exécution du contrat de travail</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649888" num="19" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le salarié bénéficie d'une visite d'information et de prévention dans un délai de 3 mois à compter de la prise effective du poste de travail.</p>
+<p align="left">Les salariés soumis à un suivi individuel renforcé de leur état de santé en application de l'article L. 4624-2 du code du travail, bénéficient d'un examen médical d'aptitude effectué par le médecin du travail préalablement à l'affectation sur le poste.</p>
+<p align="left">Sauf si le médecin du travail l'estime nécessaire ou lorsque le salarié en fait la demande, une nouvelle visite d'information et de prévention n'est pas obligatoire lorsque les conditions suivantes sont remplies :<br/>
+– le travailleur est appelé à occuper un emploi identique présentant des risques d'exposition équivalents ;<br/>
+– le professionnel de santé est en possession de la dernière attestation de suivi ou du dernier avis d'aptitude ;<br/>
+– le travailleur a bénéficié d'une visite d'information et de prévention dans les 5 ans ou, pour les salariés visés à l'article R. 4624-17 du code du travail (travailleur âgé, handicapé, travailleur de nuit), dans les 3 ans précédant son embauche ;<br/>
+– aucune proposition d'aménagement de poste ou aucun avis d'inaptitude n'a été émis depuis la précédente visite.</p>
+<p align="left">Indépendamment des examens d'aptitude à l'embauche et périodiques ainsi que des visites d'information et de prévention, le salarié bénéficie d'un examen par le médecin du travail à la demande de l'employeur ou à sa demande. La demande du salarié ne peut motiver aucune sanction.</p>
+<p align="left">Lorsqu'il anticipe un risque d'inaptitude, le salarié peut solliciter une visite médicale dans l'objectif d'engager une démarche de maintien dans l'emploi.</p>
+<p align="left">Le salarié bénéficie d'un examen médical de reprise par le médecin du travail :<br/>
+– après un congé maternité ;<br/>
+– après une absence pour cause de maladie professionnelle ;<br/>
+– après une absence d'au moins 30 jours pour cause d'accident du travail, de maladie ou d'accident non professionnel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000023031023" naturetexte="CODE" nortexte="" num="L4624-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L4624-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018493160" naturetexte="CODE" nortexte="" num="R4624-17" numtexte="" sens="source" typelien="CITATION">Code du travail - art. R4624-17</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

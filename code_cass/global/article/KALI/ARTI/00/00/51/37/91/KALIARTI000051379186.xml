@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051379186</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/37/91/KALIARTI000051379186.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Classement des métiers et activités exposés aux facteurs de risques ergonomiques dans la branche</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2025-06-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051379178" date_publi="2025-03-26" date_signature="2024-11-27" nature="Accord" nor="ASET2550102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Métiers exposés à des risques ergonomiques" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051379178">Accord du 27 novembre 2024 relatif aux métiers exposés à des risques ergonomiques</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051692184" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2025-06-01" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000051379186" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">À la suite des situations de pénibilité et d'usure professionnelle diagnostiquées dans le secteur de la branche, il est préconisé le classement suivant par facteur de risques ergonomiques :</p>
+<p align="center">A.   Rappel des risques ergonomiques visés par le FIPU</p>
+<p align="left">Le FIPU a pour mission de participer au financement par les employeurs d'actions de sensibilisation et de prévention, d'actions de formation mentionnées à l'article L. 6323-6 du code du travail et d'actions de reconversion et de prévention de la désinsertion professionnelle à destination des salariés particulièrement exposés aux facteurs de risques professionnels mentionnés au 1° du I de l'article L. 4161-1 du même code.</p>
+<p align="left">Ces risques professionnels sont les suivants :</p>
+<p align="center">1.   Postures pénibles</p>
+<p align="left">Les postures pénibles définies comme positions forcées des articulations (art. D. 4161-1 du code du travail) sont principalement celles qui comportent des gestes avec maintien des bras en l'air à une hauteur située au-dessus des épaules ou des positions accroupies ou à genoux ou positions du torse en torsion ou positions du torse fléchi.</p>
+<p align="center">2.   Manutention manuelle de charges/ port de charges</p>
+<p align="left">On entend par manutention manuelle, toute opération de transport ou de soutien d'une charge, dont le levage, la pose, la poussée, la traction, le port ou le déplacement, qui exige l'effort physique d'un ou plusieurs travailleurs (art. R. 4541-2 du code du travail). Ces opérations peuvent comporter des risques, notamment dorso-lombaires, pour les salariés en raison des caractéristiques de la charge ou des conditions ergonomiques défavorables.</p>
+<p align="center">3.   Vibrations mécaniques</p>
+<p align="left">Les vibrations mécaniques peuvent être transmises aux mains et aux bras par des machines portatives, guidées à la main ou encore par certaines opérations nécessitant que les salariés travaillent des pièces tenues à la main. Elles peuvent exposer les mains et les bras des salariés à des niveaux élevés de vibrations pouvant entraîner des troubles vasculaires, des lésions ostéoarticulaires ou des troubles neurologiques ou musculaires. Les vibrations transmises à l'ensemble du corps, notamment lors de la conduite régulière de véhicules (exemples : chariots de manutention …) sont susceptibles d'entraîner des lombalgies et des microtraumatismes de la colonne vertébrale (art. R. 4441-1 du code du travail).</p>
+<p align="center">B.   Tableau des métiers ou activités susceptibles d'être concernés par l'usure professionnelle dans la branche</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Métier</th>
+<th>Code PSC ESE</th>
+<th>Postures pénibles</th>
+<th>Manutention manuelle/<br/>
+			port de charges</th>
+<th>Vibrations mécaniques</th>
+</tr>
+<tr>
+<td>Personnel de fabrication<br/>
+			(quels que soient le niveau et le coefficient)</td>
+<td align="center">683a<br/>
+			215a<br/>
+			636c</td>
+<td align="center">Exposé</td>
+<td align="center">Exposé</td>
+<td align="center">Non exposé</td>
+</tr>
+<tr>
+<td>Personnel de vente<br/>
+			(quels que soient le niveau et le coefficient)</td>
+<td align="center">554a</td>
+<td align="center">Exposé</td>
+<td align="center">Exposé</td>
+<td align="center">Non exposé</td>
+</tr>
+<tr>
+<td>Personnel de services<br/>
+			(chauffeur-livreur/ livraisons)<br/>
+			(coefficient 155-160)</td>
+<td align="center">643a<br/>
+			683a</td>
+<td align="center">Exposé</td>
+<td align="center">Exposé</td>
+<td align="center">Non exposé</td>
+</tr>
+<tr>
+<td>Personnel administratif<br/>
+			(coefficient 170)</td>
+<td align="center">542a<br/>
+			543a</td>
+<td align="center">Non exposé</td>
+<td align="center">Non exposé</td>
+<td align="center">Non exposé</td>
+</tr>
+<tr>
+<td>Personnel d'encadrement</td>
+<td align="center">233c<br/>
+			215a<br/>
+			636c</td>
+<td align="center">Exposé</td>
+<td align="center">Exposé</td>
+<td align="center">Non exposé</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">La présente liste permet d'identifier les métiers et activités du secteur de la branche, exposés à des facteurs ergonomiques et pourra être réactualisée en fonction de l'évolution des données. Elle permettra en outre à la commission des accidents du travail et des maladies professionnelles (CAT MP), d'orienter les fonds d'investissement dans la prévention de l'usure professionnelle, en vue de financer des actions de prévention adaptées, de sensibilisation à destination des salariés des entreprises de la branche, ou de financer des projets de transition professionnelle.</p>
+<p align="center">C.   Mesures de prévention collectives et individuelles</p>
+<p align="left">La branche de la boulangerie et boulangerie-pâtisserie artisanale mène depuis longtemps une politique de prévention des risques professionnels qui s'est traduite notamment par l'élaboration et la diffusion en 1996 d'un plan collectif de mise en conformité des équipements de travail en service dans les boulangeries-pâtisseries, la mise en place dans les années 2000 avec la CNAMTS d'une campagne « outils plus sûrs » visant notamment à favoriser l'accès à du matériel limitant les émissions de poussière de farine.</p>
+<p align="left">Depuis 2007, dans le cadre de la complémentaire santé, la confédération nationale de la boulangerie pâtisserie française et les cinq organisations syndicats de salariés ont développé une politique de prévention ambitieuse pour prévenir les risques et ainsi mieux protéger les salariés.</p>
+<p align="left">Toutes les campagnes réalisées ont pour objectif de s'adresser à tous les salariés de la branche, des apprentis aux chefs d'entreprise, et ainsi d'aller également chercher les salariés les moins réceptifs aux questions de santé, par le biais de courriers, d'affiches mais aussi par des campagnes d'appels téléphoniques ayant pour but d'impliquer chaque boulanger dans une démarche de prévention plus individualisée.</p>
+<p align="left">Les partenaires sociaux de la branche précisent que l'usure professionnelle peut se manifester sous différentes formes, notamment des symptômes physiques se traduisant principalement par des troubles musculosquelettiques (TMS). Ils constatent, que l'usure professionnelle peut conduire à l'inaptitude partielle ou totale, empêchant le salarié d'exercer certaines activités, voire, de pratiquer son métier.</p>
+<p align="left">Plusieurs pathologies majeures font l'objet d'actions de prévention et notamment :<br/>
+– la santé bucco-dentaire et le risque carieux ;<br/>
+– l'hygiène respiratoire et les allergies aux poussières de farine ;<br/>
+– les maladies cardio-vasculaires :<br/>
+–– le risque diabétique ;<br/>
+–– l'hypertension artérielle ;<br/>
+– les troubles veineux ;<br/>
+– l'épigénétique : maternité et prévention précoce.</p>
+<p align="left">II résulte de l'étude des accidents et maladies professionnelles de la profession que :<br/>
+– le risque lié aux émissions de poussière de farine peut entraîner des allergies respiratoires ainsi que de l'eczéma allergique ou autres affections cutanées ;<br/>
+– le risque lié aux manutentions et déplacements peut entraîner des affections périarticulaires, des TMS ainsi que des lésions.</p>
+<p align="left">Enfin, le secteur d'activité de la boulangerie et boulangerie-pâtisserie artisanale est signataire d'une convention nationale d'objectifs fixant un programme d'actions de prévention spécifique avec la CNAM, laquelle a été renouvelée en 2024 pour 4 ans. Cette convention s'inscrit dans un objectif de prévention des risques professionnels à savoir :<br/>
+– réduire les risques liés aux manutentions et déplacements ;<br/>
+– réduire les risques liés à l'accueil du public et aux manipulations d'argent ;<br/>
+– réduire les risques liés aux pulvérulents (farine, sucre …).</p>
+<p align="left">Aussi, afin de poursuivre ces actions de prévention des risques professionnels, les partenaires sociaux de la branche, via le financement du FIPU, préconisent de prendre et/ ou optimiser les mesures ci-après, qui ne préjudicient pas les mesures spécifiques ou complémentaires déjà mises en place dans les entreprises de la branche :</p>
+<p align="center">Pour lutter contre le risque de postures pénibles :</p>
+<p align="left">– mettre en place des procédures de travail et outils de travail adaptés ;<br/>
+– adapter le matériel et l'équipement à la physiologie du salarié (hauteur réglable des plans de travail …) ;<br/>
+– veiller à une installation ergonomique du matériel bureautique ou d'intervention (siège, position, table réglable …) ;<br/>
+– organiser l'espace de façon à permettre au salarié de se déplacer, changer de position (assis-debout …) ;<br/>
+– agir sur la propreté des surfaces (atelier de fabrication, lieu de vente …) ;<br/>
+– formation des intervenants aux gestes et postures.</p>
+<p align="center">Pour lutter contre le risque de manutention manuelle de charges/ port de charges :</p>
+<p align="left">– équiper les postes de travail d'aide à la manutention (chariots roulants, diables …) ;<br/>
+– privilégier les moyens mécaniques de port des charges ;<br/>
+– aménager l'environnement ;<br/>
+– privilégier l'alternance des tâches ;<br/>
+– agir sur l'organisation collective du travail (organisation, pauses, varier les tâches …) ;<br/>
+– former et informer les salariés exposés.</p>
+<p align="center">Pour lutter contre le risque de vibrations mécaniques :</p>
+<p align="left">– faire le choix de procédés de travail moins vibrants ;<br/>
+– choisir des équipements de travail appropriés ;<br/>
+– veiller au bon entretien des équipements, des sols et des surfaces, etc. ;<br/>
+– organiser une rotation des salariés, et diversifier, autant que faire se peut, les tâches ;<br/>
+– former et informer les salariés exposés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

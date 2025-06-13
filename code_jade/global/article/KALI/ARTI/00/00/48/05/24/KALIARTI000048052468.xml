@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000048052468</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/48/05/24/KALIARTI000048052468.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Substitutions des dispositions conventionnelles relatives au droit syndical national des négociateurs de la branche ÉCLAT (CCN, IDCC 1518) à celles relevant de la CCN familles rurales (IDCC 1031) et de la CCN des structures associatives de pêche de loisir et de protection du milieu aquatique (IDCC 3203)</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-10-20</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000048052461" date_publi="2999-01-01" date_signature="2023-05-11" nature="Avenant" nor="ASET2350813M" num="197" num_parution_jo="">
+<TITRE_TXT c_titre_court="Droit syndical " debut="2024-10-20" fin="2999-01-01" id_txt="KALITEXT000048052461">Avenant n° 197 du 11 mai 2023 relatif à l'harmonisation des dispositions conventionnelles en matière de droit syndical national</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000029100418" date_publi="2013-06-22" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3203" titre="Convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique du 22 juin 2013" url="conteneur/KALI/CONT/00/00/29/10/04/KALICONT000029100418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-10-20" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000048052468" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>À compter de l'entrée en vigueur du présent avenant tel que prévu à son article 7, l'ensemble des stipulations conventionnelles de la CCN ÉCLAT (IDCC 1518) relatives au droit syndical national pour les négociateurs de branche, à savoir l'article 2.5 de la CCN intitulé « Absences pour raisons syndicales », s'appliquent dans les mêmes conditions aux négociateurs relevant de la branche familles rurales (CCN, IDCC 1031) et structures associatives de pêche de loisir et de protection du milieu aquatique (CCN, IDCC 3203).</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000005681198" datesignatexte="1988-06-28" id="KALIARTI000050380794" naturetexte="Convention collective nationale " nortexte="" num="2.5" numtexte="" sens="source" typelien="MODIFIE">Convention collective nationale du 28 juin 1988 - art. 2.5 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

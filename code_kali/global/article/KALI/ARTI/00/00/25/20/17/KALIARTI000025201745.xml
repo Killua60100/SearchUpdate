@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025201745</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/20/17/KALIARTI000025201745.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Dispositif de la portabilité</TITRE>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000025201741" date_publi="2999-01-01" date_signature="2011-10-14" nature="Avenant" nor="ASET1151530M" num="1" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance" debut="2009-07-01" fin="2999-01-01" id_txt="KALITEXT000025201741">Avenant n° 1 du 14 octobre 2009 à l'accord du 16 mars 2009 relatif à la prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027065067" date_publi="2011-06-24" etat="VIGUEUR_ETEN" nature="IDCC" num="3032" titre="Convention collective nationale de l'esthétique-cosmétique et de l'enseignement technique et professionnel lié aux métiers de l'esthétique et de la parfumerie du 24 juin 2011 " url="conteneur/KALI/CONT/00/00/27/06/50/KALICONT000027065067.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2009-07-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000025201745" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>L'article 2 « Bénéficiaires de l'accord du 16 mars 2009 » est remplacé : <br/>« Bénéficie des garanties, l'ensemble du personnel non cadre des entreprises entrant dans le champ d'application du présent accord quelle que soit la nature de son contrat de travail (contrat à durée indéterminée ou déterminée), ayant un an d'ancienneté dans l'entreprise, inscrit à l'effectif de l'entreprise adhérente, présent au travail ou dont la suspension du contrat de travail prévue par le code du travail, donne lieu à un maintien de sa rémunération et/ ou au versement d'indemnités journalières par la sécurité sociale. <br/>Bénéficient de la garantie « maintien des garanties de prévoyance après rupture du contrat de travail » les salariés bénéficiaires du régime de prévoyance conventionnel dont le contrat de travail est rompu (sauf si la rupture dudit contrat résulte d'une faute lourde). L'ancienneté retenue pour définir les droits est déterminée à la date de cessation du contrat de travail du salarié. <br/>Pour pouvoir bénéficier de cette garantie, les salariés dont le contrat de travail est rompu, doivent : </p>
+<p align="left">
+<br/>– remplir les conditions requises pour bénéficier du régime de prévoyance conventionnel à la date de rupture de leur contrat de travail pour bénéficier du maintien des garanties du régime après la rupture dudit contrat ; <br/>– être pris en charge par l'assurance chômage et percevoir à ce titre des allocations pour perte d'emploi. <br/>– justifier de cette prise en charge auprès de leur dernier employeur en lui adressant le justificatif et la notification du montant des allocations qu'ils perçoivent ; <br/>– ne pas avoir renoncé expressément à cette garantie (en effet, l'avenant n° 3 du 18 mai 2009 à l'ANI du 11 janvier 2008, prévoit la possibilité pour le salarié de renoncer par écrit à la portabilité des garanties de prévoyance accordées dans l'entreprise quittée, par envoi d'un courrier dans les dix jours de la cessation de son contrat de travail à son ex employeur). La renonciation qui est irrévocable vaut pour l'ensemble des garanties du régime conventionnel. <br/>Le dispositif de portabilité s'applique aux ruptures ou fins de contrat de travail, tels que définis précédemment, dont la date est égale ou postérieure au 1er juillet 2009. <br/>Les garanties du régime de prévoyance sont maintenues pour une durée comprise entre 1 et 9 mois selon la durée du contrat de travail de l'intéressé dans l'entreprise quittée. Ces durées sont appréciées en mois entiers comme dans l'exemple ci-dessous, sachant que ce maintien de garanties sera accordé au maximum pour 9 mois même si le contrat de travail de l'intéressé a été d'une durée supérieure. <br/>Exemple : </p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th>Durée du contrat de travail </th>
+<th>Durée de la garantie </th>
+</tr>
+<tr>
+<td align="center">Durée contrat &lt; à 1 mois </td>
+<td align="center">Pas de droit </td>
+</tr>
+<tr>
+<td align="center">Durée contrat = 1 mois entier </td>
+<td align="center">1 mois de maintien de droits </td>
+</tr>
+<tr>
+<td align="center">Un mois &lt; durée contrat &lt; 2 mois </td>
+<td align="center">1 mois de maintien de droits </td>
+</tr>
+<tr>
+<td align="center">Durée contrat = 2 mois entiers </td>
+<td align="center">2 mois de maintien </td>
+</tr>
+<tr>
+<td align="center">2 mois &lt; durée contrat &lt; 3 mois </td>
+<td align="center">2 mois de maintien </td>
+</tr>
+<tr>
+<td align="center">Durée contrat = 3 mois entiers </td>
+<td align="center">3 mois de maintien </td>
+</tr>
+<tr>
+<td align="center" colspan="2">Ainsi de suite jusqu'à un maximum de 9 mois de maintien de droits. </td>
+</tr>
+</table>
+
+</div>
+</div>
+<p align="left">
+<br/>Le bénéficiaire de cette garantie doit informer son ancien employeur de la cessation du versement des allocations du régime d'assurance chômage lorsque celle-ci intervient au cours de la période de maintien des garanties de prévoyance du régime conventionnel. <br/>En tout état de cause, la présente garantie cesse dès que le chômeur retrouve un emploi ou dès qu'il ne peut plus justifier de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage. » <br/>L'article 5 « Salaire de référence pour la détermination du montant des prestations » est remplacé : <br/>« Le salaire de référence pris en compte pour le service des prestations est égal au salaire brut tranches A, B ayant servi de base au calcul des cotisations sociales, perçu au cours des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à invalidité permanente et absolue, ou la date de rupture ou de fin du contrat de travail pour les salariés bénéficiant de la garantie “ maintien des garanties de prévoyance après la rupture du contrat de travail ”. <br/>Pour ces derniers, sont exclues du salaire de référence, les sommes liées à la rupture ou à la fin du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes autres sommes versées à titre exceptionnel). Les droits garantis par le régime de prévoyance au titre de l'incapacité temporaire ne peuvent conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui de l'allocation nette du régime obligatoire d'assurance chômage à laquelle l'ancien salarié ouvre droit et qu'il aurait perçu au titre de la même période. »</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021881994" datesignatexte="2009-03-16" id="KALIARTI000027086616" naturetexte="Accord" nortexte="ASET0951174M" num="2" numtexte="" sens="source" typelien="MODIFIE">Prévoyance - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000021881994" datesignatexte="2009-03-16" id="KALIARTI000027086614" naturetexte="Accord" nortexte="ASET0951174M" num="5" numtexte="" sens="source" typelien="MODIFIE">Prévoyance - art. 5 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

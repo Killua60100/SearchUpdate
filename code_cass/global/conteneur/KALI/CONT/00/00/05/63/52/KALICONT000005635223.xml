@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635223</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635223.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des services de prévention et de santé au travail interentreprises du 20 juillet 1976. Etendue par arrêté du 18 octobre 1976 JORF 29 octobre 1976.</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>897</NUM>
+
+<DATE_PUBLI>2013-01-09</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000027661232" titretxt="Convention collective nationale du 20 juillet 1976"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000027956908" titretxt="Annexe I : Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000041459651" titretxt="Révision de l'annexe II à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000005650230" titretxt="Annexe : Dispositions particulières aux cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005650232" titretxt="Tableau de classificationdes cadres joint à l'annexe réglant les dispositions particulières aux cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005650234" titretxt="Annexe : Dispositions particulières aux médecins du travail "/>
+<LIEN_TXT idtxt="KALITEXT000005650236" titretxt="Annexe : Classification et définition des emplois "/>
+<LIEN_TXT idtxt="KALITEXT000005650238" titretxt="Procès-verbal de la commission paritaire du 10 décembre 1998 relatif à l'avenant n° 4 du 10 décembre 1998 réglant les dispositions particulières aux médecins du travail"/>
+<LIEN_TXT idtxt="KALITEXT000005650240" titretxt="Organisation et durée du travail effectif"/>
+<LIEN_TXT idtxt="KALITEXT000005650242" titretxt="Procès-verbal de la commission paritaire sur les rémunérations 2003  ANNEXE"/>
+<LIEN_TXT idtxt="KALITEXT000005650245" titretxt="Procès-verbal de la commission paritaire sur les rémunérations 2004  "/>
+<LIEN_TXT idtxt="KALITEXT000005650247" titretxt="Interprétation des rémunérations"/>
+<LIEN_TXT idtxt="KALITEXT000005650249" titretxt="Mise à la retraite avant 65 ans"/>
+<LIEN_TXT idtxt="KALITEXT000005650253" titretxt="Mise en œuvre de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000020498847" titretxt="Adhésion par lettre du SNPST à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000021682653" titretxt="Intitulé de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000021747698" titretxt="Insertion professionnelle et emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000023714938" titretxt="Fonctionnement de la commission paritaire nationale"/>
+<LIEN_TXT idtxt="KALITEXT000024286682" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000025201797" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000025980975" titretxt="Fonctionnement de la commission paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000026271635" titretxt="CISME"/>
+<LIEN_TXT idtxt="KALITEXT000026804382" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000027041686" titretxt="Modification de l'article 4 de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000027448899" titretxt="Organisation de la révision partielle de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000027593631" titretxt="Modification de l'intitulé de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000027779402" titretxt="Avenant à l'accord de méthode du 11 décembre 2012 organisant la révision partielle de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000027947727" titretxt="Révision partielle de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000028169461" titretxt="CFDT"/>
+<LIEN_TXT idtxt="KALITEXT000028470998" titretxt="Accord intergénérationnel"/>
+<LIEN_TXT idtxt="KALITEXT000028471056" titretxt="Organisation de la la révision partielle de la convention collective (2ème phase)"/>
+<LIEN_TXT idtxt="KALITEXT000028471071" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000029149314" titretxt="Contrat de génération"/>
+<LIEN_TXT idtxt="KALITEXT000029149326" titretxt="Création de la commission paritaire nationale technique"/>
+<LIEN_TXT idtxt="KALITEXT000029256677" titretxt="Avenant à l'annexe I de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000029358761" titretxt="Indemnisation des frais de déplacement et des frais de repas"/>
+<LIEN_TXT idtxt="KALITEXT000029358766" titretxt="Organisation de la révision partielle de la convention collective (2ème phase)"/>
+<LIEN_TXT idtxt="KALITEXT000030057021" titretxt="Organisation de la révision partielle de la convention (2ème phase)"/>
+<LIEN_TXT idtxt="KALITEXT000034331290" titretxt="Méthode pour poursuivre le dialogue social pour 2016-2017"/>
+<LIEN_TXT idtxt="KALITEXT000034331308" titretxt="Modalités de fonctionnement de la commission paritaire nationale"/>
+<LIEN_TXT idtxt="KALITEXT000034625307" titretxt="Révision des articles 5 et 6 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000034764081" titretxt="Révision partielle de la convention collective (2ème phase)"/>
+<LIEN_TXT idtxt="KALITEXT000036063324" titretxt="Insertion professionnelle et maintien dans l'emploi des travailleurs handicapés"/>
+<LIEN_TXT idtxt="KALITEXT000036578586" titretxt="Formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000039179915" titretxt="OPCO Santé"/>
+<LIEN_TXT idtxt="KALITEXT000038435594" titretxt="Insertion professionnelle et maintien dans l'emploi des travailleurs handicapés"/>
+<LIEN_TXT idtxt="KALITEXT000041459639" titretxt="Révision des articles 6.1, 27 et 28 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000042101233" titretxt="Liste des formations éligibles au dispositif de reconversion ou promotion de l'alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000042101246" titretxt="Modification de l'accord du 25 septembre 2019 relatif à la révision de l'annexe II de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000043257759" titretxt="Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP)"/>
+<LIEN_TXT idtxt="KALITEXT000043925448" titretxt="Formation professionnelle, compétences et qualifications"/>
+<LIEN_TXT idtxt="KALITEXT000044066036" titretxt="Avenant n° 1 du 25 mars 2021 (liste des formations éligibles à la Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000044285459" titretxt="Insertion professionnelle et maintien dans l'emploi des travailleurs handicapés"/>
+<LIEN_TXT idtxt="KALITEXT000045396348" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000045829495" titretxt="Adhésion de la CGT à l'accord du 20 mai 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045953555" titretxt="Mise en œuvre du télétravail"/>
+<LIEN_TXT idtxt="KALITEXT000045976325" titretxt="Modification de l'annexe I de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000048226591" titretxt="Moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000048226587" titretxt="Moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000047051868" titretxt="Formation professionnelle, développement des compétences et des qualifications"/>
+<LIEN_TXT idtxt="KALITEXT000047331538" titretxt="Révision de la convention collective et de son annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000049337270" titretxt="Formation professionnelle, compétences et qualifications"/>
+<LIEN_TXT idtxt="KALITEXT000049730932" titretxt="Révision de l'annexe II de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000050140724" titretxt="Révision de l'intitulé de la convention collective nationale"/>
+<LIEN_TXT idtxt="KALITEXT000050144931" titretxt="Révision partielle de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000050623923" titretxt="Définition des catégories de bénéficiaires de régime de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051149768" titretxt="Formation professionnelle, développement des compétences et des qualifications"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650255" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650257" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650259" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650261" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650263" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650265" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650267" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650269" titretxt="Salaires (cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650271" titretxt="Salaires (cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650273" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650275" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650277" titretxt="Salaires (cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650279" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650281" titretxt="Salaires (cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650283" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650285" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650287" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650289" titretxt="Salaires (employés et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650291" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650293" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650295" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650297" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650299" titretxt="Salaires (médecins du travail)"/>
+<LIEN_TXT idtxt="KALITEXT000005650301" titretxt="Salaires (employés et cadres)"/>
+<LIEN_TXT idtxt="KALITEXT000005650303" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650305" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650307" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650309" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018772057" titretxt="Indemnisation des frais de déplacement et des frais de repas "/>
+<LIEN_TXT idtxt="KALITEXT000018826999" titretxt="Salaires au 1er janvier 2008"/>
+<LIEN_TXT idtxt="KALITEXT000020973930" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021012597" titretxt="Indemnisation des frais de déplacement et des frais de repas"/>
+<LIEN_TXT idtxt="KALITEXT000022760128" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022840132" titretxt="Indemnisation des frais de déplacement et des frais de repas"/>
+<LIEN_TXT idtxt="KALITEXT000024286658" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024286667" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025991132" titretxt="Salaires au 1er janvier 2012"/>
+<LIEN_TXT idtxt="KALITEXT000025991139" titretxt="Frais de déplacement et de repas"/>
+<LIEN_TXT idtxt="KALITEXT000027662879" titretxt="Frais de déplacement et de repas au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000027662892" titretxt="Salaires au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029176435" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000029176440" titretxt="Indemnisation des frais de déplacement et de repas au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000029358753" titretxt="Rémunérations minimales annuelles garanties des collaborateurs médecins au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000032826767" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000032826779" titretxt="Indemnisation des frais de déplacement et de repas au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035401354" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000035401337" titretxt="Indemnisation des frais de déplacement et de repas au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323916" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038908338" titretxt="RMAG au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000038908349" titretxt="Indemnisation frais de déplacements et repas au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042313564" titretxt="RMAG au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000044159487" titretxt="Indemnisation des frais de déplacement et de repas au 1er mars 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045976330" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045976308" titretxt="Frais de déplacement et frais de repas au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047537310" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047537321" titretxt="Frais de déplacement et frais de repas au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049730921" titretxt="Rémunérations minimales annuelles garanties au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049756152" titretxt="Indemnisation des frais de déplacement et des frais de repas"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650311" titretxt="ARRÊTÉ du 18 octobre 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005650313" titretxt="ARRÊTÉ du 18 octobre 1977"/>
+<LIEN_TXT idtxt="KALITEXT000005650315" titretxt="ARRÊTÉ du 22 mars 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005650317" titretxt="ARRÊTÉ du 17 juillet 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005650319" titretxt="ARRÊTÉ du 19 décembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005650321" titretxt="ARRÊTÉ du 26 juillet 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005650323" titretxt="ARRÊTÉ du 15 février 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005650325" titretxt="ARRÊTÉ du 18 juin 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005650327" titretxt="ARRÊTÉ du 29 septembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005650329" titretxt="ARRÊTÉ du 1 décembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005650331" titretxt="ARRETE du 13 octobre 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005650333" titretxt="ARRÊTÉ du 21 janvier 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005650335" titretxt="ARRÊTÉ du 18 mai 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005650337" titretxt="ARRETE du 16 février 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005650339" titretxt="ARRÊTÉ du 4 mai 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005650341" titretxt="ARRÊTÉ du 22 novembre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005650343" titretxt="ARRÊTÉ du 1 mars 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005650345" titretxt="ARRÊTÉ du 22 mars 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005650347" titretxt="ARRÊTÉ du 6 mars 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005650349" titretxt="ARRETE du 31 mars 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005650351" titretxt="ARRÊTÉ du 27 avril 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005650353" titretxt="ARRÊTÉ du 29 avril 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005650355" titretxt="ARRÊTÉ du 1 février 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005650357" titretxt="ARRETE du 26 avril 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005650359" titretxt="ARRÊTÉ du 11 mai 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005650361" titretxt="ARRÊTÉ du 24 juin 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005650363" titretxt="ARRÊTÉ du 13 août 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005650365" titretxt="ARRÊTÉ du 22 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005650367" titretxt="ARRÊTÉ du 27 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005650370" titretxt="ARRÊTÉ du 16 avril 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005650372" titretxt="ARRETE du 15 avril 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005650374" titretxt="ARRETE du 1 avril 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005650376" titretxt="ARRETE du 15 avril 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005650378" titretxt="ARRETE du 16 avril 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005650380" titretxt="ARRETE du 23 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005650382" titretxt="ARRETE du 19 mai 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005650384" titretxt="ARRETE du 15 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005650386" titretxt="ARRETE du 18 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005650388" titretxt="ARRETE du 23 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005650390" titretxt="ARRETE du 15 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005650392" titretxt="ARRETE du 26 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005650394" titretxt="ARRETE du 18 juillet 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Services de santé au travail interentreprises</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3031</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

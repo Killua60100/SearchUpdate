@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051346926</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/34/69/KALIARTI000051346926.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047823880">Annexe 2 Salaires minima hiérarchiques</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2024-07-01" etat="REMPLACE" fin="2025-04-01" id="KALIARTI000049634543" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051346926" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-08-01" etat="REMPLACE" fin="2024-07-01" id="KALIARTI000045397139" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="center">Annexe 2 <br/>Salaires minima hiérarchiques </p>
+<p>Les valeurs des salaires minima hiérarchiques conventionnels, quelle que soit l'ancienneté, sont les suivantes, étant précisé qu'aucun salaire ne peut être inférieur au Smic. </p>
+<p align="center">Employés </p>
+
+<table border="1">
+<tbody>
+<tr>
+<td align="center" rowspan="3">Niveau I </td>
+<td align="center">Échelon 1 </td>
+<td align="center">1 820,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">1 825,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">1 830,00 € </td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Niveau II </td>
+<td align="center">Échelon 1 </td>
+<td align="center">1 835,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">1 845,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">1 855,00 € </td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Niveau III </td>
+<td align="center">Échelon 1 </td>
+<td align="center">1 865,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">1 875,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">1 885,00 € </td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Niveau IV </td>
+<td align="center">Échelon 1 </td>
+<td align="center">1 895,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">1 915,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">1 935,00 € </td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+<br/>Personnel de maîtrise </p>
+
+<table border="1">
+<tbody>
+<tr>
+<td align="center" rowspan="3">Niveau V </td>
+<td align="center">Échelon 1 </td>
+<td align="center">1 965,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">2 045,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">2 115,00 € </td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Niveau VI </td>
+<td align="center">Échelon 1 </td>
+<td align="center">2 145,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">2 225,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">2 325,00 € </td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+<p align="center">Cadres </p>
+
+<table border="1">
+<tbody>
+<tr>
+<td align="center" rowspan="3">Niveau VII </td>
+<td align="center">Échelon 1 </td>
+<td align="center">2 890,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">3 100,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">3 365,00 € </td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Niveau VIII </td>
+<td align="center">Échelon 1 </td>
+<td align="center">3 540,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 2 </td>
+<td align="center">3 722,00 € </td>
+</tr>
+<tr>
+<td align="center">Échelon 3 </td>
+<td align="center">3 936,00 € </td>
+</tr>
+<tr>
+<td align="center">Niveau IX </td>
+<td align="center">– </td>
+<td align="center">4 701,00 € </td>
+</tr>
+</tbody>
+</table>
+
+<p>La fixation des minima conventionnels prévus par la présente annexe ne fait pas obstacle, pour les entreprises concernées, à l'obligation périodique de négociation des salaires effectifs en application de des articles L. 2242-1,1° et L. 2242-13 du code du travail. </p>
+<p>Les partenaires sociaux, dans la négociation de la présente annexe, ont pris en compte l'objectif d'égalité professionnelle entre les femmes et les hommes, ainsi que les mesures permettant de l'atteindre. </p>
+<p>Les partenaires sociaux rappellent les dispositions de l'article L. 3221-2 du code du travail, qui précisent que « tout employeur assure, pour un même travail ou un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes » et indiquent que, conformément à l'annexe relative à l'égalité professionnelle et salariale entre les femmes et les hommes, il appartient aux entreprises de la branche de supprimer les écarts de rémunérations entre les femmes et les hommes à emploi de valeur égale sans raisons objectives pouvant les justifier. Pour ce faire, les partenaires sociaux rappellent que la négociation collective d'entreprise périodique (pour les entreprises soumises à cette obligation) en matière d'égalité professionnelle entre les femmes et les hommes fait l'objet de plusieurs dispositions légales codifiées notamment aux articles L. 2242-1, L. 2242-13, L. 2242-15 et L. 2242-17 du code du travail. De même, en l'absence d'accord prévoyant les mesures visant à supprimer les écarts de rémunération entre les femmes et les hommes, la négociation sur les salaires effectifs prévue au 1° de l'article L. 2242-1 porte également sur la programmation de mesures permettant de supprimer les écarts de rémunération et les différences de déroulement de carrière entre les femmes et les hommes.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051337017" datesignatexte="2025-02-25" id="JORFARTI000051337021" naturetexte="ARRETE" nortexte="TSST2505914A" num="1" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 25 février 2025 - art. 1, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000051439807" datesignatexte="2025-03-24" id="JORFTEXT000051439807" naturetexte="ARRETE" nortexte="TSST2508188A" num="" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 24 mars 2025, v. init.</LIEN>
+<LIEN cidtexte="KALITEXT000051315280" datesignatexte="2024-12-10" id="KALIARTI000051315283" naturetexte="Avenant" nortexte="ASET2550044M" num="1er" numtexte="2" sens="cible" typelien="MODIFIE">Salaires minima hiérarchiques au 1er avril 2025... - art. 1er (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901751" naturetexte="CODE" nortexte="" num="L2242-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2242-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901763" naturetexte="CODE" nortexte="" num="L2242-13" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2242-13</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901765" naturetexte="CODE" nortexte="" num="L2242-15" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2242-15</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901767" naturetexte="CODE" nortexte="" num="L2242-17" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2242-17</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902818" naturetexte="CODE" nortexte="" num="L3221-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3221-2</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025201750</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/20/17/KALIARTI000025201750.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Date d'effet</TITRE>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000025201741" date_publi="2999-01-01" date_signature="2011-10-14" nature="Avenant" nor="ASET1151530M" num="1" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance" debut="2009-07-01" fin="2999-01-01" id_txt="KALITEXT000025201741">Avenant n° 1 du 14 octobre 2009 à l'accord du 16 mars 2009 relatif à la prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027065067" date_publi="2011-06-24" etat="VIGUEUR_ETEN" nature="IDCC" num="3032" titre="Convention collective nationale de l'esthétique-cosmétique et de l'enseignement technique et professionnel lié aux métiers de l'esthétique et de la parfumerie du 24 juin 2011 " url="conteneur/KALI/CONT/00/00/27/06/50/KALICONT000027065067.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2009-07-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000025201750" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>La date d'effet du présent avenant est fixée au 1er juillet 2009.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

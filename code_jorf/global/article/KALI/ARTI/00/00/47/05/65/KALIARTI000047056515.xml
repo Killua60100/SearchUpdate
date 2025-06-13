@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047056515</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/05/65/KALIARTI000047056515.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-01-01</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2023-01-01" id="KALISCTA000027715066">Titre III Conditions de rémunération des directeurs artistiques</TITRE_TM>
+<TITRE_TM debut="2023-01-01" fin="2025-04-01" id="KALISCTA000047056517">Titre III Conditions de rémunération des directrices et directeurs artistiques</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2023-01-01" etat="ABROGE" fin="2025-04-01" id="KALIARTI000047056515" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-02-05" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000027715088" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Directrice ou directeur artistique : cadre engagé pour assurer la direction artistique du doublage d'une œuvre audiovisuelle et tout ou partie des tâches ci-dessous répertoriées.</p>
+<p align="left">Le directeur ou la directrice artistique est par définition en charge de la distribution du doublage de l'œuvre audiovisuelle dont il ou elle assure l'enregistrement. En conséquence, il ou elle ne devra pas être distribué pour le doublage de ladite œuvre.</p>
+<p align="left">Il est rappelé que la catégorie de rémunération applicable à la direction d'un film-annonce (ou FA) dépend de la catégorie de l'œuvre que le dit FA présente.</p>
+<p align="center">Cinéma</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Essai</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2014</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2023</th>
+</tr>
+<tr>
+<td align="center">
+<strong>Préparation, par série d'essai </strong>
+</td>
+<td/>
+<td align="center">177,46 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">145,02 €</td>
+<td align="center">187,39 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td align="center">233,50 €</td>
+<td align="center">374,78 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td align="center">373,61 €</td>
+<td align="center">749,55 €</td>
+</tr>
+<tr>
+<th>Préparation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Distribution + projection/ visionnage (1 jour)</td>
+<td align="center">561,64 €</td>
+<td align="center">640,27 €</td>
+</tr>
+<tr>
+<td align="center">Plan + convocations, incluant jusqu'à 7 jours d'enregistrement (2 jours)</td>
+<td align="center">411,71 €</td>
+<td align="center">532,39 €</td>
+</tr>
+<tr>
+<td align="center">Plan + convocations, par jour d'enregistrement, au-delà du 7e jour d'enregistrement</td>
+<td/>
+<td align="center">113,13 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 2 x 1/2 journées</td>
+<td align="center">464,55 €</td>
+<td align="center">529,59 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 3 x 1/2 journées</td>
+<td align="center">618,17 €</td>
+<td align="center">704,71 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 4 x 1/2 journées</td>
+<td align="center">655,04 €</td>
+<td align="center">746,75 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 5 x 1/2 journées</td>
+<td align="center">795,15 €</td>
+<td align="center">906,47 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 6 x 1/2 journées</td>
+<td align="center">843,08 €</td>
+<td align="center">961,11 €</td>
+</tr>
+<tr>
+<td align="center">1/2 journée supplémentaire</td>
+<td align="center">149,93 €</td>
+<td align="center">170,92 €</td>
+</tr>
+<tr>
+<th>Film-annonce (FA)</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">
+<strong>FA d'un film, indépendant des journées d'enregistrement du film : </strong>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par FA (1 jour)</td>
+<td/>
+<td align="center">177,46 €</td>
+</tr>
+<tr>
+<td align="center">Direction, par FA et pour la 1re séance</td>
+<td align="center">233,50 €</td>
+<td align="center">374,78 €</td>
+</tr>
+<tr>
+<td align="center">Direction, séance supplémentaire, si la séance supplémentaire n'est pas le même jour que la séance initiale.</td>
+<td/>
+<td align="center">247,35 €</td>
+</tr>
+<tr>
+<td align="center">
+<strong>FA d'un film, inclus dans la plage horaire de l'enregistrement dudit film </strong>
+</td>
+<td/>
+<td align="center">0,00 €</td>
+</tr>
+<tr>
+<th>Enregistrement</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Jusqu'à 3 jours, par jour</td>
+<td align="center">749,67 €</td>
+<td align="center">854,62 €</td>
+</tr>
+<tr>
+<td align="center">Au-delà de 3 jours, par jour dès le premier jour</td>
+<td align="center">657,50 €</td>
+<td align="center">749,55 €</td>
+</tr>
+<tr>
+<th>Ré enregistrement (retakes)</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par série de réenregistrement</td>
+<td/>
+<td align="center">177,46 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">145,02 €</td>
+<td align="center">187,39 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td align="center">233,50 €</td>
+<td align="center">374,78 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td align="center">373,61 €</td>
+<td align="center">749,55 €</td>
+</tr>
+<tr>
+<th>Interlock, conformation, mixage</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Interlock (visionnage et écoute du film avant mixage)</td>
+<td/>
+<td align="center">105,00 €</td>
+</tr>
+<tr>
+<td align="center">Écoute client, en dehors des heures d'enregistrement, par heure</td>
+<td/>
+<td align="center">93,69 €</td>
+</tr>
+<tr>
+<td align="center">Préparation, par série de conformation</td>
+<td/>
+<td align="center">266,20 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, 1/2 journée</td>
+<td/>
+<td align="center">374,78 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, journée</td>
+<td/>
+<td align="center">749,55 €</td>
+</tr>
+<tr>
+<td align="center">Mixage</td>
+<td align="center">280,21 €</td>
+<td align="center">319,44 €</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">TV films, vidéo et internet</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Essai</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2014</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2023</th>
+</tr>
+<tr>
+<td align="center">Préparation, par série d'essai</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">105,08 €</td>
+<td align="center">133,45 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td align="center">171,63 €</td>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td align="center">281,37 €</td>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<th>Préparation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Forfait « distribution + plan de travail + convocation » (1 jour)</td>
+<td align="center">337,41 €</td>
+<td align="center">404,89 €</td>
+</tr>
+<tr>
+<td align="center">Forfait “ distribution ” (1/2 journée)</td>
+<td align="center">177,46 €</td>
+<td align="center">212,95 €</td>
+</tr>
+<tr>
+<td align="center">Forfait “ plan de travail ” (1/2 journée)</td>
+<td align="center">240,51 €</td>
+<td align="center">288,61 €</td>
+</tr>
+<tr>
+<td align="center">Forfait “ convocation ” (1/2 journée)</td>
+<td align="center">44,37 €</td>
+<td align="center">53,24 €</td>
+</tr>
+<tr>
+<td align="center">Vérification 1 journée</td>
+<td align="center">231,17 €</td>
+<td align="center">373,66 €</td>
+</tr>
+<tr>
+<td align="center">Vérification, 1/2 journée supplémentaire</td>
+<td align="center">115,58 €</td>
+<td align="center">186,83 €</td>
+</tr>
+<tr>
+<th>Film-annonce (FA)</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">
+<strong>FA d'un TV Film, indépendant des journées d'enregistrement du TV Film </strong>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par FA (1 jour)</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction, par FA et pour la 1re séance</td>
+<td align="center">105,08 €</td>
+<td align="center">210,16 €</td>
+</tr>
+<tr>
+<td align="center">Direction, séance supplémentaire, si la séance supplémentaire n'est pas le même jour que la séance initiale</td>
+<td/>
+<td align="center">138,71 €</td>
+</tr>
+<tr>
+<td align="center">
+<strong>FA d'un TV Film, inclus dans la plage horaire de l'enregistrement dudit TV Film </strong>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Direction, par FA</td>
+<td/>
+<td align="center">0,00 €</td>
+</tr>
+<tr>
+<th>Enregistrement</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">444,83 €</td>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<th>Ré enregistrement (retakes)/ tracks</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par série de Réenregistrement</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">105,08 €</td>
+<td align="center">133,45 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td/>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td/>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<th>Interlock, conformation, mixage</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Interlock (visionnage et écoute du TV Film avant mixage)</td>
+<td/>
+<td align="center">105,00 €</td>
+</tr>
+<tr>
+<td align="center">Préparation, par jour de conformation</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, 1/2 journée</td>
+<td/>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, journée</td>
+<td/>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<td align="center">Mixage</td>
+<td align="center">281,37 €</td>
+<td align="center">320,76 €</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">TV séries</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Essai</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2014</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2023</th>
+</tr>
+<tr>
+<td align="center">
+<strong>Préparation, par série d'essai </strong>
+</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">105,08 €</td>
+<td align="center">133,45 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td align="center">171,63 €</td>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td align="center">281,37 €</td>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<th>Préparation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Plan de travail + convocations, par jour d'enregistrement</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Vérification, 1 journée</td>
+<td/>
+<td align="center">373,66 €</td>
+</tr>
+<tr>
+<td align="center">Vérification, 1/2 journée supplémentaire</td>
+<td/>
+<td align="center">186,83 €</td>
+</tr>
+<tr>
+<th>Enregistrement, incluant la distribution</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">444,83 €</td>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<td align="center">Pour une série dont la saison est constituée de plus de 52 épisodes, si au moins 52 jours sur une période de 12 mois consécutifs sont confiés au même directeur artistique</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">357,26 €</td>
+<td align="center">428,71 €</td>
+</tr>
+<tr>
+<th>Ré enregistrement (retakes)/ tracks</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par série de Réenregistrement</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td align="center">105,08 €</td>
+<td align="center">133,45 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td/>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td/>
+<td align="center">533,80 €</td>
+</tr>
+<tr>
+<th>Conformation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Préparation, par jour de conformation</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, 1/2 journée</td>
+<td/>
+<td align="center">266,90 €</td>
+</tr>
+<tr>
+<td align="center">Direction de conformation, journée</td>
+<td/>
+<td align="center">533,80 €</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">Bonus (tous supports existants)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Préparation</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2014</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2023</th>
+</tr>
+<tr>
+<td align="center">Plan de travail + convocations, par jour d'enregistrement</td>
+<td/>
+<td align="center">105,07 €</td>
+</tr>
+<tr>
+<th>Enregistrement, incluant la distribution</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">444,83 €</td>
+<td align="center">533,80 €</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">Documentaires, reportages, institutionnels</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Essai</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2014</th>
+<th>Salaires minimaux en vigueur au 1er janvier 2023</th>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td/>
+<td align="center">253,55 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1 journée</td>
+<td/>
+<td align="center">507,11 €</td>
+</tr>
+<tr>
+<th>Préparation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Jusqu'à 3 artistes interprètes distribués pour le doublage de l'œuvre : préparation, par journée d'enregistrement</td>
+<td/>
+<td align="center">0,00 €</td>
+</tr>
+<tr>
+<td align="center">Si plus de 3 artistes interprètes distribués pour le doublage de l'œuvre : préparation, par journée d'enregistrement</td>
+<td/>
+<td align="center">78,80 €</td>
+</tr>
+<tr>
+<th>Enregistrement</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">444,83 €</td>
+<td align="center">507,11 €</td>
+</tr>
+<tr>
+<td align="center">1/2 journée</td>
+<td align="center">221,83 €</td>
+<td align="center">253,55 €</td>
+</tr>
+<tr>
+<th>Ré enregistrement (retakes)/ tracks/ conformation</th>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">Direction, 1/4 de journée</td>
+<td/>
+<td align="center">126,78 €</td>
+</tr>
+<tr>
+<td align="center">Direction, 1/2 journée</td>
+<td/>
+<td align="center">253,55 €</td>
+</tr>
+<tr>
+<td align="center">Direction, journée</td>
+<td/>
+<td align="center">507,11 €</td>
+</tr>
+</tbody>
+</table>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000047046154" datesignatexte="2022-11-07" id="KALIARTI000047046169" naturetexte="Avenant" nortexte="ASET2251416M" num="7" numtexte="1" sens="cible" typelien="MODIFIE">Salaires minimaux au 1er janvier 2023 - art. 7 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

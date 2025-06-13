@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051537676</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/53/76/KALIARTI000051537676.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051537665" date_publi="2025-04-30" date_signature="2025-01-24" nature="Avenant" nor="ASET2550252M" num="3" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051537665">Avenant n° 3 du 24 janvier 2025 à l'avenant n° 2 du 24 octobre 2024 relatif au financement du paritarisme</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-06-01" fin="2999-01-01" id="KALISCTA000051537668">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635185" date_publi="1979-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1000" titre="Convention collective nationale des avocats et de leur personnel du 20 février 1979. Etendue par arrêté du 13 novembre 1979 JONC 9 janvier 1980" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635185.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051537676" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Par avenant n° 2 du 24 octobre 2024 à l'accord du 14 avril 2023 relatif au financement du paritarisme « personnel salarié des cabinets d'avocats et avocats salariés », il a été décidé de confier la collecte du fonds de fonctionnement du paritarisme à l'opérateur de compétences des entreprises de proximité (OPCO EP) et ce, à compter du 1er janvier 2025.</p>
+<p align="left">L'opérateur en charge de la collecte de la cotisation jusqu'au 31 décembre 2024 a procédé à cette collecte mensuellement durant l'année civile 2024.</p>
+<p align="left">Il est précisé que l'OPCO EP collecte à terme annuel échu, soit début 2026 au titre de la masse salariale 2025.</p>
+<p align="left">Or, l'avenant n° 2 précité a prévu que la cotisation 2025 sera appelée sur la base de la masse salariale 2024.</p>
+<p align="left">L'assiette 2024 ayant déjà été utilisée au titre de la collecte, le présent avenant a pour objet d'adapter l'assiette de la collecte pour tenir compte de l'évolution du mode de collecte mensuel au mode de collecte annuel à terme échu.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

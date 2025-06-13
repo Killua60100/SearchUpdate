@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000030185307</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/30/18/53/KALICONT000030185307.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des coopératives de consommateurs salariés du 23 novembre 2018 (21e édition) - Etendue par arrêté du 21 mai 2021 JORF 12 juin 2021</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3205</NUM>
+
+<DATE_PUBLI>2019-01-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000030160120" titretxt="Convention collective du 16 octobre 2014 (20e édition) et additifs des coopératives de consommateurs"/>
+<LIEN_TXT idtxt="KALITEXT000038524041" titretxt="Convention collective nationale des coopératives de consommateurs salariés du 23 novembre 2018 (21e édition)"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000023589738" titretxt="Prévention du stress et des facteurs psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000029131285" titretxt="Temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000030160246" titretxt="Nouveau contrat social"/>
+<LIEN_TXT idtxt="KALITEXT000031254741" titretxt="Formation, sécurisation de l'emploi et parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000032748802" titretxt="Forfaits jours de l'encadrement"/>
+<LIEN_TXT idtxt="KALITEXT000034156892" titretxt="Création d'un régime de retraite surcomplémentaire pour les cadres"/>
+<LIEN_TXT idtxt="KALITEXT000034156917" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000036903872" titretxt="Formation, sécurisation de l'emploi et parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000037351493" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000037351516" titretxt="Classifications"/>
+<LIEN_TXT idtxt="KALITEXT000039049800" titretxt="Désignation Opcommerce"/>
+<LIEN_TXT idtxt="KALITEXT000039406895" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000047331942" titretxt="Liberté de choisir son avenir professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000050793189" titretxt="Liberté de choisir son avenir professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000048052713" titretxt="Congés d'ancienneté et amplitudes de travail"/>
+<LIEN_TXT idtxt="KALITEXT000049309143" titretxt="Égalité professionnelle femmes/hommes"/>
+<LIEN_TXT idtxt="KALITEXT000049100487" titretxt="Création d'un régime de retraite surcomplémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000050792557" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000050792569" titretxt="Liberté de choisir son avenir professionnel"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000033084093" titretxt="Rémunérations minimales au 1er mai 2016"/>
+<LIEN_TXT idtxt="KALITEXT000039070910" titretxt="Salaires minima au 1er avril 2019"/>
+<LIEN_TXT idtxt="KALITEXT000044325062" titretxt="Salaires au 1er juin 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046565690" titretxt="Salaires minimaux au 1er mai 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052728" titretxt="Salaires minima au 1er février 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048052742" titretxt="Salaires minima au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050052144" titretxt="Salaires minima au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493781" titretxt="Salaires minima au 1er février 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Coopératives de consommateurs</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

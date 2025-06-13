@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649848</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649848.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2024-10-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649839">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-12-25" etat="REMPLACE" fin="2024-10-03" id="KALIARTI000038649848" num="1er" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-10-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050712162" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La présente convention collective conclue en application des textes légaux et réglementaires régit les relations entre :<br/>
+– les entreprises de transport de marchandises en navigation intérieure généralement référencées sous le code APE 5040 Z ;<br/>
+– les entreprises de transport de passagers en navigation intérieure généralement référencées sous le code APE 5030 Z,<br/>
+et leurs salariés sédentaires et navigants.</p>
+<p align="left">Les sociétés non référencées sous les codes visés ci-dessus, appartenant à des groupes de sociétés dont l'activité principale est le transport de marchandises ou de passagers en navigation intérieure, et assurant pour les sociétés de ce groupe la direction stratégique ou organisationnelle, la supervision et la gestion, appliquent à titre volontaire à leur personnel sédentaire les dispositions de la présente convention, de ses annexes et avenants.</p>
+<p align="left">Elle s'applique sur l'ensemble du réseau navigable français métropolitain.</p>
+<p align="left">Elle s'applique également sur les voies à régime international et sur les eaux navigables à l'étranger dans le respect des règlements édictés par les états ou accords internationaux et des conventions entre les partenaires sociaux.</p>
+<p align="left">Des annexes, fixent les conditions particulières de travail, les grilles de classifications, les grilles de rémunérations pour chacune des catégories de personnel désignées ci-après :<br/>
+– personnels navigants des entreprises de transport de marchandises flotte classique ;<br/>
+– personnels navigants des entreprises de transport de marchandises flotte exploitée en relèves ;<br/>
+– ouvriers des entreprises de transport de marchandises et de transport de passagers ;<br/>
+– employés et agents de maîtrise de transport de marchandises et de transport de passagers ;<br/>
+– ingénieurs et cadres de transport de marchandises et de transport de passagers ;<br/>
+– personnels navigants des entreprises de transports de passagers ;<br/>
+– personnels navigants commerciaux, de restauration et d'hôtellerie des entreprises de transport de passagers.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

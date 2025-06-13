@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047865922</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/86/59/KALIARTI000047865922.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-04-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000047865919" date_publi="2999-01-01" date_signature="2023-04-14" nature="Accord" nor="ASET2350639M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2023-04-14" fin="2999-01-01" id_txt="KALITEXT000047865919">Accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005636008" date_publi="1995-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1850" titre="Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996" url="conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-04-14" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047865922" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent accord s'applique aux entités relevant de la convention collective nationale du personnel des cabinets d'avocats du 20 février 1979 (IDCC 1000) et la convention collective nationale des avocats salariés du 17 février 1995 (IDCC 1850).</p>
+<p align="left">Il sera applicable pour les entreprises entrant dans le champ d'application de la convention collective nationale des salariés des cabinets d'avocats issue des travaux d'harmonisation et fusion en cours à la date du présent accord.</p>
+<p align="left">Ces dispositions pourront intégrer en tant que de besoin la convention collective nationale des salariés des cabinets d'avocats issue des travaux d'harmonisation et fusion en cours à la date du présent accord.</p>
+<p align="left">En cas de maintien des deux conventions collectives nationales, les dispositions du présent accord continueront à s'appliquer pour chaque convention collective précitée.</p>
+<p align="left">En cas d'arrêté ministériel fixant un rattachement d'une des deux conventions collectives à l'autre, le présent accord restera applicable.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

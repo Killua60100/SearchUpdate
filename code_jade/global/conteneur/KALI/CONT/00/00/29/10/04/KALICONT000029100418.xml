@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000029100418</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/29/10/04/KALICONT000029100418.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique du 22 juin 2013</TITRE>
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+<NUM>3203</NUM>
+
+<DATE_PUBLI>2013-06-22</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000029071925" titretxt="Convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique du 22 juin 2013"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000029072041" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000036543327" titretxt="Durée du travail"/>
+<LIEN_TXT idtxt="KALITEXT000036543357" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000036543410" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000036543461" titretxt="Dispositions de l'article 3.2.1"/>
+<LIEN_TXT idtxt="KALITEXT000036543479" titretxt="Calendrier de négociations"/>
+<LIEN_TXT idtxt="KALITEXT000036904004" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000036904022" titretxt="Modification convention collective (art. 1.1, champ d'application professionnel)"/>
+<LIEN_TXT idtxt="KALITEXT000038616473" titretxt="Régime de complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000042096375" titretxt="Gestion prévisionnelle des emplois et des compétences (GPEC)"/>
+<LIEN_TXT idtxt="KALITEXT000042096430" titretxt="Régime de complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000043104393" titretxt="Avenant n°1 à l'accord du 15 septembre 2015 (prévoyance complémentaire)"/>
+<LIEN_TXT idtxt="KALITEXT000043104428" titretxt="Avenant n° 4 à l'accord du 15 septembre 2015 (complémentaire santé)"/>
+<LIEN_TXT idtxt="KALITEXT000045396761" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000046599605" titretxt="Prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000046599617" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000047582937" titretxt="Méthode de négociation dans le cadre de la mise en place de la convention collective harmonisée"/>
+<LIEN_TXT idtxt="KALITEXT000047582918" titretxt="Fusion des champs d'application des branches professionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000047582960" titretxt="CPPNI pour les champs conventionnels fusionnés"/>
+<LIEN_TXT idtxt="KALITEXT000048052461" titretxt="Droit syndical "/>
+<LIEN_TXT idtxt="KALITEXT000049366656" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000049916673" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051580469" titretxt="Prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051580476" titretxt="Complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000051447117" titretxt="Harmonisation des dispositions conventionnelles en matière de droit syndical national et aide au paritarisme"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000036543322" titretxt="Salaires minima conventionnels au 1er juin 2014"/>
+<LIEN_TXT idtxt="KALITEXT000036543352" titretxt="Salaires minima conventionnels au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000036543451" titretxt="Salaires minima conventionnels au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000036543456" titretxt="Salaires minima conventionnels au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000036904034" titretxt="Salaires minima conventionnels au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038417877" titretxt="Salaires minima conventionnels au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042096455" titretxt="Salaires minima au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043929829" titretxt="Salaires minima conventionnels au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045373166" titretxt="Salaires minima conventionnels au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046599630" titretxt="Salaires minimaux au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047348878" titretxt="Salaires minima conventionnels au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150737" titretxt="Salaires minima conventionnels au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580485" titretxt="Salaires minima conventionnels au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Pêche de loisir et protection du milieu aquatique : structures associatives</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

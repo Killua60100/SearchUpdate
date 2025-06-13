@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715071</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715071.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715064">Titre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715071" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Le présent accord collectif est applicable aux doublages fixés sur le territoire français (y compris DOM) et/ou par une entreprise française et/ou soumis au droit français.<br/>Par doublage, on entend le travail consistant pour un artiste à interpréter vocalement, dans une œuvre audiovisuelle (y compris cinématographique) le caractère, le comportement, les sentiments, les intentions, l'esprit et le jeu d'un rôle qu'il n'a pas lui-même interprété à l'image afin de rendre au personnage son intégrité et sa vérité dans la langue usuelle du spectateur.<br/>Entre dans le champ d'application le doublage du dessin animé dans le cas où il existe une version originale exploitable.<br/>Le présent accord collectif ne couvre pas la post-synchronisation.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

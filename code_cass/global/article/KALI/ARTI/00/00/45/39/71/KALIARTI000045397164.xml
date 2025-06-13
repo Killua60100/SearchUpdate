@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397164</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/71/KALIARTI000045397164.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Suspension du contrat de travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047823901">Annexe 3 Régime de prévoyance complémentaire obligatoire non-cadres</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397164" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">4.1 Suspension du contrat de travail non indemnisée</p>
+<p align="left">En cas de suspension du contrat de travail sans rémunération, notamment en cas de congé parental à temps complet, de congé de présence parentale, de congé sans solde, de congé sabbatique, de congé pour création d'entreprise, les garanties complémentaires de prévoyance sont suspendues.</p>
+<p align="left">Toutefois, les salariés non-cadres peuvent demander le maintien, à titre individuel, de leur couverture décès, sous réserve qu'ils prennent en charge la totalité de la cotisation (part salariale et part patronale) correspondante et qu'ils s'en acquittent directement auprès de l'organisme assureur de l'employeur.</p>
+<p align="left">La demande de maintien devra être communiquée à l'employeur pour la bonne forme et formalisée dans le mois précédant la date d'effet de la suspension du contrat de travail, par le salarié auprès de l'organisme assureur.</p>
+<p align="center">4.2 Suspension du contrat de travail indemnisée</p>
+<p align="left">L'adhésion des salariés non-cadres au régime complémentaire de prévoyance est maintenue obligatoirement en cas de suspension de leur contrat de travail, quelle qu'en soit la cause, dès lors qu'ils bénéficient, pendant cette période :<br/>
+– d'un maintien de salaire, total ou partiel ;<br/>
+– ou d'indemnités journalières complémentaires financées au moins pour partie par l'employeur ;<br/>
+– ou d'un revenu de remplacement versé par l'employeur. Ce cas concerne notamment les salariés placés en activité partielle ou activité partielle de longue durée, ainsi que toute période de congé rémunéré par l'employeur (congé de reclassement, congé de mobilité…) ;<br/>
+– ou d'une pension d'invalidité ou d'une rente d'incapacité ou d'indemnités journalières de la sécurité sociale ;<br/>
+– ou d'un congé maternité ou paternité ou d'adoption.</p>
+<p align="left">Dans une telle hypothèse, l'employeur versera une contribution calculée selon les règles applicables à ce salarié non-cadre, pendant toute la période de suspension du contrat de travail indemnisée. Parallèlement, le salarié non-cadre continuera à s'acquitter de sa propre part de cotisation.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

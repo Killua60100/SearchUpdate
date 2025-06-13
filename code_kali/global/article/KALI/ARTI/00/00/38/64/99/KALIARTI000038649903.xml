@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649903</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/99/KALIARTI000038649903.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>27</NUM>
+<TITRE>Congés d'adoption</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649845">Chapitre VIII Contrat de travail et parentalité</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649903" num="27" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">27.10. Le salarié à qui l'autorité administrative ou tout organisme désigné par voie réglementaire confie un enfant en vue de son adoption a le droit de bénéficier d'un congé d'adoption d'une durée de 10 semaines au plus à dater de l'arrivée de l'enfant au foyer. Ce congé peut précéder de 7 jours consécutifs, au plus, l'arrivée de l'enfant au foyer.</p>
+<p align="left">Cette période peut être prolongée dans les cas prévus par la législation en vigueur à l'article L. 1225-37 du code du travail.</p>
+<p align="left">À l'issue de ce congé le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente.</p>
+<p align="left">27.20. Pendant les périodes de congé, le salarié justifiant de 1 an d'ancienneté, bénéficiera du maintien à plein traitement pendant une période de 10 semaines.</p>
+<p align="left">Le traitement ainsi assuré est diminué des prestations journalières réglées par les organismes de sécurité sociale ainsi que des éventuelles indemnités versées par les organismes de prévoyance auxquels l'entreprise a pu adhérer.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900919" naturetexte="CODE" nortexte="" num="L1225-37" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1225-37</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000018563634</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/18/56/36/KALICONT000018563634.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la coopération maritime du 7 décembre 2004 (réécrite par avenant n° 8 du 23 novembre 2011)</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>2494</NUM>
+
+<DATE_PUBLI>2005-01-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000026277387" titretxt="Convention collective nationale de la coopération maritime du 7 décembre 2004 (réécrite par avenant n°8 du 23 novembre 2011)"/>
+<LIEN_TXT idtxt="KALITEXT000018563639" titretxt="Convention collective nationale du 7 décembre 2004"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000018878504" titretxt="Classification des cadres"/>
+<LIEN_TXT idtxt="KALITEXT000018878921" titretxt="Salaires et au compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000020277521" titretxt="Avenant à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000020498818" titretxt="Portant diverses modifications"/>
+<LIEN_TXT idtxt="KALITEXT000021041166" titretxt="Champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000023375084" titretxt="Classifications"/>
+<LIEN_TXT idtxt="KALITEXT000024408438" titretxt="Modification du champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000026277513" titretxt="Classifications et salaires au 1er janvier 2012"/>
+<LIEN_TXT idtxt="KALITEXT000032452731" titretxt="Désignation de l'OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000030786101" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000032489173" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000032695913" titretxt="Égalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041978131" titretxt="Fusion des branches professionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000041978144" titretxt="Fusion des négociations interbranches"/>
+<LIEN_TXT idtxt="KALITEXT000043074723" titretxt="Contrat d'opération ou de chantier"/>
+<LIEN_TXT idtxt="KALITEXT000043829840" titretxt="Contrat intermittent"/>
+<LIEN_TXT idtxt="KALITEXT000043829854" titretxt="Forfait jours et droit à la déconnexion"/>
+<LIEN_TXT idtxt="KALITEXT000043954851" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000044253155" titretxt="Modification de l'article 49 de la CCN (IDCC 7019)"/>
+<LIEN_TXT idtxt="KALITEXT000044253166" titretxt="Modification de l'article 10 de la CCN (IDCC 7019)"/>
+<LIEN_TXT idtxt="KALITEXT000046559716" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000047734426" titretxt="Modification du champ d'application de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000050145297" titretxt="Accord de substitution à l'accord du 14 juin 2019 relatif à la fusion des branches professionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000050145307" titretxt="Forfait jours et droit à la déconnexion"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000024408451" titretxt="Salaires minima au 1er janvier 2011"/>
+<LIEN_TXT idtxt="KALITEXT000029337951" titretxt="Salaires minima au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000030786090" titretxt="Salaires minima au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000034868979" titretxt="Salaires minima au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037808248" titretxt="Rémunérations annuelles garanties pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000042606785" titretxt="Salaires minima au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043954863" titretxt="Salaires minima au 1er février 2021"/>
+<LIEN_TXT idtxt="KALITEXT000044479222" titretxt="Salaires 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046559732" titretxt="Salaires minimums conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000047734411" titretxt="Révision de la grille des salaires"/>
+<LIEN_TXT idtxt="KALITEXT000047951759" titretxt="Salaires minimums conventionnels au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049949607" titretxt="Salaires minima au 1er avril 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Coopération maritime</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3326</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

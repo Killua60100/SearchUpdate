@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715070</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715070.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Objet</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715064">Titre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715070" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Le présent accord national fixe les salaires minimaux des artistes-interprètes pour leur prestation de doublage et des directeurs artistiques de doublage. <br/>Le présent accord se substitue à tout autre accord professionnel traitant du même objet sur le même périmètre. Le présent accord se substitue notamment à l'accord national professionnel de salaires du doublage du 3 août 2006 et à ses avenants. <br/>Le présent accord constitue une annexe de la convention collective étendue des entreprises techniques au service de la création et de l'événement (idcc 2717) du 21 février 2008.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000019906608" datesignatexte="2008-02-21" id="KALITEXT000019906608" naturetexte="Convention collective nationale " nortexte="ASET0850463M" num="" numtexte="" sens="source" typelien="CITATION">Convention collective nationale du 21 février 2008</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

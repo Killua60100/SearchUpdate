@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397238</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/72/KALIARTI000045397238.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+<TITRE>Conseil en évolution professionnelle (CEP)</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047825387">Annexe 7 Formation professionnelle tout au long de la vie</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397238" num="12" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Tout salarié peut bénéficier du conseil en évolution professionnelle (CEP) prévu à l'article L. 6111-6 du code du travail. L'objectif de cette prestation est de favoriser l'évolution et la sécurisation de son parcours professionnel.</p>
+<p align="left">Ce conseil gratuit est mis en œuvre dans le cadre du service public régional de l'orientation et assuré par des conseillers d'opérateurs habilités nationalement à délivrer le CEP : Apec, Pôle emploi, Missions locales, Cap emploi et opérateurs régionaux sélectionnés par France compétences.</p>
+<p align="left">Le CEP accompagne les projets d'évolution professionnelle, en lien avec les besoins économiques et sociaux existants et prévisibles dans les territoires. Il facilite l'accès à la formation, en identifiant les compétences de la personne, les qualifications et les formations répondant aux besoins exprimés par elle et les financements disponibles. Il accompagne les salariés dans le cadre de leurs projets de transition professionnelle.</p>
+<p align="left">Le site  https://www.mon-cep.org/ permet de compléter les connaissances sur cet outil.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000028688789" naturetexte="CODE" nortexte="" num="L6111-6" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L6111-6</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

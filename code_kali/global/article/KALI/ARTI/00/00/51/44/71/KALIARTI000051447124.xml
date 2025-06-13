@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051447124</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/44/71/KALIARTI000051447124.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Objet</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051447117" date_publi="2025-04-10" date_signature="2024-11-20" nature="Avenant" nor="ASET2550174M" num="207" num_parution_jo="">
+<TITRE_TXT c_titre_court="Harmonisation des dispositions conventionnelles en matière de droit syndical national et aide au paritarisme" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051447117">Avenant n° 207 du 20 novembre 2024 relatif à l'harmonisation des dispositions conventionnelles en matière de droit syndical national et aide au paritarisme dans le cadre de la fusion des champs conventionnels</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000029100418" date_publi="2013-06-22" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3203" titre="Convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique du 22 juin 2013" url="conteneur/KALI/CONT/00/00/29/10/04/KALICONT000029100418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051447124" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Cet avenant modifie l'article 6, intitulé « Dispositions transitoires » de l'avenant n° 197 relatif au droit syndical national et aide au paritarisme dans le cadre de la fusion des champs Éclat, familles rurales et pêche de loisirs et protection du milieu aquatique.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

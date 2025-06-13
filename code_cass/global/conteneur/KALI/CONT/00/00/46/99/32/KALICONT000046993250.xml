@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000046993250</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/46/99/32/KALICONT000046993250.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la métallurgie du 7 février 2022 - Étendue par arrêté du 14 décembre 2022 JORF 22 décembre 2022</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3248</NUM>
+
+<DATE_PUBLI>2024-01-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046314281" titretxt="Convention collective nationale de la métallurgie du 7 février 2022"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046478339" titretxt="Santé, sécurité, conditions et qualité de vie au travail"/>
+<LIEN_TXT idtxt="KALITEXT000046971135" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000046971220" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000048073975" titretxt="Règlement intérieur CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000048073999" titretxt="Gouvernance et garanties contributives et non-contributives"/>
+<LIEN_TXT idtxt="KALITEXT000048074009" titretxt="Santé, sécurité, conditions et qualité de vie au travail"/>
+<LIEN_TXT idtxt="KALITEXT000048437108" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000048974353" titretxt="Modification de la convention collective nationale"/>
+<LIEN_TXT idtxt="KALITEXT000049869952" titretxt="Égalité professionnelle et suppression des écarts de rémunération entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000050136103" titretxt="Modalités de versement de l'indemnisation complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000046288050" titretxt="Ain (ex-IDCC 914) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046288030" titretxt="Ain (ex-IDCC 914) Remise de la médaille du travail et dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000046532271" titretxt="Ain (ex-IDCC 914) Mesures urgentes en faveur de l'emploi et de la formation professionnelle automobile"/>
+<LIEN_TXT idtxt="KALITEXT000051664974" titretxt="Ain Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046725869" titretxt="Aisne (ex-IDCC 2542) Révision dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046725849" titretxt="Aisne (ex-IDCC 2542) Prime vacances et conditions de travail femmes enceintes"/>
+<LIEN_TXT idtxt="KALITEXT000046581888" titretxt="Allier (ex-IDCC 898) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046266015" titretxt="Alpes-Maritimes (ex-IDCC 1560) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046599348" titretxt="Ardennes (ex-IDCC 827) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050313702" titretxt="Ardennes Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046532521" titretxt="Aube (ex-IDCC 2294) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050313644" titretxt="Aube Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046599526" titretxt="Bas-Rhin (ex-IDCC 1967) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050391637" titretxt="Bas-Rhin Commission paritaire infrarégionale"/>
+<LIEN_TXT idtxt="KALITEXT000046394877" titretxt="Belfort-Montbéliard (ex-IDCC 2755) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051191864" titretxt="Belfort-Montbéliard Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046288419" titretxt="Bouches-du-Rhône et Alpes-de-Haute-Provence (ex-IDCC 2630) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559046" titretxt="Calvados (ex-IDCC 943) Révision des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046288200" titretxt="Charente (ex-IDCC 1572) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047463771" titretxt="Charente-Maritime (ex-IDCC 923) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047463750" titretxt="Charente-Maritime (ex-IDCC 923) Journée de repos supplémentaire et prime de panier jour"/>
+<LIEN_TXT idtxt="KALITEXT000046054250" titretxt="Cher (ex-IDCC 1576) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051580565" titretxt="Cher Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046582040" titretxt="Clermont-Ferrand et Puy-de-Dôme (ex-IDCC 1627) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046565370" titretxt="Corrèze (ex-IDCC 1274) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000045976555" titretxt="Côte-d'Or (ex-IDCC 1885) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000048214050" titretxt="Côte-d'Or (ex-IDCC 1885) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046100070" titretxt="Côtes-d'Armor (ex-IDCC 1634) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046478052" titretxt="Deux-Sèvres (ex-IDCC 1628) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046478033" titretxt="Deux-Sèvres (ex-IDCC 1628) Création de congés de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000046565399" titretxt="Dordogne (ex-IDCC 1353) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046394937" titretxt="Doubs (ex-IDCC 3209) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051191843" titretxt="Doubs Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000047137263" titretxt="Drôme et Ardèche (ex-IDCC 1867) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047212026" titretxt="Drôme et Ardèche (ex-IDCC 1867) Refonte des dispositions conventionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000049620901" titretxt="Drôme et Ardèche Indemnité de repas de jour, indemnité de rappel et valeur du point de la prime d'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000046657100" titretxt="dunkerquoise (Région) (ex-IDCC 1525) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046657076" titretxt="dunkerquoise (Région) (ex-IDCC 1525) Maintien de différences significatives sur des thèmes non traités par les partenaires sociaux"/>
+<LIEN_TXT idtxt="KALITEXT000048255568" titretxt="dunkerquoise (Région) (ex-IDCC 1525) Maintien de différences significatives sur des thèmes non traités par les partenaires sociaux"/>
+<LIEN_TXT idtxt="KALITEXT000048182965" titretxt="dunkerquoise (Région) (ex-IDCC 1525) Mesures urgentes en faveur de l'emploi et de la formation"/>
+<LIEN_TXT idtxt="KALITEXT000047006806" titretxt="Eure (ex-IDCC 887) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046099754" titretxt="Eure-et-Loir (ex-IDCC 984) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051580586" titretxt="Eure-et-Loir Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000047137000" titretxt="Finistère (ex-IDCC 860) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046477964" titretxt="Flandres-Douaisis (ex-IDCC 1387) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046477945" titretxt="Flandres-Douaisis (ex-IDCC 1387) Jours de fête et allocation complémentaire de vacances"/>
+<LIEN_TXT idtxt="KALITEXT000047410177" titretxt="Flandres-Douaisis (ex-IDCC 1387) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046478233" titretxt="Gard et Lozère (ex-IDCC 2126) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046478216" titretxt="Gard et Lozère (ex-IDCC 2126) Médaille du travail"/>
+<LIEN_TXT idtxt="KALITEXT000046054816" titretxt="Gironde et Landes (ex-IDCC 1635) Révision des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046599500" titretxt="Haut-Rhin (ex-IDCC 1912) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050313599" titretxt="Haut-Rhin Commission paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000046581969" titretxt="Haute-Marne et Meuse (ex-IDCC 1315) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046581952" titretxt="Haute-Marne et Meuse (ex-IDCC 1315) Journée de fête locale"/>
+<LIEN_TXT idtxt="KALITEXT000050623992" titretxt="Haute-Marne Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046394914" titretxt="Haute-Saône (ex-IDCC 3053) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051191885" titretxt="Haute-Saône Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000045976281" titretxt="Haute-Savoie (ex-IDCC 836) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046099730" titretxt="Haute-Savoie (ex-IDCC 836) Mesures urgentes en faveur de l'emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000051664932" titretxt="Haute-Savoie Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046394424" titretxt="Haute-Vienne et Creuse (ex-IDCC 937) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046280567" titretxt="Hautes-Pyrénées (ex-IDCC 1626) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046225536" titretxt="Havre (Arrondissement du) (ex-IDCC 979) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046758575" titretxt="Hérault, Aude et Pyrénées-Orientales (ex-IDCC 1577) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046366385" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046366366" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) Maintien de la prime à versements différés et incitation au maintien de l'indemnité transport"/>
+<LIEN_TXT idtxt="KALITEXT000047557045" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) Maintien de la prime à versements différés et incitation au maintien de l'indemnité transport"/>
+<LIEN_TXT idtxt="KALITEXT000048150502" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046737408" titretxt="Indre (ex-IDCC 934) Dénonciation de UIMM Indre des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046099395" titretxt="Indre-et-Loire (ex-IDCC 2992) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051352582" titretxt="Indre-et-Loire Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046394738" titretxt="Isère et Hautes-Alpes (ex-IDCC 2221) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046532463" titretxt="Isère et Hautes-Alpes (ex-IDCC 2221) Maintien des dispositions territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046725720" titretxt="Isère et Hautes-Alpes (ex-IDCC 2221) Protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000047514943" titretxt="Isère et Hautes-Alpes (ex-IDCC 2221) Protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000046394950" titretxt="Jura (ex-IDCC 3231) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000048437037" titretxt="Jura (ex-IDCC 3231) REG"/>
+<LIEN_TXT idtxt="KALITEXT000051150330" titretxt="Jura Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046033749" titretxt="Loir-et-Cher (ex-IDCC 2579) Révision des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051664953" titretxt="Loir-et-Cher Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046582008" titretxt="Loire-Atlantique (ex-IDCC 1369) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046581979" titretxt="Loire-Atlantique (ex-IDCC 1369) Indemnités de panier,  jours fériés et ponts, congé de formation économique, sociale, environnementale et syndicale"/>
+<LIEN_TXT idtxt="KALITEXT000050391665" titretxt="Loire-Atlantique Adhésion de FO Métaux 44"/>
+<LIEN_TXT idtxt="KALITEXT000046599458" titretxt="Loire et arrondissement d'Yssingeaux (ex-IDCC 1578) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046266129" titretxt="Loiret (ex-IDCC 1966) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046266111" titretxt="Loiret (ex-IDCC 1966) Maintien des particularités de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000051352603" titretxt="Loiret Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000051150291" titretxt="Lorraine Emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046266075" titretxt="Maine-et-Loire (ex-IDCC 1902) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046265759" titretxt="Manche (ex-IDCC 828) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046532247" titretxt="Marne (ex-IDCC 899) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050313665" titretxt="Marne Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046559495" titretxt="Maubeuge (Région de) (ex-IDCC 1813) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046725621" titretxt="Maubeuge (Région de) (ex-IDCC 1813) Spécificités territoriales de l'arrondissement d'Avesnes"/>
+<LIEN_TXT idtxt="KALITEXT000047703046" titretxt="Maubeuge (Région de) (ex-IDCC 1813) Mesures urgentes emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046565629" titretxt="Mayenne (ex-IDCC 2266) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046532294" titretxt="Meurthe-et-Moselle (ex-IDCC 1365) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559141" titretxt="Meurthe-et-Moselle (ex-IDCC 1365) Attractivité de la métallurgie"/>
+<LIEN_TXT idtxt="KALITEXT000046394434" titretxt="Midi-Pyrénées (ex-IDCC 1059) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046394387" titretxt="Moselle (ex-IDCC 714) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046532192" titretxt="Moselle (ex-IDCC 714) Attractivité de la métallurgie"/>
+<LIEN_TXT idtxt="KALITEXT000046477905" titretxt="Nièvre (ex-IDCC 1159) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047657098" titretxt="Nièvre (ex-IDCC 1159) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046478300" titretxt="Oise (ex-IDCC 2700) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046478282" titretxt="Oise (ex-IDCC 2700) Conditions de travail des femmes enceintes"/>
+<LIEN_TXT idtxt="KALITEXT000047881203" titretxt="Oise (ex-IDCC 2700) Mesures urgentes emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046559057" titretxt="Orne (ex-IDCC 948) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559192" titretxt="Pas-de-Calais (ex-IDCC 1472) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559171" titretxt="Pas-de-Calais (ex-IDCC 1472) Fête professionnelle de Saint-Éloi et primes annuelles conventionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000047792519" titretxt="Pas-de-Calais (ex-IDCC 1472) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046394836" titretxt="Pyrénées-Atlantiques et Seignanx (ex-IDCC 2615) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046240492" titretxt="Région parisienne (ex-IDCC 54) Révision des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559007" titretxt="Rhône (ex-IDCC 878) Révision des dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046033631" titretxt="Rouen et Dieppe (ex-IDCC 1604) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046288167" titretxt="Saône-et-Loire (ex-IDCC 1564) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000048052064" titretxt="Saône-et-Loire (ex-IDCC 1564) Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046421345" titretxt="Sarthe (ex-IDCC 930) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000051295514" titretxt="Sarthe Mesures urgentes en faveur de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000045976265" titretxt="Savoie (ex-IDCC 822) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046240582" titretxt="Seine-et-Marne (ex-IDCC 911) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046598794" titretxt="Somme (ex-IDCC 2980) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046598776" titretxt="Somme (ex-IDCC 2980) Possibilité de désignation d'un délégué syndical suppléant dans les entreprises dont l'effectif est compris entre 50 et 999 salariés "/>
+<LIEN_TXT idtxt="KALITEXT000046598758" titretxt="Somme (ex-IDCC 2980) Conditions de travail des femmes enceintes"/>
+<LIEN_TXT idtxt="KALITEXT000047881227" titretxt="Somme (ex-IDCC 2980) Mesures urgentes emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046581935" titretxt="Thiers (Région de) (ex-IDCC 1007) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559329" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047702975" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) Mesures urgentes emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046240630" titretxt="Var (ex-IDCC 965) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000049693235" titretxt="Var Prévention des incommodités d'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000046225454" titretxt="Vaucluse (ex-IDCC 829) Dispositions conventionnelles territoriales "/>
+<LIEN_TXT idtxt="KALITEXT000046478258" titretxt="Vendée (ex-IDCC 2489) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046240592" titretxt="Vienne (ex-IDCC 920) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046394471" titretxt="Vimeu (Région de) (ex-IDCC 1164) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559088" titretxt="Vimeu (Région de) (ex-IDCC 1164) Désignation d'un délégué syndical suppléant"/>
+<LIEN_TXT idtxt="KALITEXT000046421538" titretxt="Vosges (ex-IDCC 2003) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000046559545" titretxt="Vosges (ex-IDCC 2003) Dispositions spécifiques en faveur de l'attractivité de la métallurgie"/>
+<LIEN_TXT idtxt="KALITEXT000046421467" titretxt="Yonne (ex-IDCC 1732) Dispositions conventionnelles territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000047703018" titretxt="Yonne (ex-IDCC 1732) Mesures urgentes emploi et formation professionnelle"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000047045636" titretxt="Ain (ex-IDCC 914) TEG, RMH et prime de panier de nuit 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047514702" titretxt="Ain (ex-IDCC 914) TEG, RMH et prime de panier de nuit 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049949697" titretxt="Ain Valeur de point servant au calcul de la prime d'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000051295442" titretxt="Aisne Valeur de point au 1er novembre 2024 et prime de vacances 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047137029" titretxt="Allier (ex-IDCC 898) Taux effectifs garantis annuels (TEGA) au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046265994" titretxt="Alpes-Maritimes (ex-IDCC 1560) RMH et TGA pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047348629" titretxt="Alpes-Maritimes (ex-IDCC 1560) TGA et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047881076" titretxt="Alpes-Maritimes (ex-IDCC 1560) TGA et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050329580" titretxt="Alpes-Maritimes Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047347976" titretxt="Ardennes (ex-IDCC 827) Rémunérations annuelles garanties du personnel non-cadre"/>
+<LIEN_TXT idtxt="KALITEXT000048052393" titretxt="Ardennes (ex-IDCC 827) RAG, valeur du point et prime de vacances du personnel non cadre"/>
+<LIEN_TXT idtxt="KALITEXT000048974090" titretxt="Ardennes (ex-IDCC 827) Prime de vacances et indemnité d'éloignement domicile-lieu de travail"/>
+<LIEN_TXT idtxt="KALITEXT000048974763" titretxt="Ardennes (ex-IDCC 827) Prime de vacances et indemnité d'éloignement domicile – lieu de travail"/>
+<LIEN_TXT idtxt="KALITEXT000046532497" titretxt="Aube (ex-IDCC 2294) Indemnité d'éloignement domicile-lieu de travail"/>
+<LIEN_TXT idtxt="KALITEXT000048255764" titretxt="Aube (ex-IDCC 2294) SMEG et RMH au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048255803" titretxt="Aube (ex-IDCC 2294) Indemnité de transport au 1er août 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048558778" titretxt="Aube (ex-IDCC 2294) Barème de l'indemnité de transport"/>
+<LIEN_TXT idtxt="KALITEXT000050313627" titretxt="Aube Valeur de point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049916908" titretxt="Auvergne Valeur de point au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051352569" titretxt="Avesnes Valeur du point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051352556" titretxt="Avesnes Prime de vacances"/>
+<LIEN_TXT idtxt="KALITEXT000047734324" titretxt="Bas-Rhin (ex-IDCC 1967) RMH et RAEG 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050228941" titretxt="Bas-Rhin Valeur du point au 1er juin 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046288433" titretxt="Belfort-Montbéliard (ex-IDCC 2755) Salaires pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559778" titretxt="Belfort-Montbéliard (ex-IDCC 2755) Indemnité de restauration de jour"/>
+<LIEN_TXT idtxt="KALITEXT000047007145" titretxt="Belfort-Montbéliard (ex-IDCC 2755) Rémunérations minimales annuelles effectives au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047734445" titretxt="Belfort-Montbéliard (ex-IDCC 2755) RMAE et RMH au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048548918" titretxt="Belfort-Montbéliard (ex-IDCC 2755) RMAE pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050299176" titretxt="Belfort-Montbéliard Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580511" titretxt="Belfort-Montbéliard Valeur de point au 1er février 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047951796" titretxt="Bouches-du-Rhône et Alpes-de-Haute-Provence (ex-IDCC 2630) Minima conventionnels et primes d'ancienneté 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050130470" titretxt="Bouches-du-Rhône et Alpes-de-Haute-Provence Valeur de point pour le calcul de la prime d'ancienneté au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047782967" titretxt="Calvados (ex-IDCC 943) RMH et salaires minimaux annuels garantis"/>
+<LIEN_TXT idtxt="KALITEXT000046225920" titretxt="Charente (ex-IDCC 1572) Salaires pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747603" titretxt="Charente (ex-IDCC 1572) Salaires pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050329566" titretxt="Charente Valeur de point"/>
+<LIEN_TXT idtxt="KALITEXT000051537969" titretxt="Charente Valeur de point au 27 avril 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047463783" titretxt="Charente-Maritime (ex-IDCC 923) TGA 2022 et valeur du point 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048974135" titretxt="Charente-Maritime (ex-IDCC 923) RAEG et valeur du point au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047632215" titretxt="Cher (ex-IDCC 1576) Valeur du point et RMH au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047632230" titretxt="Cher (ex-IDCC 1576) Garantie annuelle territoriale de rémunération effective 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049870282" titretxt="Cher (ex-IDCC 1576) Valeur de point pour le calcul de la prime d'ancienneté au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047137208" titretxt="Clermont-Ferrand et Puy-de-Dôme (ex-IDCC 1627) Taux effectifs garantis au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046598644" titretxt="Corrèze (ex-IDCC 1274) Prime de vacances de transition et prime de fin d'année de transition"/>
+<LIEN_TXT idtxt="KALITEXT000046565382" titretxt="Corrèze (ex-IDCC 1274) RAG et RMH au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047463826" titretxt="Corrèze (ex-IDCC 1274) Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048213977" titretxt="Corrèze (ex-IDCC 1274) Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050329600" titretxt="Corse-du-Sud et Haute-Corse Valeur du pointa u 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046033674" titretxt="Côte-d'Or (ex-IDCC 1885) Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046582057" titretxt="Côte-d'Or (ex-IDCC 1885) Salaires et primes pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048214074" titretxt="Côte d'Or (ex-IDCC 1885) RMGA, RMH et valeur du point  2023"/>
+<LIEN_TXT idtxt="KALITEXT000051191906" titretxt="Côte-d'Or Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046598699" titretxt="Côtes-d'Armor (ex-IDCC 1634) Taux effectifs garantis annuels 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048183024" titretxt="Côtes d'Armor (ex-IDCC 1634) TEGA 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048183010" titretxt="Côtes-d'Armor (ex-IDCC 1634) RMH au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050313686" titretxt="Côtes-d'Armor Valeur de point au 1er septembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047137218" titretxt="Deux-Sèvres (ex-IDCC 1628) TEGA et valeur du point pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048638383" titretxt="Deux-Sèvres (ex-IDCC 1628) TEGA et valeur du point pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050793277" titretxt="Deux-Sèvres Valeur de point au 1er décembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046076187" titretxt="Dordogne (ex-IDCC 1353) Rémunérations minimales hiérarchiques 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046076163" titretxt="Dordogne (ex-IDCC 1353) Rémunérations effectives garanties 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047410153" titretxt="Dordogne (ex-IDCC 1353) Rémunérations effectives garanties 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048548544" titretxt="Dordogne (ex-IDCC 1353) Rémunérations minimales hiérarchiques"/>
+<LIEN_TXT idtxt="KALITEXT000048548521" titretxt="Dordogne (ex-IDCC 1353) REG pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051163292" titretxt="Dordogne Valeur de point au 28 décembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046366550" titretxt="Doubs (ex-IDCC 3209) Rémunérations (RMH ET RAG) et primes au 1er juin 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559822" titretxt="Doubs (ex-IDCC 3209) Indemnité de restauration de jour et prime de vacances"/>
+<LIEN_TXT idtxt="KALITEXT000047007182" titretxt="Doubs (ex-IDCC 3209) Rémunérations annuelles garanties au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047734503" titretxt="Doubs (ex-IDCC 3209) RAG et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048548974" titretxt="Doubs (ex-IDCC 3209) Rémunérations annuelles garanties"/>
+<LIEN_TXT idtxt="KALITEXT000050299163" titretxt="Doubs Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580493" titretxt="Doubs Valeur de point au 1er février 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047137295" titretxt="Drôme et Ardèche (ex-IDCC 1867) Taux effectifs garantis annuels (TEGA) au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048255688" titretxt="Drôme et Ardèche (ex-IDCC 1867) TEGA et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047045711" titretxt="dunkerquoise (Région) (ex-IDCC 1525) RMH et SEGA au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052479" titretxt="dunkerquoise (Région) (ex-IDCC 1525) RMH et SEGA au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047045610" titretxt="Eure (ex-IDCC 887) RMH, RAE et indemnité de panier"/>
+<LIEN_TXT idtxt="KALITEXT000048150526" titretxt="Eure (ex-IDCC 887) RMH, RAE et indemnité de panier"/>
+<LIEN_TXT idtxt="KALITEXT000050828842" titretxt="Eure Valeur du point au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046559067" titretxt="Eure-et-Loir (ex-IDCC 984) Valeur du point, RAG et indemnité de restauration"/>
+<LIEN_TXT idtxt="KALITEXT000046744338" titretxt="Eure-et-Loir (ex-IDCC 984) RAG au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047792418" titretxt="Eure-et-Loir (ex-IDCC 984) Valeur du point, RAG et à indemnité de restauration 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051295461" titretxt="Eure-et-Loir Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047137016" titretxt="Finistère (ex-IDCC 860) Taux effectifs garantis annuels (TEGA) pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048213901" titretxt="Finistère (ex-IDCC 860) TEGA 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048213914" titretxt="Finistère (ex-IDCC 860) RMH"/>
+<LIEN_TXT idtxt="KALITEXT000050974919" titretxt="Finistère Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047865942" titretxt="Flandres-Douaisis (ex-IDCC 1387) Salaires pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051315323" titretxt="Flandre maritime Valeur de point au 1er décembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046099299" titretxt="Gard et Lozère (ex-IDCC 2126) RAG et valeur du point pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047007084" titretxt="Gard et Lozère (ex-IDCC 2126) RAG et valeur du point pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048073936" titretxt="Gard et Lozère (ex-IDCC 2126) RAG et valeur du point 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050141021" titretxt="Gard et Lozère Valeur de point pour le calcul de la prime d'ancienneté au 1er juin 2024"/>
+<LIEN_TXT idtxt="KALITEXT000048255665" titretxt="Gironde et Landes (ex-IDCC 1635) REG pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048255642" titretxt="Gironde et Landes (ex-IDCC 1635) RMH au 1er octobre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000046421479" titretxt="Haut-Rhin (ex-IDCC 1912) Salaires au 1er juillet 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047657228" titretxt="Haut-Rhin (ex-IDCC 1912) Salaires pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050237914" titretxt="Haut-Rhin Valeur du point au 1er juin 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047348181" titretxt="Haute-Marne et Meuse (ex-IDCC 1315) REGA au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046240957" titretxt="Haute-Saône (ex-IDCC 3053) RMAE, RMH et primes au 1er juin 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559798" titretxt="Haute-Saône (ex-IDCC 3053) Indemnité de restauration de jour et prime de vacances"/>
+<LIEN_TXT idtxt="KALITEXT000047007164" titretxt="Haute-Saône (ex-IDCC 3053) Rémunérations minimales annuelles effectives au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047734476" titretxt="Haute-Saône (ex-IDCC 3053) RMAE et RMH au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048548957" titretxt="Haute-Saône (ex-IDCC 3053) Rémunérations minimales annuelles effectives"/>
+<LIEN_TXT idtxt="KALITEXT000050299194" titretxt="Haute-Saône Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580529" titretxt="Haute-Saône Valeur de point au 1er février 2025"/>
+<LIEN_TXT idtxt="KALITEXT000045976293" titretxt="Haute-Savoie (ex-IDCC 836) REGA et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046758537" titretxt="Haute-Savoie (ex-IDCC 836) REGA et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048213869" titretxt="Haute-Savoie (ex-IDCC 836) REGA et RMH au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051352538" titretxt="Haute-Savoie Valeur du point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046598622" titretxt="Haute-Vienne et Creuse (ex-IDCC 937) Prime de vacances de transition"/>
+<LIEN_TXT idtxt="KALITEXT000046565315" titretxt="Haute-Vienne et Creuse (ex-IDCC 937) Rémunérations annuelles garanties en 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047463802" titretxt="Haute-Vienne et Creuse (ex-IDCC 937) Salaires pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048182889" titretxt="Haute-Vienne et Creuse (ex-IDCC 937) Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000046280530" titretxt="Hautes-Pyrénées (ex-IDCC 1626) RMH au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046280547" titretxt="Hautes-Pyrénées (ex-IDCC 1626) Taux effectifs garantis au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048282065" titretxt="Hautes-Pyrénées (ex-IDCC 1626) Taux effectifs garantis des mensuels au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048282083" titretxt="Hautes-Pyrénées (ex-IDCC 1626) RMH au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000046225513" titretxt="Havre (Arrondissement du) (ex-IDCC 979) Indemnité de repas de jour"/>
+<LIEN_TXT idtxt="KALITEXT000047416045" titretxt="Havre (Arrondissement du) (ex-IDCC 979) RAG, RMH et indemnités de panier pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050028459" titretxt="Havre (Arrondissement du) Valeur de point pour le calcul de la prime d'ancienneté au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047632244" titretxt="Hérault, Aude et Pyrénées-Orientales (ex-IDCC 1577) RMH, RAG et prime de panier de nuit 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048182995" titretxt="Hérault, Aude et Pyrénées-Orientales (ex-IDCC 1577) Salaires 2023"/>
+<LIEN_TXT idtxt="KALITEXT000046744322" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) RAG au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047557031" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) Valeur du point et RMH au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048638268" titretxt="Ille-et-Vilaine et Morbihan (ex-IDCC 863) RAG au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049869934" titretxt="Ille-et-Vilaine et Morbihan Valeur du point servant au calcul de la prime d'ancienneté au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000048281927" titretxt="Indre (ex-IDCC 934) Valeur du point et RMH au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051019609" titretxt="Indre (ex-IDCC 934) Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046266201" titretxt="Indre-et-Loire (ex-IDCC 2992) RAG et primes d'ancienneté pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047632483" titretxt="Indre-et-Loire (ex-IDCC 2992) RMH et valeur du point"/>
+<LIEN_TXT idtxt="KALITEXT000049067685" titretxt="Indre-et-Loire (ex-IDCC 2992) Rémunérations au 1er novembre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050962462" titretxt="Indre-et-Loire Valeur du point au 1er novembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000048214245" titretxt="Isère et Hautes-Alpes (ex-IDCC 2221) TEGA, RMH et indemnité de panier de nuit 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049731160" titretxt="Isère et Hautes-Alpes Calcul de la prime d'ancienneté au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046241039" titretxt="Jura (ex-IDCC 3231) REG et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559842" titretxt="Jura (ex-IDCC 3231) Indemnité de restauration de jour"/>
+<LIEN_TXT idtxt="KALITEXT000047007198" titretxt="Jura (ex-IDCC 3231) Rémunérations effectives garanties (REG) au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047734529" titretxt="Jura (ex-IDCC 3231) REG et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050299212" titretxt="Jura Valeur du point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580547" titretxt="Jura Valeur de point au 1er février 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051537952" titretxt="Limousin Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047632410" titretxt="Loir-et-Cher (ex-IDCC 2579) RAG et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047006840" titretxt="Loire-Atlantique (ex-IDCC 1369) RAG et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048150633" titretxt="Loire-Atlantique (ex-IDCC 1369) RAG et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051163310" titretxt="Loire-Atlantique Valeur des indemnités de repas de jour et d'équipes successives de jour au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046559299" titretxt="Loire et arrondissement d'Yssingeaux (ex-IDCC 1578) REGA, valeur du point, RMH et prime de panier de nuit 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559314" titretxt="Loire et arrondissement d'Yssingeaux (ex-IDCC 1578) REGA, valeur du point, RMH et prime de panier de nuit 2022 (rectificatif)"/>
+<LIEN_TXT idtxt="KALITEXT000048150750" titretxt="Loire et arrondissement d'Yssingeaux (ex-1578) REGA, valeur du point RMH et prime de panier de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000047632304" titretxt="Loiret (ex-IDCC 1966) RMH et valeur du point au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049067536" titretxt="Loiret (ex-IDCC 1966) Rémunérations "/>
+<LIEN_TXT idtxt="KALITEXT000050962444" titretxt="Loiret Valeur du point au 1er novembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051315341" titretxt="Lorraine Dispositions territoriales spécifiques"/>
+<LIEN_TXT idtxt="KALITEXT000048282098" titretxt="Lot-et-Garonne (ex-IDCC 1960) REG 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048282115" titretxt="Lot-et-Garonne (ex-IDCC 1960) RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050394920" titretxt="Lot-et-Garonne Valeur de point au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046559509" titretxt="Maine-et-Loire (ex-IDCC 1902) RMH, TEGA et indemnité de panier au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048150921" titretxt="Maine-et-Loire (ex-IDCC 1902) RMH, TEGA et indemnité de panier"/>
+<LIEN_TXT idtxt="KALITEXT000050228960" titretxt="Maine-et-Loire Valeur du point au 1er septembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047045569" titretxt="Manche (ex-IDCC 828) RMH et TEGA pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047702800" titretxt="Manche (ex-IDCC 828) RMH et TGA 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047086785" titretxt="Marne (ex-IDCC 899) RAG et valeur du point 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048043998" titretxt="Marne (ex-IDCC 899) RAG et valeur du point au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047348679" titretxt="Maubeuge (Région de) (ex-IDCC 1813) REAG au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052607" titretxt="Maubeuge (Région de) (ex-IDCC 1813) Prime de vacances"/>
+<LIEN_TXT idtxt="KALITEXT000048452682" titretxt="Mayenne (ex-IDCC 2266) Salaires au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051315287" titretxt="Mayenne Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000047045672" titretxt="Meurthe-et-Moselle (ex-IDCC 1365) Salaires et primes"/>
+<LIEN_TXT idtxt="KALITEXT000047137054" titretxt="Midi-Pyrénées (ex-IDCC 1059) Barèmes des TEG, RMH pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047557060" titretxt="Midi-Pyrénées (ex-IDCC 1059) TEG, RMH, indemnité de panier et prime de vacances 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049916889" titretxt="Midi-Pyrénées (ex-IDCC 1059) Valeur de point pour le calcul de la prime d'ancienneté au 1er mai 2024 (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000046532211" titretxt="Moselle (ex-IDCC 714) RAEG, BRG, primes et indemnité journalière de petits déplacements"/>
+<LIEN_TXT idtxt="KALITEXT000047618275" titretxt="Moselle (ex-IDCC 714) RAEG, BRG, prime de vacances et indemnité journalière de petit déplacement"/>
+<LIEN_TXT idtxt="KALITEXT000046565325" titretxt="Nièvre (ex-IDCC 1159) REAG et RMH au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048150584" titretxt="Nièvre (ex-IDCC 1159) REAG et RMH au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051537934" titretxt="Nièvre Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046240901" titretxt="Oise (ex-IDCC 2700) Rémunération 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047866400" titretxt="Oise (ex-IDCC 2700) Garanties annuelles de rémunération 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047866414" titretxt="Oise (ex-IDCC 2700) RMH au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051295479" titretxt="Oise Valeur de point au 1er novembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047782992" titretxt="Orne (ex-IDCC 948) Taux effectifs garantis annuels"/>
+<LIEN_TXT idtxt="KALITEXT000047783008" titretxt="Orne (ex-IDCC 948) Valeur du point et application des RMH"/>
+<LIEN_TXT idtxt="KALITEXT000050141041" titretxt="Orne et Calvados Valeur de point pour le calcul de la prime d'ancienneté au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046565429" titretxt="Pas-de-Calais (ex-IDCC 1472) Rémunérations effectives minimales annuelles - REMA 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046565417" titretxt="Pas-de-Calais (ex-IDCC 1472) Rémunérations minimales hiérarchiques et indemnité de panier de nuit au 1er septembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046565409" titretxt="Pas-de-Calais (ex-IDCC 1472) Prime spéciale (art. 15 de l'avenant « Mensuels »)"/>
+<LIEN_TXT idtxt="KALITEXT000048150647" titretxt="Pas-de-Calais (ex-IDCC 1472) RMH et indemnité de panier de nuit au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048150659" titretxt="Pas-de-Calais (ex-IDCC 1472) REMA pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048558065" titretxt="Pyrénées-Atlantiques et Seignanx (ex-IDCC 2615) RMH"/>
+<LIEN_TXT idtxt="KALITEXT000048558084" titretxt="Pyrénées-Atlantiques et Seignanx (ex-IDCC 2615) REG"/>
+<LIEN_TXT idtxt="KALITEXT000046265500" titretxt="Région parisienne (ex-IDCC 54) Barème des taux effectifs garantis annuels et primes pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046240473" titretxt="Région parisienne (ex-IDCC 54) Indemnité de repas de jour"/>
+<LIEN_TXT idtxt="KALITEXT000047632078" titretxt="Région parisienne (ex-IDCC 54) TGA, revalorisation des niveaux hiérarchiques et valeur du point d'ancienneté 2023"/>
+<LIEN_TXT idtxt="KALITEXT000046477867" titretxt="Rhône (ex-IDCC 878) RAG et RMH pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047045590" titretxt="Rhône (ex-IDCC 878) RAG et RMH pour 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047702819" titretxt="Rhône (ex-IDCC 878) RGA et RMH pour 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048255550" titretxt="Rhône (ex-IDCC 878) RAG et RMH pour 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049259063" titretxt="Rhône Valeur du point servant au calcul de la prime d'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000051295497" titretxt="Rhône Valeur de point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046421450" titretxt="Rouen et Dieppe (ex-IDCC 1604) Indemnité de transport"/>
+<LIEN_TXT idtxt="KALITEXT000047410359" titretxt="Rouen et Dieppe (ex-IDCC 1604) REAG, primes, IPD et prime de panier pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050130490" titretxt="Rouen et Dieppe Valeur de point pour le calcul de la prime d'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000046288150" titretxt="Saône-et-Loire (ex-IDCC 1564) Complément annuel de rémunération"/>
+<LIEN_TXT idtxt="KALITEXT000047045796" titretxt="Saône-et-Loire (ex-IDCC 1564) Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048214024" titretxt="Saône-et-Loire (ex-IDCC 1564) RAG, RMH et primes"/>
+<LIEN_TXT idtxt="KALITEXT000050219972" titretxt="Saône-et-Loire Valeur de point à compter du 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051019627" titretxt="Saône-et-Loire Valeur de point 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046421357" titretxt="Sarthe (ex-IDCC 930) Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048044036" titretxt="Sarthe (ex-IDCC 930) RAEG pour 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048044021" titretxt="Sarthe (ex-IDCC 930) Valeur du point au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051295535" titretxt="Sarthe Valeur du point au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000045976247" titretxt="Savoie (ex-IDCC 822) REGA et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046598606" titretxt="Savoie (ex-IDCC 822) REGA et RMH 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047537291" titretxt="Savoie (ex-IDCC 822) REGA et RMH au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051493795" titretxt="Savoie Valeur de point au 1er mars 2025"/>
+<LIEN_TXT idtxt="KALITEXT000046265780" titretxt="Seine-et-Marne (ex-IDCC 911) TEGA et primes pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046240564" titretxt="Seine-et-Marne (ex-IDCC 911) Indemnité de repas de jour"/>
+<LIEN_TXT idtxt="KALITEXT000047632139" titretxt="Seine-et-Marne (ex-IDCC 911) TEGA, indemnité de panier et valeur du point pour 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047783166" titretxt="Somme (ex-IDCC 2980) REAG 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051295553" titretxt="Somme Valeur de point au 1er novembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047137043" titretxt="Thiers (Région de) (ex-IDCC 1007) TEGA, RMH et salaire de base horaire des travailleurs à domicile"/>
+<LIEN_TXT idtxt="KALITEXT000046725597" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) Indemnité d'éloignement domicile-lieu de travail et Saint-Éloi"/>
+<LIEN_TXT idtxt="KALITEXT000047348660" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) RAHG au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052540" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) RAHG au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048052528" titretxt="Valenciennois et Cambrésis (ex-IDCC 1592) Valeur du point et prime de panier de nuit au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047045654" titretxt="Var (ex-IDCC 965) TEG et RMH au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047951388" titretxt="Var (ex-IDCC 965) TEGA et RMH pour l'année 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050130450" titretxt="Var Valeur de point pour le calcul de la prime d'ancienneté au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046394411" titretxt="Vaucluse (ex-IDCC 829) Valeur du point et taux garantis annuels"/>
+<LIEN_TXT idtxt="KALITEXT000048974117" titretxt="Vaucluse (ex-IDCC 829) Taux garantis annuels 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050130430" titretxt="Vaucluse Valeur de point pour le calcul de la prime d'ancienneté au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000047007103" titretxt="Vendée (ex-IDCC 2489) Effectifs garantis annuels (TEGA) au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047551277" titretxt="Vendée (ex-IDCC 2489) Rémunérations minimales hiérarchiques au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047551293" titretxt="Vendée (ex-IDCC 2489) Taux effectifs garantis annuels (TEGA) 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048073955" titretxt="Vendée (ex-IDCC 2489) Rectificatif à l'accord du 27 février 2023 (TEGA)"/>
+<LIEN_TXT idtxt="KALITEXT000048073965" titretxt="Vendée (ex-IDCC 2489) Rectificatif à l'accord du 27 février 2023 (RMH)"/>
+<LIEN_TXT idtxt="KALITEXT000048974982" titretxt="Vendée (ex-IDCC 2489) TEGA au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000045847499" titretxt="Vienne (ex-IDCC 920) Valeur du point et  REGA 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046758560" titretxt="Vienne (ex-IDCC 920) Garantie de rémunération effective"/>
+<LIEN_TXT idtxt="KALITEXT000047582899" titretxt="Vienne (ex-IDCC 920) Valeur du point et garantie de rémunération effective au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049693964" titretxt="Vienne Valeur du point servant au calcul de la prime d'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000047657121" titretxt="Vimeu (Région de) (ex-IDCC 1164) RAG et RMH 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048558657" titretxt="Vimeu (Région de) (ex-IDCC 1164) RAG 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050699994" titretxt="Vimeu (Région de) (ex-IDCC 1164) Valeur de point au 1er novembre 2024"/>
+<LIEN_TXT idtxt="KALITEXT000046737592" titretxt="Vosges (ex-IDCC 2003) Rémunérations et primes pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046394605" titretxt="Yonne (ex-IDCC 1732) RMH, prime de panier de nuit et TEG"/>
+<LIEN_TXT idtxt="KALITEXT000046737540" titretxt="Yonne (ex-IDCC 1732) RMH, prime de panier de nuit et TEG au 1er septembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047410534" titretxt="Yonne (ex-IDCC 1732) RMH, prime de panier de nuit et TEG"/>
+<LIEN_TXT idtxt="KALITEXT000048052088" titretxt="Yonne (ex-IDCC 1732) RMH, prime de panier de nuit et TEG 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051315305" titretxt="Yonne Valeur de point au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Métallurgie</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047865923</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/86/59/KALIARTI000047865923.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Objet du financement du paritarisme</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-04-14</DATE_DEBUT>
+<DATE_FIN>2024-12-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000047865919" date_publi="2999-01-01" date_signature="2023-04-14" nature="Accord" nor="ASET2350639M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2023-04-14" fin="2999-01-01" id_txt="KALITEXT000047865919">Accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005636008" date_publi="1995-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1850" titre="Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996" url="conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-04-14" etat="REMPLACE" fin="2024-12-01" id="KALIARTI000047865923" num="2" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-12-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050504027" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="left">Par le présent accord, il est confirmé le maintien du fonds de fonctionnement de la convention collective destiné à : <br/>– favoriser notamment le dialogue social, la mise en application, la connaissance de la convention collective nationale et des accords nationaux de branche, et le fonctionnement des diverses instances paritaires de la branche ; <br/>– assurer une présence effective et un travail régulier des membres des organisations syndicales et professionnelles représentatives participant aux différentes instances de la branche professionnelle des cabinets d'avocats. </p>
+<p align="left">Le fonds de fonctionnement financera notamment : <br/>– le fonctionnement des instances paritaires et leur secrétariat et tout collaborateur salarié ou prestataire externe travaillant pour la branche professionnelle ; <br/>– les prestations de consultants externes décidées par les instances paritaires ; <br/>– la réalisation d'études et d'actions communes ; <br/>– les frais d'impression, de diffusion quelle que soit sa forme de toute convention collective, avenants, accords de branche et tout document relatif au fonctionnement de la branche professionnelle des cabinets d'avocats ; <br/>– le remboursement ou la prise en charge des frais de voyage et de séjour des représentants des organisations syndicales représentatives de salariés et des organisations professionnelles représentatives d'employeurs dûment mandatés pour participer aux diverses instances, structures, organismes professionnels, commissions et groupes institués au sein de la branche professionnelle des cabinets d'avocats étant précisé qu'il ne peut exister de double remboursement ou prise en charge dans le cas où une autre structure dispose en parallèle de modalités de prise en charge ou de remboursement de même nature ; <br/>– le remboursement ou la prise en charge des frais de voyage et de séjour des représentants des organisations syndicales de salariés et des organisations professionnelles d'employeurs qui ne seraient plus représentatives mais qui siégeraient de droit aux instances dans le cadre spécifique des travaux d'harmonisation des conventions collectives et ce, à la condition d'être expressément mandatés ; <br/>– la prise en charge des rémunérations et indemnisations au titre du temps passé par les représentants dûment mandatés aux diverses instances, structures, organismes professionnels, commissions et groupes institués au sein de la branche professionnelle des cabinets d'avocats étant précisé qu'il ne peut exister de double prise en charge. À cet effet, il est rappelé les dispositions de l'article L. 2232-8 du code du travail qui prévoient les modalités de remboursement des salaires des représentants salariés pour les entités inférieures à 50 salariés. Le fonds de fonctionnement interviendra en complément de ce premier remboursement en tant que de besoin ; <br/>– sur présentation d'une facture détaillée selon le modèle établi par l'ADDSA, l'assiette de remboursement est constituée par le salaire mensuel brut de base auquel s'ajoutent les cotisations patronales pour les temps passés en réunion. Il est considéré un forfait de 7 heures par journée entière de réunion et de 3,5 heures par demi-journée.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901693" naturetexte="CODE" nortexte="" num="L2232-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2232-8 (V)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

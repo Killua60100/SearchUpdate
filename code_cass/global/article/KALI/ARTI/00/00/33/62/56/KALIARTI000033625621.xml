@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625621</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625621.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625621" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I. Fiches descriptives des spécialités et des formations associées</p>
+<p>I.1. Agent de sécurité qualifié.<br/>
+I.2. Agent de sécurité confirmé.<br/>
+I.3. Agent de sécurité cynophile.<br/>
+I.4. Agent de sécurité chef de poste.<br/>
+I.5. Agent de sécurité mobile.<br/>
+I.6. Agent de sécurité magasin prévention vols.<br/>
+I.7. Agent de sécurité magasin vidéo.<br/>
+I.8. Agent de sécurité magasin arrière caisse.<br/>
+I.9. Agent de sécurité filtrage.<br/>
+I.10. Agent de sécurité opérateur filtrage.<br/>
+I.11. Agent des services de sécurité incendie.<br/>
+I.12. Chef d'équipe des services de sécurité incendie.<br/>
+I.13. Chef de service de sécurité incendie (SSIAP 3).<br/>
+I.14. Agent de prévention et de protection incendie industriel.<br/>
+I.15. Équipier d'intervention incendie industriel.<br/>
+I.16. Chef d'équipe de prévention incendie industriel.<br/>
+I.17. Agent de sécurité opérateur SCT1.<br/>
+I.18. Agent de sécurité opérateur SCT2.<br/>
+I.19. Pompier d'aérodrome.<br/>
+I.20. Pompier d'aérodrome chef de manœuvre.<br/>
+I.21. Responsable SSLIA.<br/>
+I.22. Agent de sécurité nucléaire.<br/>
+I.23. Chef de poste nucléaire.<br/>
+I.24. Chef de site nucléaire.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

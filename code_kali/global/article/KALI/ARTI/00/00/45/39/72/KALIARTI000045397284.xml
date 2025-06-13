@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397284</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/72/KALIARTI000045397284.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Égalité de traitement dans l'accès à la formation professionnelle</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047824237">Annexe 5 Insertion et formation professionnelle des personnes handicapées</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397200">Chapitre II Accès à la formation professionnelle</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397284" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les chefs d'entreprise de la branche doivent s'engager à garantir l'égalité dans l'accès à la formation professionnelle.</p>
+<p align="left">Les partenaires sociaux rappellent que, conformément à l'annexe relative à la formation professionnelle, les personnes handicapées figurent au nombre des publics prioritaires de la formation professionnelle dans la branche.</p>
+<p align="left">L'employeur tient compte, dans le choix des prestataires de formation, des contraintes spécifiques liées au handicap, en particulier en termes de durée, d'éloignement et d'accessibilité, ainsi que de sensibilisation des intervenants.</p>
+<p align="left">La mise en œuvre d'une action de formation au profit du travailleur handicapé figure au nombre des mesures appropriées pour garantir le respect du principe d'égalité de traitement à l'égard des travailleurs handicapés, lorsque cette action de formation est nécessaire pour lui permettre de conserver un emploi correspondant à sa qualification, de l'exercer ou d'y progresser.</p>
+<p align="left">Les entretiens professionnels et les bilans de compétences prennent en compte la dimension du handicap. L'adéquation des équipements et de l'ergonomie du poste de travail, la charge de travail et les améliorations éventuelles à apporter sont évoquées. Les besoins du travailleur handicapé en matière de formation sont recherchés, non seulement en termes d'adaptation au poste de travail, mais aussi en termes de promotion professionnelle.</p>
+<p align="left">La commission paritaire nationale de l'emploi et de la formation professionnelle est chargée d'examiner périodiquement la situation des travailleurs handicapés de la branche en matière de formation professionnelle.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025201749</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/20/17/KALIARTI000025201749.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Cotisations</TITRE>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000025201741" date_publi="2999-01-01" date_signature="2011-10-14" nature="Avenant" nor="ASET1151530M" num="1" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance" debut="2009-07-01" fin="2999-01-01" id_txt="KALITEXT000025201741">Avenant n° 1 du 14 octobre 2009 à l'accord du 16 mars 2009 relatif à la prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027065067" date_publi="2011-06-24" etat="VIGUEUR_ETEN" nature="IDCC" num="3032" titre="Convention collective nationale de l'esthétique-cosmétique et de l'enseignement technique et professionnel lié aux métiers de l'esthétique et de la parfumerie du 24 juin 2011 " url="conteneur/KALI/CONT/00/00/27/06/50/KALICONT000027065067.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2009-07-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000025201749" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>L'article 7 « Taux de cotisations » est remplacé : <br/>« Le taux global de cotisation, en contrepartie des prestations versées au titre du présent accord est fixé : </p>
+<p align="right">
+<br/>(En pourcentage.) </p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th>Garanties </th>
+<th colspan="2">Personnel non cadre </th>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>TA </td>
+<td>TB </td>
+</tr>
+<tr>
+<td align="center">Capitaux décès </td>
+<td align="center">0,11 </td>
+<td align="center">0,11 </td>
+</tr>
+<tr>
+<td align="center">Rente éducation </td>
+<td align="center">0,05 </td>
+<td align="center">0,05 </td>
+</tr>
+<tr>
+<td align="center">Incapacité temporaire de travail </td>
+<td align="center">0,38 </td>
+<td align="center">0,38 </td>
+</tr>
+<tr>
+<td align="center">Invalidité </td>
+<td align="center">0,20 </td>
+<td align="center">0,20 </td>
+</tr>
+<tr>
+<td align="center">Total </td>
+<td align="center">0,74 </td>
+<td align="center">0,74 </td>
+</tr>
+</table>
+
+</div>
+</div>
+<p align="left">
+<br/>La cotisation globale est répartie à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié. Ces cotisations sont prélevées sur la masse salariale brute de chaque entreprise entrant dans le champ d'application du présent accord. <br/>La garantie maintien des garanties de prévoyance après la rupture du contrat de travail est financée par la cotisation des salariés en activité (part patronale et part salariale). <br/>Une période d'observation de 18 mois à compter de la date d'effet du présent avenant (1er juillet 2009) est prévue. A l'issue de ce délai, lors de la présentation annuelle des résultats du régime, un bilan d'application du dispositif de portabilité sera établi. Si les résultats du régime le justifient, les organismes assureurs soumettront à l'approbation des partenaires sociaux le taux de cotisation nécessaire à la poursuite de cette prise en charge afin de maintenir la pérennité du régime qui sera formalisé par avenant. »</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021881994" datesignatexte="2009-03-16" id="KALIARTI000027086620" naturetexte="Accord" nortexte="ASET0951174M" num="7" numtexte="" sens="source" typelien="MODIFIE">Prévoyance - art. 7 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

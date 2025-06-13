@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715082</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715082.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3.a</NUM>
+<TITRE>Œuvres audiovisuelles documentaires, institutionnelles et reportages destinés à une première exploitation télévisuelle sur toute chaîne dont la part d'audience nationale (référence médiamétrie nationale de l'année précédente sur la population « 4 ans et plus ») est égale ou supérieure à 2,5 % ou sur des supports vidéo</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715065">Titre II Conditions de rémunération des artistes-interprètes</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715082" num="3.a" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Pendant une période transitoire de 3 ans, les œuvres destinées aux chaînes relevant de l'article 2 de l'accord du 29 juillet 2004 (TF1, France 2, France 3, Canal+, France 5, Arte et M6) sont et demeurent soumises à la grille ci-dessous, quelle que soit leur part d'audience.</p>
+<p align="center">
+<br/>Salaires minimaux couvrant la prestation et la fixation sonore des artistes-interprètes par œuvre</p>
+<p align="right">
+<br/>(En euros.)</p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th>Catégorie<br/>(art. 5 de l'accord du 3 août 2006)<br/>(indice 100 au 1er janvier 2008)</th>
+<th>Indice 101,2<br/>à compter<br/>du 1er janvier 2013</th>
+<th>Indice 102,4<br/>à compter<br/>du 1er janvier 2014</th>
+</tr>
+<tr>
+<td align="center">A. – Narrateur<br/>1re catégorie A (de 1 à 50 lignes)<br/>2e catégorie A (de 1 à 100 lignes)</td>
+<td align="center">202,26<br/>242,71</td>
+<td align="center">204,66<br/>245,59</td>
+</tr>
+<tr>
+<td align="center">Pour la même œuvre et par journée de travail</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Dégressivité<br/>a) A partir de 101 lignes, le cachet depuis la 1re est donné par la formule suivante (où N est le nombre de lignes)<br/>b) A partir de 701 lignes, s'applique le montant fixe de</td>
+<td align="center">(N puissance 0,57) × 17,63<br/>1,05</td>
+<td align="center">(N puissance 0,57) × 17,84<br/>1,07</td>
+</tr>
+<tr>
+<td align="center">B. – Voix superposée<br/>1re catégorie B (de 1 à 50 lignes)<br/>2e catégorie B (de 1 à 100 lignes)</td>
+<td align="center">167,08<br/>202,26</td>
+<td align="center">169,06<br/>204,66</td>
+</tr>
+<tr>
+<td align="center">Pour la même œuvre et par journée de travail</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Dégressivité<br/>a) A partir de 101 lignes, le cachet depuis la 1re est donné par la formule suivante (où N est le nombre de lignes)<br/>b) A partir de 701 lignes, s'applique le montant fixe de</td>
+<td align="center">(N puissance 0,55) × 16,09<br/>0,85</td>
+<td align="center">(N puissance 0,55) × 16,28<br/>0,86</td>
+</tr>
+</table>
+
+</div>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">art. 5 de l'accord du 3 août 2006</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

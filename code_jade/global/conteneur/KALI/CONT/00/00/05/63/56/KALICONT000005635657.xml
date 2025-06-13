@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635657</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635657.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des distributeurs conseils hors domicile (distributeurs CHD).  Etendue par arrêté du 4 janvier 1974 JORF 20 janvier 1974.</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1536</NUM>
+
+<DATE_PUBLI>1989-01-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650041" titretxt="Convention collective nationale du 15 décembre 1971"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650057" titretxt="Annexe 1"/>
+<LIEN_TXT idtxt="KALITEXT000017581163" titretxt="Annexe 1 "/>
+<LIEN_TXT idtxt="KALITEXT000005650061" titretxt="Annexe 2"/>
+<LIEN_TXT idtxt="KALITEXT000005650065" titretxt="Annexe 3"/>
+<LIEN_TXT idtxt="KALITEXT000005650067" titretxt="Annexe 4"/>
+<LIEN_TXT idtxt="KALITEXT000005650069" titretxt="Classification des postes repères"/>
+<LIEN_TXT idtxt="KALITEXT000005650073" titretxt="Classification des postes-repères par filières"/>
+<LIEN_TXT idtxt="KALITEXT000005650039" titretxt="Remise à jour de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000005650029" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005650031" titretxt="Règlement « Incapacité invalidité »"/>
+<LIEN_TXT idtxt="KALITEXT000005649853" titretxt="Priorités, objectifs et moyens de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005650033" titretxt="Avenant n° 96-2 1996-02"/>
+<LIEN_TXT idtxt="KALITEXT000005650037" titretxt="Capital temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005650079" titretxt="Orientation et incitation à la réduction du temps de travail en faveur de l’emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005650085" titretxt="Création d'un groupe technique paritaire sur la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000005650081" titretxt="Formation obligatoire des chauffeurs-livreurs"/>
+<LIEN_TXT idtxt="KALITEXT000005650083" titretxt="Formation des chauffeurs-livreurs (distributeurs de boissons)"/>
+<LIEN_TXT idtxt="KALITEXT000005650087" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005650093" titretxt="Priorités et moyens de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005650089" titretxt="Régime d'inaptitude à la conduite et au portage"/>
+<LIEN_TXT idtxt="KALITEXT000005650091" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005650075" titretxt="Changement d'intitulé et remise à jour de la classification"/>
+<LIEN_TXT idtxt="KALITEXT000005650095" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005650097" titretxt="Création et reconnaissance des certificats de qualification professionnelle (CQP) dans le champ du négoce distributeur de boissons en consommation hors domicile"/>
+<LIEN_TXT idtxt="KALITEXT000005650099" titretxt="Capital de temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005650101" titretxt="Avenant à l'accord du 16 février 2000 portant dispositions relatives à la formation obligatoire des chauffeurs-livreurs du négoce distributeur de boissons"/>
+<LIEN_TXT idtxt="KALITEXT000005650103" titretxt="Création et reconnaissance des certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005649855" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005650105" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005650107" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005650109" titretxt="Régime d'inaptitude à la conduite ou au portage"/>
+<LIEN_TXT idtxt="KALITEXT000018084952" titretxt="Avenant relatif à l'accord du 15 novembre 2005 sur la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000018084957" titretxt="Avenant à l'accord du 16 février 2000 relatif à la formation obligatoire des chauffeurs"/>
+<LIEN_TXT idtxt="KALITEXT000019385748" titretxt="Egalité professionnelle des femmes et des hommes"/>
+<LIEN_TXT idtxt="KALITEXT000019385780" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000019385823" titretxt="Régime d'inaptitude à la conduite ou au portage"/>
+<LIEN_TXT idtxt="KALITEXT000020493180" titretxt="Développement du dialogue social et négociation paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000022364834" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000025115114" titretxt="Insertion et maintien dans l'emploi des personnes handicapées"/>
+<LIEN_TXT idtxt="KALITEXT000026695544" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000028900468" titretxt="Formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000029731867" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000029731886" titretxt="Régime de prévoyance en cas d'inaptitude à la conduite ou au portage"/>
+<LIEN_TXT idtxt="KALITEXT000029731908" titretxt="Régime de prévoyance en cas d'inaptitude à la conduite ou au portage"/>
+<LIEN_TXT idtxt="KALITEXT000030056949" titretxt="Désignation de l'OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000030641572" titretxt="Formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000032048346" titretxt="Mise en œuvre du pacte de responsabilité"/>
+<LIEN_TXT idtxt="KALITEXT000032748823" titretxt="Prévention de la pénibilité, risques professionnels et amélioration des conditions de travail"/>
+<LIEN_TXT idtxt="KALITEXT000033286273" titretxt="Désignation de l'OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000033106216" titretxt="FNB"/>
+<LIEN_TXT idtxt="KALITEXT000033414686" titretxt="OPCA Transports"/>
+<LIEN_TXT idtxt="KALITEXT000034475645" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000036578511" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000036903885" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000036903929" titretxt="Modification de la convention collective et des annexes 2, 3, 4"/>
+<LIEN_TXT idtxt="KALITEXT000036903943" titretxt="Temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000037506135" titretxt="Correction avenant n° 2017-4 du 8 novembre 2017"/>
+<LIEN_TXT idtxt="KALITEXT000038073404" titretxt="Insertion des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000038073440" titretxt="Égalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000038073461" titretxt="Révision de la convention (chapitre IX)"/>
+<LIEN_TXT idtxt="KALITEXT000038683679" titretxt="Révision de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000038435250" titretxt="Révision de la convention (chapitres II, III et IV)"/>
+<LIEN_TXT idtxt="KALITEXT000039061558" titretxt="OPCO (Mobilités)"/>
+<LIEN_TXT idtxt="KALITEXT000039097369" titretxt="Risques professionnels et conditions de travail"/>
+<LIEN_TXT idtxt="KALITEXT000041752078" titretxt="Mise en œuvre du dispositif « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000042355676" titretxt="Révision de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000042531169" titretxt="Activité partielle de longue durée"/>
+<LIEN_TXT idtxt="KALITEXT000047348567" titretxt="Risques professionnels et amélioration des conditions de travail"/>
+<LIEN_TXT idtxt="KALITEXT000043997256" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000049067393" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000049150305" titretxt="Personnel en forfait jours"/>
+<LIEN_TXT idtxt="KALITEXT000051447130" titretxt="Listes de métiers exposés à des risques ergonomiques"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650112" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650114" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650116" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650118" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650120" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650122" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650124" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650126" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650128" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650130" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650132" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650134" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650136" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650138" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650140" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650142" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650144" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650146" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650148" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005650150" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018879264" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019460198" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021747632" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023104856" titretxt="Salaires "/>
+<LIEN_TXT idtxt="KALITEXT000024660043" titretxt="Salaires minima au 1er avril 2011"/>
+<LIEN_TXT idtxt="KALITEXT000026167360" titretxt="Salaires minima pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000026804563" titretxt="Salaires minima au 1er septembre 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027731717" titretxt="Salaires minima au 1er avril 2013"/>
+<LIEN_TXT idtxt="KALITEXT000031496547" titretxt="Salaires minima conventionnels au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000033028480" titretxt="Salaires minima conventionnels au 1er février 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035590475" titretxt="Salaires minima conventionnels au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037506148" titretxt="Salaires minima conventionnels au 1er mai 2018"/>
+<LIEN_TXT idtxt="KALITEXT000041752056" titretxt="Salaires minima conventionnels au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000045139408" titretxt="Salaires au 1er octobre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045791276" titretxt="Accord à l'annexe 1 de la CCN"/>
+<LIEN_TXT idtxt="KALITEXT000046100000" titretxt="Salaires minima au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046100024" titretxt="Accord à l'annexe 1 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000047045736" titretxt="Salaires minima conventionnels au 1er août 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047045761" titretxt="Salaires minima conventionnels au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047866267" titretxt="Salaires minima au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047866293" titretxt="Salaires minima au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049870104" titretxt="Salaires minima conventionnels au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049870124" titretxt="Salaires minima conventionnels au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051664716" titretxt="Salaires minima conventionnels au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005650152" titretxt="ARRETE du 4 janvier 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005650154" titretxt="ARRETE du 2 novembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005650156" titretxt="ARRETE du 27 septembre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005650158" titretxt="ARRETE du 26 octobre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005650160" titretxt="ARRETE du 28 août 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005650162" titretxt="ARRETE du 26 octobre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005650164" titretxt="ARRETE du 24 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005650166" titretxt="ARRETE du 1 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005650168" titretxt="ARRETE du 4 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005650170" titretxt="ARRETE du 12 mai 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005650172" titretxt="ARRETE du 22 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005650174" titretxt="ARRETE du 16 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005650176" titretxt="ARRETE du 20 juillet 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005650178" titretxt="ARRETE du 22 août 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005650180" titretxt="ARRETE du 18 juillet 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005650182" titretxt="ARRETE du 16 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005650184" titretxt="ARRETE du 16 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005650186" titretxt="ARRETE du 14 août 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005650188" titretxt="ARRETE du 5 février 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005650190" titretxt="ARRETE du 4 juin 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005650192" titretxt="ARRETE du 20 juillet 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005650194" titretxt="ARRETE du 13 octobre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005650196" titretxt="ARRETE du 22 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005650198" titretxt="ARRETE du 4 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005650200" titretxt="ARRETE du 14 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005650202" titretxt="ARRETE du 10 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005650204" titretxt="ARRETE du 11 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005650206" titretxt="ARRETE du 3 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005650208" titretxt="ARRETE du 9 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005650210" titretxt="ARRETE du 13 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005650212" titretxt="ARRETE du 7 mai 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005650214" titretxt="ARRETE du 14 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005650216" titretxt="ARRETE du 25 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005650218" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005650220" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005650222" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005650224" titretxt="ARRETE du 22 juin 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Distributeurs conseils hors domicile (bières, eaux minérales et de table, boissons gazeuses ou non gazeuses, boissons aux jus de fruits, sirops, jus de fruits, boissons lactées et gaz carbonique)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3121</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

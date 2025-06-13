@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000027715065</ID>
+<TITRE_TA>Titre II Conditions de rémunération des artistes-interprètes</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715080" num="1er" origine="KALI"/>
+<LIEN_ART debut="2013-02-05" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000027715081" num="2" origine="KALI"/>
+<LIEN_ART debut="2023-01-01" etat="ABROGE" fin="2025-04-01" id="KALIARTI000047056519" num="2" origine="KALI"/>
+<LIEN_ART debut="2024-08-22" etat="ABROGE" fin="2025-04-01" id="KALIARTI000050372481" num="2" origine="KALI"/>
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715082" num="3.a" origine="KALI"/>
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715085" num="3.b" origine="KALI"/>
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715087" num="4" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625645</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625645.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625645" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Annexe I.13. Chef de service de sécurité incendie</p>
+<p>Coefficient AM 235</p>
+<p>Ses missions s'exercent dans le cadre de textes réglementaires applicables en matière de prévention des risques incendie et de panique dans les ERP (établissements recevant de public) et les IGH (immeuble de grande hauteur).</p>
+<p>Missions et compétences :</p>
+<p>Il veille à l'application de la réglementation en vigueur et délivre pour cela des avis au chef d'établissement, sur le site où il officie. Le service de sécurité incendie et d'assistance à la personne est placé sous sa direction, il en assure l'organisation générale et la gestion.</p>
+<p>Dans le cadre de sa fonction, il peut être amené à avoir les compétences suivantes et pourra avoir à assurer un certain nombre de missions : (voir référentiel pédagogique SSIAP 3 dans l'arrêté du 2 mai 2005 modifié) :<br/>
+– reconnaître la typologie et le type de structure de son ou ses bâtiments ;<br/>
+– savoir se situer sur un plan d'architecte en vue d'appliquer la réglementation incendie sur son site ;<br/>
+– appliquer les obligations réglementaires en matière de moyens de secours et plus particulièrement en matière de systèmes de sécurité incendie ;<br/>
+– appliquer et faire appliquer les obligations réglementaires en matière d'accessibilité aux handicapés dans les établissements recevant du public et les IGH ;<br/>
+– identifier les situations de risques de déclenchements d'incendies et d'accidents corporels ;<br/>
+– assurer le suivi et le bon achèvement de travaux concernant la sécurité incendie sur son site ;<br/>
+– connaître et mettre à jour les documents administratifs ;<br/>
+– effectuer la veille réglementaire en matière de sécurité incendie ;<br/>
+– assurer les relations avec la commission de sécurité ;<br/>
+– gérer et optimiser les moyens du service mis à sa disposition. Il doit pouvoir réaliser des budgets ;<br/>
+– exercer sa fonction d'encadrant et notamment assurer l'évaluation, la formation, l'acquisition de compétences nouvelles de ses équipes… ;<br/>
+– garantir le respect et l'application du droit du travail à l'égard de ses équipes ;<br/>
+– conseiller le chef d'établissement notamment en matière de sécurité incendie et d'élaboration d'un cahier de clauses techniques particulières ;<br/>
+– veiller à l'application des règles de maintenance en matière de sécurité incendie sur son établissement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

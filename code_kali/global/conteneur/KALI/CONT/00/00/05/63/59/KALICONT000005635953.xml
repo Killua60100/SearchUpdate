@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635953</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635953.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des gardiens, concierges et employés d'immeubles (réécrite par l'avenant n° 74 du 27 avril 2009 portant modification de la convention)</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1043</NUM>
+
+<DATE_PUBLI>2009-04-27</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000021180979" titretxt="Convention collective nationale du 27 avril 2009"/>
+<LIEN_TXT idtxt="KALITEXT000005656771" titretxt="CONVENTION COLLECTIVE NATIONALE du 11 décembre 1979"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005656775" titretxt="Définition et évaluation des tâches (Annexe I)"/>
+<LIEN_TXT idtxt="KALITEXT000005656779" titretxt="Valeur du point. Evaluation du salaire en nature ()Annexe II)"/>
+<LIEN_TXT idtxt="KALITEXT000005656781" titretxt="Dispositions transitoires (Annexe III)"/>
+<LIEN_TXT idtxt="KALITEXT000005656787" titretxt="Règlement intérieur (Annexe IV)"/>
+<LIEN_TXT idtxt="KALITEXT000005656789" titretxt="Retraite complémentaire par répartition des salariés des immeubles et ensembles immobiliers (Annexe V)"/>
+<LIEN_TXT idtxt="KALITEXT000005656795" titretxt="Protocole d'accord Prévoyance (Annexe VI)"/>
+<LIEN_TXT idtxt="KALITEXT000005656870" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005656797" titretxt="Avenants départementaux ou régionaux - Région parisienne"/>
+<LIEN_TXT idtxt="KALITEXT000005656763" titretxt="Avenant n° 1 du 26 novembre 1981 (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656765" titretxt="Avenant n° 2 du 30 mai 1983 (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656769" titretxt="Avenant n° 1 du 18 janvier 1985 (Loire-Atlantique)"/>
+<LIEN_TXT idtxt="KALITEXT000005656807" titretxt="Avenant n° 2 du 28 février 1985 (Loire-Atlantique)"/>
+<LIEN_TXT idtxt="KALITEXT000005656809" titretxt="Règlement intérieur de la commission départementale paritaire de la Loire-Atlantique"/>
+<LIEN_TXT idtxt="KALITEXT000005656811" titretxt="Institution d'une commission départementale paritaire de conciliation (Loiret) "/>
+<LIEN_TXT idtxt="KALITEXT000005656813" titretxt="Avenant du 18 novembre 1981 (Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005656815" titretxt="AVENANTS DEPARTEMENTAUX OU REGIONAUX  SAVOIE"/>
+<LIEN_TXT idtxt="KALITEXT000005656817" titretxt="AVENANTS DEPARTEMENTAUX OU REGIONAUX"/>
+<LIEN_TXT idtxt="KALITEXT000005656819" titretxt="Application de l'article 2, dernier alinéa, de la convention collective nationale relatif au maintien des avantages collectivement acquis (Var)"/>
+<LIEN_TXT idtxt="KALITEXT000005656821" titretxt="Dispositions législatives et réglementaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656823" titretxt="Dispositions législatives et réglementaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656805" titretxt="Dispositions législatives et réglementaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656829" titretxt="Dispositions législatives et réglementaires "/>
+<LIEN_TXT idtxt="KALITEXT000005656831" titretxt="Dispositions législatives et réglementaires "/>
+<LIEN_TXT idtxt="KALITEXT000005656833" titretxt="Dispositions législatives et réglementaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656791" titretxt="Décision du Conseil d'administration CRIP"/>
+<LIEN_TXT idtxt="KALITEXT000005656767" titretxt="Statut des représentants des salariés siégeant aux commissions mixtes paritaires (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656837" titretxt="Révision de la classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005656839" titretxt="Révision de la classification des emplois : Annexe visée au paragraphe C de l'accord du 14 janvier 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005656841" titretxt="Accord « Diverses clauses » (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656843" titretxt="Diverses clauses (Loire-Atlantique)"/>
+<LIEN_TXT idtxt="KALITEXT000005656825" titretxt="Prime mensuelle pour la sortie des poubelles sélectives"/>
+<LIEN_TXT idtxt="KALITEXT000018828002" titretxt="Sortie des poubelles sélectives (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656827" titretxt="Congés pour évènements personnels (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656845" titretxt="Secrétariat de la commission paritaire (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656847" titretxt="Indemnisation des délégués"/>
+<LIEN_TXT idtxt="KALITEXT000005656793" titretxt="Décision du conseil d'administration de la CRIP du 18 mars 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005656849" titretxt="Commissions mixtes paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656851" titretxt="Exercice du droit syndical"/>
+<LIEN_TXT idtxt="KALITEXT000005656853" titretxt="Encadrement des pratiques d'assermentation des gardiens-concierges (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656855" titretxt="Modification de l'article 17 « Départ à la retraite »"/>
+<LIEN_TXT idtxt="KALITEXT000005656857" titretxt="Journée de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000005656859" titretxt="Lettre d'adhésion de la fédération des commerces et des services UNSA à la convention collective nationale des gardiens, concierges et employés d'immeubles"/>
+<LIEN_TXT idtxt="KALITEXT000005656861" titretxt="Calcul de la prime d'ancienneté (Alpes-maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656864" titretxt="Détermination des éléments constitutifs du salaire minimum (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656866" titretxt="Indemnisation des délégués en 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005656868" titretxt="Indemnisation des délégués en 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005656872" titretxt="Encadrement des pratiques d'assermentation des gardiens, concierges (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656874" titretxt="Lettre d'adhésion du syndicat national de l'urbanisme, de l'habitat et des administrateurs de biens (SNHUAB), CFE-CGC à l'avenant n° 66 du 9 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005656876" titretxt="Lettre d'adhésion de l'association des responsables de copropriété (ARC) à l'avenant n 66 relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005656878" titretxt="Primes diverses"/>
+<LIEN_TXT idtxt="KALITEXT000017579275" titretxt="Lettre d'adhésion du SNIGIC à l'avenant n° 66"/>
+<LIEN_TXT idtxt="KALITEXT000017890402" titretxt="Exercice du droit syndical"/>
+<LIEN_TXT idtxt="KALITEXT000023001541" titretxt="Commissions d'interprétation"/>
+<LIEN_TXT idtxt="KALITEXT000023759068" titretxt="Répartition de la contribution au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000026534390" titretxt="Modification des articles 16 et 17 de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000028313481" titretxt="Annexe : Régime de prévoyance et de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028313714" titretxt="Congés annuels et remplacements"/>
+<LIEN_TXT idtxt="KALITEXT000028900592" titretxt="Régime de prévoyance et de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000029584791" titretxt="Création d'un CQP « Gardien(ne), concierge et employé(e) d'immeuble »"/>
+<LIEN_TXT idtxt="KALITEXT000029725662" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000029732063" titretxt="Adhésion de la fédération des services CFDT à l'accord n° 82 du 17 juin 2013"/>
+<LIEN_TXT idtxt="KALITEXT000030335209" titretxt="Adhésion de la chambre nationale des propriétaires (CHDP) à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000030778420" titretxt="Classification des postes de travail et des qualifications professionnelles "/>
+<LIEN_TXT idtxt="KALITEXT000031493531" titretxt="Calcul de l'indemnité conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000031493539" titretxt="Régimes de prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000032748860" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000033414695" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000033414715" titretxt="Prévoyance et frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034869014" titretxt="Modification de l'avenant n° 88"/>
+<LIEN_TXT idtxt="KALITEXT000036511855" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000036511877" titretxt="Courriers et colis"/>
+<LIEN_TXT idtxt="KALITEXT000036599702" titretxt="Prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000037528202" titretxt="Modification de l'article 5 « Commission paritaire permanente de négociation et d'interprétation » de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000038377897" titretxt="Calcul du salaire brut"/>
+<LIEN_TXT idtxt="KALITEXT000038632489" titretxt="Régimes de prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000039109416" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000039358276" titretxt="Cotisation conventionnelle pour la formation professionnelle des personnels d'immeubles"/>
+<LIEN_TXT idtxt="KALITEXT000043997360" titretxt="Avenant n° 4 du 7 octobre 2020 (régimes de prévoyance et de frais de santé)"/>
+<LIEN_TXT idtxt="KALITEXT000043348957" titretxt="Repos hebdomadaire"/>
+<LIEN_TXT idtxt="KALITEXT000045130006" titretxt="Cotisation pour la formation professionnelle des personnels d'immeubles"/>
+<LIEN_TXT idtxt="KALITEXT000045791179" titretxt="Adhésion de la FESSAD UNSA"/>
+<LIEN_TXT idtxt="KALITEXT000050135883" titretxt="Droit syndical national et financement des projets en faveur du dialogue social"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005656880" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656882" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656884" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656886" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656888" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656890" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656892" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656896" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656898" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656900" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656902" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005656904" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656908" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656910" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656912" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656914" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656916" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656918" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005656920" titretxt="Salaires (Alpes-Maritimes)"/>
+<LIEN_TXT idtxt="KALITEXT000005656922" titretxt="Salaires (Annexe II)"/>
+<LIEN_TXT idtxt="KALITEXT000019074324" titretxt="Salaires (Annexe II)"/>
+<LIEN_TXT idtxt="KALITEXT000019819384" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020493263" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022168782" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023759077" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025063139" titretxt="Salaires "/>
+<LIEN_TXT idtxt="KALITEXT000027593530" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000030160283" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000032748980" titretxt="Modification de l'annexe II (Salaires)"/>
+<LIEN_TXT idtxt="KALITEXT000034183780" titretxt="Prime exceptionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000034183787" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000036599713" titretxt="Annexe II « Salaires et évaluation du salaire en nature logement »"/>
+<LIEN_TXT idtxt="KALITEXT000038377919" titretxt="Annexe II « Salaires et évaluation du salaire en nature logement »"/>
+<LIEN_TXT idtxt="KALITEXT000042111124" titretxt="Salaires au 1er avril 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043348945" titretxt="Prime de compensation"/>
+<LIEN_TXT idtxt="KALITEXT000045953640" titretxt="Salaires au 1er juillet 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046737477" titretxt="Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047403995" titretxt="Salaires 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049438706" titretxt="Salaires 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051447059" titretxt="Salaires 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005656924" titretxt="ARRETE du 15 avril 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005656926" titretxt="ARRETE du 20 avril 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005656928" titretxt="ARRETE du 4 juin 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005656932" titretxt="ARRETE du 12 août 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005656934" titretxt="ARRETE du 25 novembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005656936" titretxt="ARRETE du 16 décembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005656938" titretxt="ARRETE du 25 février 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005656940" titretxt="ARRETE du 27 octobre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005656942" titretxt="ARRETE du 17 février 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005656944" titretxt="ARRETE du 11 mai 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005656946" titretxt="ARRETE du 17 juillet 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005656948" titretxt="ARRETE du 15 janvier 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656950" titretxt="ARRETE du 15 février 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656952" titretxt="ARRETE du 20 mars 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656954" titretxt="ARRETE du 23 juillet 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656956" titretxt="ARRETE du 6 août 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656958" titretxt="ARRETE du 4 novembre 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005656960" titretxt="ARRETE du 4 mars 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005656962" titretxt="ARRETE du 12 mars 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005656964" titretxt="ARRETE du 16 avril 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005656966" titretxt="ARRETE du 5 juin 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005656968" titretxt="ARRETE du 8 octobre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005656970" titretxt="ARRETE du 18 février 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005656972" titretxt="ARRETE du 20 juin 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005656974" titretxt="ARRETE du 29 septembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005656976" titretxt="ARRETE du 13 décembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005656978" titretxt="ARRETE du 11 avril 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005656980" titretxt="ARRETE du 4 décembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005656982" titretxt="ARRETE du 22 janvier 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005656984" titretxt="ARRETE du 9 février 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005656986" titretxt="ARRETE du 25 mai 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005656988" titretxt="ARRETE du 1 février 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005656990" titretxt="ARRETE du 7 février 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005656992" titretxt="ARRETE du 8 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005656994" titretxt="ARRETE du 25 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005656996" titretxt="ARRETE du 13 août 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005656998" titretxt="ARRETE du 30 octobre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005657000" titretxt="ARRETE du 1 juin 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005657005" titretxt="ARRETE du 6 octobre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005657007" titretxt="ARRETE du 28 septembre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005657009" titretxt="ARRETE du 14 juin 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657011" titretxt="ARRETE du 19 septembre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657013" titretxt="ARRETE du 10 octobre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657015" titretxt="ARRETE du 17 janvier 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005657017" titretxt="ARRETE du 30 novembre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005657019" titretxt="ARRETE du 15 janvier 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657021" titretxt="ARRETE du 26 mars 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657023" titretxt="ARRETE du 26 mars 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657025" titretxt="ARRETE du 4 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657027" titretxt="ARRETE du 19 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657029" titretxt="ARRETE du 13 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005657031" titretxt="ARRETE du 7 janvier 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005657033" titretxt="ARRETE du 17 juillet 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005657035" titretxt="ARRETE du 13 novembre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005657037" titretxt="ARRETE du 5 janvier 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005657039" titretxt="ARRETE du 29 mars 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005657041" titretxt="ARRETE du 20 janvier 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657043" titretxt="ARRETE du 6 mars 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657045" titretxt="ARRETE du 11 octobre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657047" titretxt="ARRETE du 6 décembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657049" titretxt="ARRETE du 24 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657051" titretxt="ARRETE du 11 janvier 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657053" titretxt="ARRETE du 11 janvier 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657055" titretxt="ARRETE du 9 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657057" titretxt="ARRETE du 29 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657059" titretxt="ARRETE du 11 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657061" titretxt="ARRETE du 2 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005657071" titretxt="ARRETE du 22 octobre 2004"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Gardiens, concierges et employés d'immeubles</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3144</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

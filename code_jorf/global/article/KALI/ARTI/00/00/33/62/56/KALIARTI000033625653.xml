@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625653</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625653.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625653" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Annexe I.17.1. Opérateur SCT 1 Modules de formation</p>
+<p>Objectifs</p>
+<p>Maîtrise des outils informatisés de télésurveillance.<br/>
+Faculté d'analyse synthétique des informations reçues.<br/>
+Traitement des actions à entreprendre, notamment à travers la gestion des priorités.<br/>
+Rapidité d'exécution.<br/>
+Optimisation de la communication.</p>
+<p>Module 1. Télésurveillance</p>
+<p>Présentation générale de la surveillance à distance :<br/>
+– la description de la chaîne de la télésécurité et de ses acteurs ;<br/>
+– la typologie des risques et la connaissance des moyens de protection ;<br/>
+– les techniques de surveillance à distance ;<br/>
+– l'environnement juridique et contractuel.</p>
+<p>La détection intrusion :<br/>
+– la centrale d'alarme et les détecteurs (composition d'une installation d'alarme) ;<br/>
+– l'autoprotection d'un système d'alarme ;<br/>
+– les principes de fonctionnement d'un système d'alarme ;<br/>
+– le cas particulier des alarmes d'agression ;<br/>
+– la définition des priorités de traitement.</p>
+<p>La détection incendie :<br/>
+– information sur les principaux types de détecteurs et leur emploi ;<br/>
+– information sur les principaux types d'alarmes techniques.</p>
+<p>La transmission à distance des informations :<br/>
+– le transmetteur téléphonique ;<br/>
+– les protocoles ;<br/>
+– les réseaux de transmission ;<br/>
+– les liaisons ;<br/>
+– les réseaux de télécommunication.</p>
+<p>La protection de la station centrale :<br/>
+– les équipements ;<br/>
+– les procédures ;<br/>
+– les exigences de la règle R. 31 ;<br/>
+– les stations de secours (fonctionnement en dégagement ou en débordement).</p>
+<p>Module 2. Modalités d'exercice de l'activité</p>
+<p>La réception en station centrale.<br/>
+Les fonctions et missions de l'opérateur.<br/>
+Les techniques de levée de doute.<br/>
+Le traitement des informations reçues.<br/>
+Les conduites à tenir selon la nature de l'alarme.<br/>
+La prise en compte des consignes client.<br/>
+Le suivi de l'intervention.</p>
+<p>Module 3. Communication</p>
+<p>L'accueil et l'écoute de la demande.<br/>
+Les techniques relationnelles appropriées aux interlocuteurs (client, société d'intervention, forces de l'ordre…).<br/>
+Mise en situation. Gestion émotionnelle.<br/>
+Rédaction de comptes rendus.</p>
+<p>Module 4. Formation pratique</p>
+<p>Mise en pratique sur logiciels d'application.<br/>
+L'exploitation des informations réceptionnées.<br/>
+L'exploitation des moyens de communication.<br/>
+La chronologie des tâches par ordre de priorité.<br/>
+Les conduites à tenir selon la nature du déclenchement.<br/>
+L'utilisation de la main courante.<br/>
+L'application des consignes client.<br/>
+Les communications téléphoniques (client, société d'intervention, forces de l'ordre…).<br/>
+Le suivi de l'intervention.<br/>
+La gestion du stress professionnel.<br/>
+Familiarisation aux procédures de gestion client de l'entreprise (y compris la gestion des règles de confidentialité).<br/>
+Familiarisation avec l'environnement de la SCT.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

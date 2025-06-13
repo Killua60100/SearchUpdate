@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397231</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/72/KALIARTI000045397231.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE>Entretien professionnel</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047825387">Annexe 7 Formation professionnelle tout au long de la vie</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397231" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Tous les deux ans, les salariés doivent bénéficier de l'entretien professionnel prévu à l'article L. 6315-1 du code du travail, destiné à leur permettre d'élaborer un projet professionnel à partir de l'évolution qu'ils envisagent.</p>
+<p align="left">Le salarié qui reprend son activité à l'issue d'un congé de maternité, d'un congé parental d'éducation, d'un congé de proche aidant, d'un congé d'adoption, d'un congé sabbatique, d'une période de mobilité volontaire sécurisée, d'une période d'activité à temps partiel au sens de l'article L. 1225-47 du code du travail, d'un arrêt longue maladie prévu à l'article L. 324-1 du code de la sécurité sociale ou à l'issue d'un mandat syndical a droit à un entretien professionnel avec son employeur. Cet entretien peut avoir lieu, à l'initiative du salarié, à une date antérieure à la reprise de poste.</p>
+<p align="left">Tous les 6 ans, l'entretien professionnel donne lieu à un état des lieux récapitulatif du parcours professionnel du salarié.</p>
+<p align="left">Cet état des lieux permet de vérifier que le salarié a bénéficié au cours des 6 dernières années des entretiens professionnels et d'apprécier s'il a :<br/>
+1. Suivi au moins une action de formation ;<br/>
+2. Acquis des éléments de certification par la formation ou par une validation des acquis de son expérience ;<br/>
+3. Bénéficié d'une progression salariale ou professionnelle.</p>
+<p align="left">Dans les entreprises d'au moins 50 salariés, lorsque, au cours de ces 6 années, le salarié n'a pas bénéficié des entretiens prévus et d'au moins une formation autre qu'une action de formation qui conditionne l'exercice d'une activité ou d'une fonction, en application d'une convention internationale ou de dispositions légales et règlementaires, son compte personnel de formation est abondé d'un montant de 3 000 euros.</p>
+<p align="left">Afin de mettre en œuvre et formaliser les entretiens professionnels, les partenaires sociaux recommandent aux entreprises de la branche d'utiliser les outils spécifiques élaborés par l'OPCO et téléchargeables sur le site https://www.akto.fr/entretien-professionnel/ et de communiquer aux salariés, au moins 15 jours avant la tenue de l'entretien, le guide de préparation à l'entretien professionnel à destination de ces derniers.</p>
+<p align="left">À l'occasion de l'entretien professionnel, l'employeur est tenu d'informer le salarié sur la VAE, sur l'activation du CPF, sur les abondements au CPF que l'employeur est susceptible de financer et sur le conseil en évolution professionnelle.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900929" naturetexte="CODE" nortexte="" num="L1225-47" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1225-47</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000021340649" naturetexte="CODE" nortexte="" num="L6315-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L6315-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006742522" naturetexte="CODE" nortexte="" num="L324-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L324-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

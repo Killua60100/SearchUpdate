@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397121</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/71/KALIARTI000045397121.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>43</NUM>
+<TITRE>Mise à la retraite par l'employeur</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397029">Chapitre VII Rupture du contrat de travail</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397121" num="43" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">A. Dispositions générales</p>
+<p align="left">La rupture par l'employeur du contrat de travail d'un salarié dans les conditions prévues par l'article L. 1237-5 du code du travail ne constitue pas un licenciement.</p>
+<p align="left">L'employeur devra respecter le préavis prévu à l'article 40 de la présente convention collective en cas de rupture à l'initiative de l'employeur, à savoir :<br/>
+– pour les employés :<br/>
+–– un mois jusqu'à deux ans d'ancienneté ;<br/>
+–– deux mois après deux ans d'ancienneté ;<br/>
+– pour les agents de maîtrise : deux mois ;<br/>
+– pour les cadres : trois mois.</p>
+<p align="center">B. Indemnité de mise à la retraite</p>
+<p align="left">La mise à la retraite d'un salarié lui ouvre droit à une indemnité au moins égale à l'indemnité légale de licenciement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901179" naturetexte="CODE" nortexte="" num="L1237-5" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1237-5</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

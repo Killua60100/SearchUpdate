@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397112</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/71/KALIARTI000045397112.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>37</NUM>
+<TITRE>Congés pour évènements familiaux</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2024-05-23</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397028">Chapitre VI Congés et absences</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-08-01" etat="REMPLACE" fin="2024-05-23" id="KALIARTI000045397112" num="37" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050146376" num="37" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le salarié bénéficie, sur demande dûment justifiée et à l'occasion de certains événements familiaux, d'une autorisation exceptionnelle d'absence, sans réduction de la rémunération, dans les limites ci-après, exprimées en jours ouvrables consécutifs : <br/>– pour son mariage ou pour la conclusion d'un pacte civil de solidarité (Pacs) : cinq jours dont le jour de la cérémonie ou de la conclusion ; <br/>– pour le mariage d'un enfant : deux jours dont le jour de la cérémonie ; <br/>– pour une naissance survenue à son foyer : trois jours, bénéficiant au père et, le cas échéant, au conjoint ou au concubin de la mère ou la personne liée à elle par un pacte civil de solidarité (Pacs). Cette période de congés commence à courir, au choix du salarié, le jour de la naissance de l'enfant ou le premier jour ouvrable qui suit ; <br/>– pour l'arrivée d'un enfant placé en vue de son adoption : trois jours ; <br/>– en cas de décès d'un enfant, du conjoint, du partenaire lié par un pacte civil de solidarité (Pacs) ou du concubin : cinq jours, portés à sept jours ouvrés en cas de décès d'un enfant lorsque l'enfant est âgé de moins de 25 ans et quel que soit son âge si l'enfant décédé était lui-même parent ou en cas de décès d'une personne âgée de moins de 25 ans à sa charge effective et permanente. Ce congé est accordé, le cas échéant, sans préjudice du congé de deuil tel que prévu par les dispositions légales et règlementaires applicables ; <br/>– en cas de décès du père ou de la mère : trois jours ; <br/>– en cas de décès d'un frère, d'une sœur, des beaux-parents ou d'un petit enfant : trois jours ; <br/>– en cas de décès des grands-parents : un jour. <br/>Lorsque le décès nécessite un déplacement à plus de trois cents kilomètres du domicile du salarié, il lui sera accordé, sur sa demande, une autorisation d'absence complémentaire non rémunérée d'un jour ; <br/>– <i>annonce de la survenue d'un handicap chez un enfant : deux jours</i>  (1) ; <br/>– en cas de déménagement : un jour tous les cinq ans après six mois d'ancienneté. </p>
+<p align="left">Les congés visés ci-dessus sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Le 11e alinéa de l'article 37 est étendu sous réserve du respect de l'article L. 3142-1, modifié du code du travail.  <br/>(Arrêté du 5 juillet 2023 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

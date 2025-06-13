@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051537669</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/53/76/KALIARTI000051537669.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Collecte des cotisations</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051537665" date_publi="2025-04-30" date_signature="2025-01-24" nature="Avenant" nor="ASET2550252M" num="3" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051537665">Avenant n° 3 du 24 janvier 2025 à l'avenant n° 2 du 24 octobre 2024 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635185" date_publi="1979-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1000" titre="Convention collective nationale des avocats et de leur personnel du 20 février 1979. Etendue par arrêté du 13 novembre 1979 JONC 9 janvier 1980" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635185.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051537669" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La phrase « La cotisation 2025 sera appelée sur la base de la masse salariale 2024 » de l'article 1er de l'avenant n° 2 du 24 octobre 2024 est remplacée par :</p>
+<p align="left">« La cotisation au titre de 2025 appelée, par l'opérateur de compétences des entreprises de proximité, à terme échu sera appelée début 2026 sur la base de la masse salariale 2025.</p>
+<p align="left">Ce mode de collecte se poursuivra ainsi pour les années suivantes tant que ce mode de collecte sera en vigueur et s'adaptera, en tant que de besoin, en cas d'évolution du mode de collecte. »</p>
+<p align="left">Le reste de l'avenant n° 2 demeure inchangé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000051149797" datesignatexte="2024-10-24" id="KALIARTI000051691532" naturetexte="Avenant" nortexte="ASET2450977M" num="1er" numtexte="2" sens="source" typelien="MODIFIE">Financement du paritarisme - art. 1er (VNE)</LIEN>
+
+<LIEN cidtexte="KALITEXT000047865919" datesignatexte="2023-04-14" id="KALIARTI000051691530" naturetexte="Accord" nortexte="ASET2350639M" num="6" numtexte="" sens="source" typelien="MODIFIE">Financement du paritarisme - art. 6 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

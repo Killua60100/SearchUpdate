@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649883</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/98/KALIARTI000038649883.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14</NUM>
+<TITRE>Période d'essai</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>PERIODE_ESSAI</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649842">Chapitre IV Emploi et exécution du contrat de travail</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649883" num="14" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">14.10. Objet de la période d'essai</p>
+<p align="left">La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d'apprécier si les fonctions occupées lui conviennent.</p>
+<p align="left">La période d'essai s'entend d'une période d'exécution normale du contrat de travail. En conséquence, les éventuelles périodes de suspension du contrat de travail survenant pendant la période d'essai prolongent celle-ci d'une durée identique.</p>
+<p align="center">14.20. Existence de la période d'essai</p>
+<p align="left">La période d'essai et la possibilité de la renouveler ne se présument pas. Elles doivent figurer expressément dans la lettre d'engagement ou dans le contrat de travail.</p>
+<p align="center">14.30. Durée</p>
+<p align="left">Pour le personnel sédentaire, la durée de la période d'essai initiale des contrats à durée indéterminée est de :<br/>
+– 2 mois pour le personnel ouvrier et employé ;<br/>
+– 3 mois pour le personnel agent de maîtrise ;<br/>
+– 4 mois pour le personnel cadre.</p>
+<p align="left">Pour toutes les catégories de personnel sédentaire, la durée de la période d'essai des contrats à durée déterminée est de 1 jour par semaine dans la limite de 2 semaines lorsque la durée du contrat est au plus égale à 6 mois, et 1 mois pour les contrats d'une durée supérieure à 6 mois.</p>
+<p align="left">Lorsque le contrat ne comporte pas de terme précis, la période d'essai est calculée, selon la règle ci-dessus, par rapport à la durée minimale du contrat.</p>
+<p align="left">Pour le personnel navigant, la durée de la période d'essai initiale des contrats à durée indéterminée est de :<br/>
+– 1 mois d'embarquement effectif pour le personnel ouvrier et employé (du grade de matelot au grade de maître matelot/matelot-timonier et matelot garde moteur) ;<br/>
+– 2 mois d'embarquement effectif pour le personnel ouvrier et employé (du grade de timonier et mécanicien jusqu'au grade de 2d capitaine et de maître machine) ;<br/>
+– 3 mois d'embarquement effectif pour le personnel agent de maîtrise et cadre (1er capitaine et commandant).</p>
+<p align="left">L'embarquement effectif s'entend des périodes de travail à bord des unités et de toutes périodes de travail assimilées (formation, service à terre…), à l'exclusion des périodes de repos à terre.</p>
+<p align="left">Pour toutes les catégories de personnel navigant, la durée de la période d'essai des contrats à durée déterminée est de 1 jour par semaine dans la limite de 2 semaines lorsque la durée du contrat est au plus égale à 6 mois, 1 mois pour les contrats d'une durée supérieure à 6 mois.</p>
+<p align="left">Lorsque le contrat ne comporte pas de terme précis, la période d'essai est calculée, selon la règle ci-dessus, par rapport à la durée minimale du contrat.</p>
+<p align="center">14.40. Renouvellement de la période d'essai</p>
+<p align="left">Pour le personnel sédentaire, la période d'essai des contrats à durée indéterminée peut être renouvelée pour une nouvelle période d'une durée équivalente à la période initiale, soit pour une période de :<br/>
+– 2 mois pour les personnels ouvrier et employé ;<br/>
+– 3 mois pour le personnel agent de maîtrise ;<br/>
+– 4 mois pour le personnel cadre.</p>
+<p align="left">Pour toutes les catégories de personnel navigant, la période d'essai des contrats à durée indéterminée peut être renouvelée pour une nouvelle période de 1 mois d'embarquement effectif.</p>
+<p align="left">Pour toutes les catégories de personnel navigant le total de la période d'essai initiale et de renouvellement éventuel ne peut excéder une durée de 6 mois calendaires.</p>
+<p align="left">La période d'essai d'un contrat de travail à durée déterminée n'est pas renouvelable.</p>
+<p align="left">La période d'essai ne peut être renouvelée que si cette possibilité a été expressément prévue par la lettre d'engagement ou par le contrat de travail.</p>
+<p align="left">À l'issue de la période d'essai, éventuellement prorogée, l'engagement du salarié devient définitif.</p>
+<p align="center">14.50. Cessation de la période d'essai</p>
+<p align="center">14.51. Cessation à l'initiative de l'employeur</p>
+<p align="left">Lorsque l'employeur met fin au contrat de travail, en cours ou au terme de la période d'essai, il est tenu de respecter, à l'égard du salarié, un délai de prévenance dont la durée ne peut être inférieure aux durées suivantes :<br/>
+– 48 heures au cours du premier mois de présence ;<br/>
+– 2 semaines après 1 mois de présence ;<br/>
+– 1 mois après 3 mois de présence.</p>
+<p align="left">Ces délais de prévenance sont applicables au contrat de travail à durée déterminée lorsque la durée de la période d'essai convenue est d'au moins 1 semaine.</p>
+<p align="left">Par ailleurs, lorsque le délai de prévenance de rupture de la période d'essai est d'au moins 2 semaines, le salarié dispose du même temps et des mêmes avantages pour la recherche d'un emploi que ceux dont il aurait bénéficié en cas de rupture du contrat de travail intervenant postérieurement à la période d'essai. En cette circonstance sa rémunération ne peut subir de réduction.</p>
+<p align="left">En cas d'inobservation par l'employeur de tout ou partie du délai de prévenance, la cessation du contrat de travail intervient, au plus tard, le dernier jour de la période d'essai. Le salarié bénéficie alors d'une indemnité de prévenance dont le montant est égal aux rémunérations qu'il aurait perçues s'il avait travaillé pendant la partie du délai de prévenance qui n'a pas été exécutée.</p>
+<p align="center">14.52. Cessation à l'initiative du salarié</p>
+<p align="left">Lorsque le salarié met fin au contrat de travail, en cours ou au terme de la période d'essai, il est tenu de respecter, à l'égard de l'employeur, un délai de prévenance qui ne peut être supérieur aux durées suivantes :<br/>
+– 24 heures en deçà de 8 jours de présence ;<br/>
+– 48 heures pour une présence d'au moins 8 jours.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625601</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625601.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Définitions des emplois repères</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625601" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">3.1. Les parties rappellent que les missions des agents dans les différents métiers ont nécessairement un lien direct avec la protection des biens et des personnes sur les sites clients.</p>
+<p align="left">Elles ne doivent donner lieu à aucune confusion avec des tâches administratives, logistiques, d'entretien ou de confort normalement dévolues aux personnels de l'entreprise cliente ou à d'autres sous-traitants spécialisés dans ces activités.</p>
+<p align="left">3.2. Compte tenu de la diversité des contextes d'exercice des métiers, les « fiches métier » jointes en annexe I au présent accord n'ont pas pour objet de dresser une liste exhaustive des actions et missions qui constituent la réalité quotidienne de l'emploi concerné mais de définir ce qui en constitue les rôles, missions et responsabilités essentielles de manière à suffisamment caractériser l'emploi occupé pour lui accorder la classification correspondante prévue à l'annexe II jointe au présent accord.</p>
+<p align="left">3.3. Cette classification sera attribuée aux salariés embauchés à compter de la date d'entrée en vigueur du présent accord.</p>
+<p align="left">À compter de cette date, tout salarié recruté, quelle que soit la nature de son contrat de travail, bénéficiera dès son embauche du coefficient correspondant au métier qu'il va exercer dès lors que, dans le cadre de son affectation, il devra mettre en œuvre une ou plusieurs des compétences et accomplir une ou plusieurs des missions et responsabilités spécifiques prévues par la fiche métier, en vertu des finalités et instructions attachées au poste.</p>
+<p align="left">La formation correspondante à ce métier doit être commencée au plus tard avant l'issue de la période d'essai. L'initiative de cette formation est obligatoirement à la charge de l'employeur.</p>
+<p align="left">3.4. Toutefois, les salariés qui, au moment de l'entrée en vigueur du présent accord, exercent déjà un des métiers repères décrits dans les fiches métier de l'annexe I ci-jointe bénéficient dès cette entrée en vigueur de l'application du coefficient correspondant au métier concerné.</p>
+<p align="left">Les coefficients définis par le présent accord étant des minima, il est précisé que les salariés employés à la date d'entrée en vigueur du présent accord avec des coefficients supérieurs dans les métiers définis par les métiers repères ne peuvent faire l'objet d'une remise en cause de leur coefficient.</p>
+<p align="left">Sous réserve de l'alinéa suivant 3.5, en cas de pluralité d'exercice de métiers, simultanément ou alternativement, c'est le coefficient le plus élevé qui doit s'appliquer.</p>
+<p align="left">
+<em>3.5. En cas de remplacement temporaire dans un poste de classification supérieure, les dispositions de l'article 3 de l'annexe IV de la CCN demeurent applicables.</em>
+ (2)
+</p>
+<p>
+<font color="808080">
+<em>
+ (2) Article étendu sous réserve du respect du principe « à travail égal, salaire égal » résultant des dispositions du 10° de l'article L. 2261-22, du 8° de l'article L. 2271-1 et de l'article L. 3221-2 du code du travail.<br/>
+(Arrêté du 26 décembre 2016 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000005680928" datesignatexte="1985-02-15" id="KALIARTI000005853815" naturetexte="Annexe" nortexte="" num="3" numtexte="" sens="source" typelien="CITATION">Annexe  IV : Agents d'exploitation, employés administratifs et techniciens - art. 3</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

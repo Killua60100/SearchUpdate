@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397160</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/71/KALIARTI000045397160.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Objet</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047823901">Annexe 3 Régime de prévoyance complémentaire obligatoire non-cadres</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397160" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La présente annexe décrit les caractéristiques de la couverture de référence en matière de prévoyance complémentaire dont bénéficient, de façon obligatoire, les salariés non-cadres visés à l'article 3 ci-après.</p>
+<p align="left">L'ensemble des entreprises relevant du champ d'application visé ci-dessus doit être couvert par une couverture conforme aux garanties de référence instituées par la présente annexe.</p>
+<p align="left">La mise en place de ce régime de prévoyance complémentaire peut se faire au choix de l'entreprise :<br/>
+– soit par l'application directe des présentes dispositions de branche au sein de l'entreprise ;<br/>
+– soit par la conclusion d'un accord d'entreprise ou par la ratification, à la majorité des deux tiers des intéressés d'un projet d'accord proposé par le chef d'entreprise conclu dans les conditions posées à l'article L. 911-1 du code de la sécurité sociale : dans ce cas, les entreprises peuvent prévoir un régime différent de celui prévu par la présente annexe ;<br/>
+– soit par décision unilatérale du chef d'entreprise constatée dans un écrit remis par celui-ci à chaque intéressé, lorsque celle-ci met en œuvre un régime identique ou plus favorable que celui résultant de la présente annexe.</p>
+<p align="left">En tout état de cause, si elles le souhaitent, les entreprises ont la faculté de mettre en place des garanties supplémentaires telles que des prestations en cas de décès (rentes « Éducation » ou rentes « Handicap ») ou d'arrêt de travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745462" naturetexte="CODE" nortexte="" num="L911-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L911-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

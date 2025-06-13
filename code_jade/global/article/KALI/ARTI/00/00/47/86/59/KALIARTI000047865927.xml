@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047865927</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/86/59/KALIARTI000047865927.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Gestion du financement du paritarisme</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-04-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000047865919" date_publi="2999-01-01" date_signature="2023-04-14" nature="Accord" nor="ASET2350639M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2023-04-14" fin="2999-01-01" id_txt="KALITEXT000047865919">Accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005636008" date_publi="1995-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1850" titre="Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996" url="conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-04-14" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047865927" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>La gestion de ce fonds est assurée par l'association paritaire de développement du dialogue social (ADDSA) dans le cadre d'un budget qui lui est propre mais selon des règles communes tant pour les avocats salariés que pour le personnel salarié non-avocat telles que définies par le règlement intérieur de ladite association.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050712162</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/71/21/KALIARTI000050712162.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-10-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649839">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-12-25" etat="REMPLACE" fin="2024-10-03" id="KALIARTI000038649848" num="1er" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-10-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050712162" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La présente convention collective, conclue en application des textes légaux et réglementaires, régit les relations entre :<br/>
+– les entreprises de transport de marchandises en navigation intérieure, notamment référencées sous le code APE 5040Z (transports fluviaux de fret) ;<br/>
+– l'ensemble des entreprises de transport fluvial de passagers, notamment visées par la nomenclature NAF, sous la catégorie 50.30 (incluant le code APE 5030Z) ;<br/>
+– leurs salariés sédentaires et navigants, affectés à l'activité de navigation, et les personnels navigants commerciaux, de restauration et d'hôtellerie.</p>
+<p>Il est précisé que la nomenclature d'activités françaises (code NAF) 50.30 vise les activités de transport fluvial de passagers, comprenant les sous-catégories suivantes :<br/>
+– 50.30.1 “ Transport fluvial de passagers ” :<br/>
+–– 50.30.11 “ Transport fluvial de passagers par transbordeurs ” : cette sous-catégorie comprend le transport fluvial régulier ou non de passagers par transbordeurs, y compris les hydroglisseurs ;<br/>
+–– 50.30.12 “ Transport fluvial de passagers sous forme de croisières ” : cette sous-catégorie comprend les croisières fluviales (transport, hébergement, restauration et services connexes non comptés à part) ;<br/>
+–– 50.30.13 “ Services d'excursions en bateau ” : cette sous-catégorie comprend les services d'excursions fluviales en bateau ;<br/>
+–– 50.30.14 “ Autres transports fluviaux de passagers ” : cette sous-catégorie comprend les autres transports fluviaux réguliers et non réguliers de passagers sur les fleuves, canaux et autres eaux intérieures et les services de coches d'eau et bateaux-taxis ;<br/>
+– 50.30.2 “ Location de bateaux fluviaux pour passagers avec pilote ”.</p>
+<p>La présente convention collective trouve donc notamment application au sein des entreprises dont l'activité principale correspond à l'une de ces sous-catégories.</p>
+<p>Dès lors, sont seules exclues du présent champ d'application, les activités d'hôtellerie, café, restauration, exercées à bord de bateaux amarrés de manière permanente à quai, sans navigation, et n'assurant pas, de fait, le transport de passagers, de manière principale ou accessoire.</p>
+<p>Les sociétés non référencées sous les codes visés ci-dessus, appartenant à des groupes de sociétés dont l'activité principale est le transport de marchandises ou de passagers en navigation intérieure, et assurant pour les sociétés de ce groupe la direction stratégique ou organisationnelle, la supervision et la gestion, appliquent à titre volontaire à leur personnel sédentaire, les dispositions de la présente convention, de ses annexes et avenants.</p>
+<p>Elle s'applique sur l'ensemble du réseau navigable français métropolitain.</p>
+<p>Elle s'applique également sur les voies à régime international et sur les eaux navigables à l'étranger dans le respect des règlements édictés par les États ou accords internationaux et des conventions entre les partenaires sociaux.</p>
+<p>Des annexes fixent les conditions particulières de travail, les grilles de classifications, les grilles de rémunérations pour chacune des catégories de personnel désignées ci-après :<br/>
+– personnels navigants des entreprises de transport de marchandises flotte classique ;<br/>
+– personnels navigants des entreprises de transport de marchandises flotte exploitée en relèves ;<br/>
+– ouvriers des entreprises de transport de marchandises et de transport de passagers ;<br/>
+– employés et agents de maîtrise de transport de marchandises et de transport de passagers ;<br/>
+– ingénieurs et cadres de transport de marchandises et de transport de passagers ;<br/>
+– personnels navigants des entreprises de transport de passagers ;<br/>
+– personnels navigants commerciaux, de restauration et d'hôtellerie des entreprises de transport de passagers.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000050699574" datesignatexte="2024-10-03" id="KALIARTI000050699578" naturetexte="Avenant" nortexte="ASET2450850M" num="1er" numtexte="1" sens="cible" typelien="MODIFIE">Modification de la convention collective - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635185</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635185.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des avocats et de leur personnel du 20 février 1979. Etendue par arrêté du 13 novembre 1979 JONC 9 janvier 1980</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1000</NUM>
+
+<DATE_PUBLI>1979-03-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale des cabinets d'avocats (avocats salariés) (IDCC 1850) par accord du 26 juillet 2019.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005683633" titretxt="Convention collective nationale du 20 février 1979"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005683635" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005683637" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005683639" titretxt="Règlement du régime de prévoyance de la CREPA"/>
+<LIEN_TXT idtxt="KALITEXT000005683641" titretxt="Formation professionnelle cycle court de l'ENADEP"/>
+<LIEN_TXT idtxt="KALITEXT000005683643" titretxt="Mensualisation du treizieme mois"/>
+<LIEN_TXT idtxt="KALITEXT000005683645" titretxt="Contribution à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005683647" titretxt="Régime de retraite complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005683649" titretxt="Régime de retraite complémentaire taux de cotisation"/>
+<LIEN_TXT idtxt="KALITEXT000005683651" titretxt="Régime de retraite obligatoire de l'UNIRS"/>
+<LIEN_TXT idtxt="KALITEXT000005683622" titretxt="Rapports entre les avocats et leur personnel "/>
+<LIEN_TXT idtxt="KALITEXT000005683624" titretxt="Rapports entre les avocats et leur personnel "/>
+<LIEN_TXT idtxt="KALITEXT000005683626" titretxt="Avocats salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005683628" titretxt="Modifications de la convention collective  Annexe à l'avenant n° 46  "/>
+<LIEN_TXT idtxt="KALITEXT000005683631" titretxt="Fonction et attributions du clerc d'avocat "/>
+<LIEN_TXT idtxt="KALITEXT000005683657" titretxt="Classification"/>
+<LIEN_TXT idtxt="KALITEXT000005683659" titretxt="Création de la commission nationale paritaire de l'emploi (Personnel salarié) "/>
+<LIEN_TXT idtxt="KALITEXT000005683661" titretxt="Temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005683665" titretxt="Création d'emplois par la réduction du temps de travail (personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683667" titretxt="Cotisations de formations professionnelles (Personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683669" titretxt="Caisses de retraite complémentaire dans les DOM (Personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683671" titretxt="Compléments de salaires (Personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683673" titretxt="Complément de salaire versé par l'ENADEP"/>
+<LIEN_TXT idtxt="KALITEXT000005683675" titretxt="Création d'un régime de dépendance et d'assistance"/>
+<LIEN_TXT idtxt="KALITEXT000005683677" titretxt="Création d'une commission paritaire d'interprétation"/>
+<LIEN_TXT idtxt="KALITEXT000005683653" titretxt="Congé maternité et parental"/>
+<LIEN_TXT idtxt="KALITEXT000005683655" titretxt="Maladie - Licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000005683679" titretxt="Certificat de qualification professionnelle secrétariat juridique"/>
+<LIEN_TXT idtxt="KALITEXT000005683681" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005683683" titretxt="Heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000005683685" titretxt="Adhésion de l'union professionnelle des sociétés d'avocats à l'avenant &quot; Salaires &quot; n° 74 du 21 novembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005683687" titretxt="Mise à la retraite et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005683689" titretxt="Garantie dépendance"/>
+<LIEN_TXT idtxt="KALITEXT000005683691" titretxt="Garantie dépendance"/>
+<LIEN_TXT idtxt="KALITEXT000005683693" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005683695" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005683697" titretxt="Heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000005683699" titretxt="13e mois"/>
+<LIEN_TXT idtxt="KALITEXT000005683701" titretxt="CPNE"/>
+<LIEN_TXT idtxt="KALITEXT000005683703" titretxt="Lettre d'adhésion de l'union professionnelle des sociétés d'avocat à l'avenant n° 75 du 9 juillet 2004 à la convention collective nationale des cabinets d'avocats"/>
+<LIEN_TXT idtxt="KALITEXT000005683705" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005683707" titretxt="Lettre d'adhésion de la CFTC à l'avenant n° 77 du 3 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005683709" titretxt="Avis de la CPNI relatif à l'indemnité de licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000005683711" titretxt="Création d'une caisse AGIRC"/>
+<LIEN_TXT idtxt="KALITEXT000005683713" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000005683715" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000005683717" titretxt="Garantie dépendance"/>
+<LIEN_TXT idtxt="KALITEXT000005683719" titretxt="Bonus exceptionnel de 1 000 euros"/>
+<LIEN_TXT idtxt="KALITEXT000005683721" titretxt="Retraite"/>
+<LIEN_TXT idtxt="KALITEXT000018084902" titretxt="Régime retraite CREPA"/>
+<LIEN_TXT idtxt="KALITEXT000018658927" titretxt="Durée du mandat des représentants du personnel"/>
+<LIEN_TXT idtxt="KALITEXT000018826537" titretxt="Indemnités de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000019242504" titretxt="Indemnité de remplacement"/>
+<LIEN_TXT idtxt="KALITEXT000019861235" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000020159303" titretxt="Période d'essai"/>
+<LIEN_TXT idtxt="KALITEXT000020216293" titretxt="Régime de dépendance"/>
+<LIEN_TXT idtxt="KALITEXT000021682458" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000021980135" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000023157798" titretxt="Formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000023175831" titretxt="Validation des certifications"/>
+<LIEN_TXT idtxt="KALITEXT000023330126" titretxt="Garantie dépendance et garantie assistance"/>
+<LIEN_TXT idtxt="KALITEXT000023454784" titretxt="Commission paritaire de validation des accords d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000023801125" titretxt="Droit syndical"/>
+<LIEN_TXT idtxt="KALITEXT000024473570" titretxt="Taux de contribution à l'OPCA-PL"/>
+<LIEN_TXT idtxt="KALITEXT000024575462" titretxt="Indemnités de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000024683482" titretxt="Régime de dépendance"/>
+<LIEN_TXT idtxt="KALITEXT000024809023" titretxt="Prévention et gestion des risques psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000024809074" titretxt="Ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000025633809" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000026123218" titretxt="Régime de retraite CREPA et OCIRP"/>
+<LIEN_TXT idtxt="KALITEXT000026356430" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026562987" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000027608731" titretxt="Santé au travail"/>
+<LIEN_TXT idtxt="KALITEXT000027750877" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028354487" titretxt="Adhésion de FESSAD-UNSA à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000030309307" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000032593350" titretxt="Travail à temps partiel des cadres"/>
+<LIEN_TXT idtxt="KALITEXT000034475526" titretxt="Modalités de fonctionnement et d'attribution de la commission paritaire nationale de l'emploi des cabinets d'avocats"/>
+<LIEN_TXT idtxt="KALITEXT000036563905" titretxt="Egalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000036563940" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000036731474" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000037411781" titretxt="Congés exceptionnels"/>
+<LIEN_TXT idtxt="KALITEXT000038435128" titretxt="Risques psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000039070743" titretxt="Taux de cotisation au fonds de fonctionnement (art. 45)"/>
+<LIEN_TXT idtxt="KALITEXT000038616124" titretxt="Démission et licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000039070749" titretxt="Indemnité de fin de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000039108817" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000039070760" titretxt="Contribution conventionnelle à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041686404" titretxt="Congés exceptionnels"/>
+<LIEN_TXT idtxt="KALITEXT000041405247" titretxt="Répartition des cotisations"/>
+<LIEN_TXT idtxt="KALITEXT000041439645" titretxt="Fusion des champs d'application"/>
+<LIEN_TXT idtxt="KALITEXT000042005029" titretxt="Modalités de fonctionnement et d'attribution de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000042085575" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043562309" titretxt="Formation professionnelle : contribution conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043829692" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000044085343" titretxt="Fusion des champs"/>
+<LIEN_TXT idtxt="KALITEXT000045372761" titretxt="Adhésion de la CAT"/>
+<LIEN_TXT idtxt="KALITEXT000046225606" titretxt="Modalités de composition et de vote de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000046225635" titretxt="Modalités de fonctionnement et d'attribution de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000046106611" titretxt="Modalités de fonctionnement et d'attribution de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000046225590" titretxt="Reconversion ou promotion par l'alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000046265802" titretxt="Validation des certifications"/>
+<LIEN_TXT idtxt="KALITEXT000047865919" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000050130245" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000050362334" titretxt="Catégories de bénéficiaires du régime de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000050362430" titretxt="Fusion des champs"/>
+<LIEN_TXT idtxt="KALITEXT000050362437" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000051149797" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000051537665" titretxt="Financement du paritarisme"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005683723" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683725" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683727" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683729" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683731" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683733" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683735" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683737" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683739" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683741" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683743" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683745" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683747" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683749" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683751" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683753" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683756" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683758" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683760" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683762" titretxt="SALAIRES (personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683764" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683766" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683768" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005683770" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005683772" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005669443" titretxt="Salaires (Personnel salarié)"/>
+<LIEN_TXT idtxt="KALITEXT000005683776" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018658942" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020216345" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021980130" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023454805" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025276306" titretxt="Salaires minima au 1er janvier 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027041207" titretxt="Salaires minima au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000028572939" titretxt="Salaires minima au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000030681897" titretxt="Salaires minima au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032705408" titretxt="Salaires minima au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034449291" titretxt="Valeur du point pour 2017"/>
+<LIEN_TXT idtxt="KALITEXT000038201448" titretxt="Salaires minima au 1er juillet 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039061434" titretxt="Salaires minima au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042110759" titretxt="Salaires minima au 1er juillet 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045203964" titretxt="Salaires au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046970724" titretxt="Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150210" titretxt="Salaires minima du personnel salarié non-avocats"/>
+<LIEN_TXT idtxt="KALITEXT000051537677" titretxt="Salaires minima des avocats salariés"/>
+<LIEN_TXT idtxt="KALITEXT000051537685" titretxt="Salaires minima du personnel salarié non-avocats"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005683778" titretxt="ARRETE du 13 novembre 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005683780" titretxt="ARRETE du 2 juillet 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005683782" titretxt="ARRETE du 29 octobre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005683784" titretxt="ARRETE du 11 février 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005683786" titretxt="ARRETE du 13 octobre 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005683788" titretxt="ARRETE du 21 janvier 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005683790" titretxt="ARRETE du 1 avril 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005683792" titretxt="ARRETE du 20 décembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005683794" titretxt="ARRETE du 16 février 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005683798" titretxt="ARRETE du 21 octobre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005683800" titretxt="ARRETE du 20 février 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005683802" titretxt="ARRETE du 26 avril 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005683804" titretxt="ARRETE du 14 novembre 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005683806" titretxt="ARRETE du 27 juin 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005683808" titretxt="ARRETE du 14 janvier 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005683810" titretxt="ARRETE du 24 février 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005683812" titretxt="ARRETE du 29 décembre 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005683814" titretxt="ARRETE du 12 mars 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005683816" titretxt="ARRETE du 15 avril 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005683818" titretxt="ARRETE du 3 décembre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005683820" titretxt="ARRETE du 17 mars 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005683822" titretxt="ARRETE du 13 décembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005683824" titretxt="ARRETE du 13 avril 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005683826" titretxt="ARRETE du 23 novembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005683828" titretxt="ARRETE du 13 mars 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005683830" titretxt="ARRETE du 10 décembre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005683832" titretxt="ARRETE du 5 mars 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005683834" titretxt="ARRETE du 3 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005683836" titretxt="ARRETE du 1 juin 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005683838" titretxt="ARRETE du 2 septembre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005683840" titretxt="ARRETE du 18 janvier 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005683842" titretxt="ARRETE du 26 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005683844" titretxt="ARRETE du 26 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005683846" titretxt="ARRETE du 15 juin 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005683848" titretxt="ARRETE du 15 octobre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005683850" titretxt="ARRETE du 16 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005683852" titretxt="ARRETE du 10 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005683854" titretxt="ARRETE du 19 juin 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005683856" titretxt="ARRETE du 10 juin 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005683858" titretxt="ARRETE du 10 juillet 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005683860" titretxt="ARRETE du 10 juillet 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005683862" titretxt="ARRETE du 25 juin 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005683864" titretxt="ARRETE du 18 juillet 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005683866" titretxt="ARRETE du 13 octobre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005683868" titretxt="ARRETE du 24 décembre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005683870" titretxt="ARRETE du 9 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005683872" titretxt="ARRETE du 20 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005683874" titretxt="ARRETE du 2 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005683876" titretxt="ARRETE du 2 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005683878" titretxt="ARRETE du 17 novembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005683880" titretxt="ARRETE du 9 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005683882" titretxt="ARRETE du 2 décembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005683884" titretxt="ARRETE du 6 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005683886" titretxt="ARRETE du 6 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005683890" titretxt="ARRETE du 19 octobre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005683892" titretxt="ARRETE du 20 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005683895" titretxt="ARRETE du 23 mars 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005683897" titretxt="ARRETE du 12 avril 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005683899" titretxt="ARRETE du 2 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005683901" titretxt="ARRETE du 6 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005683903" titretxt="ARRETE du 23 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005683905" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005683907" titretxt="ARRETE du 19 avril 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Avocats : personnel des cabinets</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3078</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

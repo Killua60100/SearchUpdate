@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397039</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/70/KALIARTI000045397039.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Dénonciation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397023">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397039" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La présente convention pourra être dénoncée par l'une ou l'autre des parties signataires ou adhérentes.</p>
+<p align="left">La présente convention et ses annexes peuvent être dénoncées indépendamment les unes des autres.</p>
+<p align="left">La dénonciation devra être notifiée par lettre recommandée avec accusé de réception à chacune des autres parties signataires ou adhérentes.</p>
+<p align="left">Elle devra être déposée par son auteur auprès des services centraux du ministre chargé du travail, et remise au greffe du conseil de prud'hommes du lieu de conclusion de la convention.</p>
+<p align="left">Lorsque la dénonciation émane de la totalité des signataires employeurs ou des signataires salariés, le plus rapidement possible et au plus tard dans un délai de trois mois suivant la réception de cette lettre, les organisations représentatives engageront une négociation.</p>
+<p align="left">Durant les négociations, la convention (ou l'annexe) restera applicable sans aucun changement, dans la limite du délai prévu à l'article L. 2261-10 du code du travail.</p>
+<p align="left">À l'issue des négociations sera établie soit une nouvelle convention constatant l'accord intervenu, soit un procès-verbal de clôture constatant le désaccord.</p>
+<p align="left">La nouvelle convention ou le procès-verbal de désaccord, signé par les parties en présence, fera l'objet des formalités de dépôt et de publicité prévues à l'article 4 de la présente convention collective.</p>
+<p align="left">Les dispositions de la nouvelle convention se substitueront intégralement à celles de la convention dénoncée, soit à la date qui en aura été expressément convenue, soit, à défaut, à compter du premier jour du mois suivant la publication au Journal officiel de son arrêté d'extension.</p>
+<p align="left">En cas de procès-verbal de désaccord et si la dénonciation émane de la totalité des signataires employeurs ou des signataires salariés, la convention ou l'accord continue de produire effet jusqu'à l'entrée en vigueur de la convention ou de l'accord qui lui est substitué ou, à défaut, pendant une durée d'un an à compter de l'expiration du délai de préavis fixé ci-dessus. Passé ce délai, le texte de l'accord cessera de produire ses effets, sous réserve du maintien de la rémunération perçue, conformément aux dispositions légales en la matière.</p>
+<p align="left">Si l'une des organisations syndicales de salariés signataires de la convention a perdu sa qualité d'organisation représentative dans le champ d'application de la convention, la convention ne cessera de produire effet que si la dénonciation émane d'une ou plusieurs organisations syndicales de salariés représentatives dans son champ d'application, et à condition que ces dernières aient recueilli la majorité des suffrages exprimés dans les conditions prévues à l'article L. 2232-6, alinéa 1, du code du travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901688" naturetexte="CODE" nortexte="" num="L2232-6" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2232-6</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901788" naturetexte="CODE" nortexte="" num="L2261-10" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-10</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

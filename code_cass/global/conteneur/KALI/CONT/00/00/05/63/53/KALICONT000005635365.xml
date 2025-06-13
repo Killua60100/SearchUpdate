@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635365</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635365.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des entreprises d'architecture du 27 février 2003.  Etendue par arrêté du 6 janvier 2004 JORF 16 janvier 2004.</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>2332</NUM>
+
+<DATE_PUBLI>2003-02-27</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662356" titretxt="Convention collective nationale du 27 février 2003"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662997" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005663092" titretxt="Avenant à l'accord relatif à la prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005663108" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005663173" titretxt="Avenant à l'accord relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005663179" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005663181" titretxt="Avenant à l'accord du 20 janvier 2005 relatif à la formation professionnelle (habilitation à la maîtrise d'oeuvre en nom propre)"/>
+<LIEN_TXT idtxt="KALITEXT000005663185" titretxt="Avenant à l'accord du 20 janvier 2005 relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005663197" titretxt="Avenant à l'accord du 20 janvier 2005 relatif à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000017580141" titretxt="Adhésion de la CFTC BATIMAT-TP à la convention collective des entreprises d'architecture"/>
+<LIEN_TXT idtxt="KALITEXT000018155000" titretxt="Régime de mutuelle complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000019349016" titretxt="Régime national de frais de santé (Alsace-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000020720173" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000020720180" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000020720195" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022271312" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000023001225" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000023347963" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024890913" titretxt="Taux contributifs à l'OPCA PL"/>
+<LIEN_TXT idtxt="KALITEXT000026205136" titretxt="Portabilité et maintien des garanties"/>
+<LIEN_TXT idtxt="KALITEXT000026205143" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000026205155" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000027714949" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000027714956" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028216908" titretxt="UNSA FESSAD"/>
+<LIEN_TXT idtxt="KALITEXT000029217482" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000029217498" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000030369812" titretxt="Pacte de responsabilité et de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000030785607" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000031964443" titretxt="Classification"/>
+<LIEN_TXT idtxt="KALITEXT000031964468" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000031964487" titretxt="Fonds d'action sociale"/>
+<LIEN_TXT idtxt="KALITEXT000036740292" titretxt="Mise en place de la commission paritaire permanente de la négociation et de l'interprétation (CPPNI)"/>
+<LIEN_TXT idtxt="KALITEXT000037111027" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000038184283" titretxt="Classification"/>
+<LIEN_TXT idtxt="KALITEXT000038184307" titretxt="Convention élargie à la maîtrise d'œuvre"/>
+<LIEN_TXT idtxt="KALITEXT000038330456" titretxt="Taux d'appel prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000038330460" titretxt="Alsace Modification de l'accord du 22 novembre 2017 relatif à la valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000038330465" titretxt="Aquitaine Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330470" titretxt="Auvergne Modification de l'accord du 1er décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330475" titretxt="Basse-Normandie Modification de l'accord du 27 novembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330480" titretxt="Bourgogne Modification de l'accord du 22 janvier 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330485" titretxt="Bretagne Modification de l'accord du 19 décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330490" titretxt="Centre Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330495" titretxt="Champagne-Ardenne Modification de l'accord du 4 décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330500" titretxt="Corse Modification de l'accord du 4 janvier 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330505" titretxt="Franche-Comté Modification de l'accord du 12 décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330510" titretxt="Guadeloupe Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330515" titretxt="Guyane Modification de l'accord du 20 décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330520" titretxt="Haute-Normandie Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330525" titretxt="Île-de-France Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330530" titretxt="Languedoc-Roussillon Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330535" titretxt="La Réunion Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330540" titretxt="Limousin Modification de l'accord du 24 novembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330545" titretxt="Lorraine Modification de l'accord du 21 novembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330550" titretxt="Martinique Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330555" titretxt="Midi-Pyrénées Modification de l'accord du 8 décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330560" titretxt="Nord - Pas-de-Calais Modification de l'accord du 19 janvier 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330565" titretxt="Pays de la Loire Modification de l'accord du 8 janvier 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330570" titretxt="Picardie Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330575" titretxt="Poitou-Charentes Modification de l'accord du 15 janvier 2018 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330580" titretxt="Provence-Alpes-Côte d'Azur Modification de l'accord du 1er décembre 2017 relatif à la valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038330585" titretxt="Rhône-Alpes Modification de l'accord du 15 février 2018 relatif à la valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000042370353" titretxt="Désignation de l'OPCO 3 « Construction »"/>
+<LIEN_TXT idtxt="KALITEXT000039116657" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000039116676" titretxt="Accompagnement de la transition numérique"/>
+<LIEN_TXT idtxt="KALITEXT000041763887" titretxt="Portabilité des régimes frais de santé et prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000041458619" titretxt="Contribution conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041763859" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000042705316" titretxt="Modification de l'accord du 5 juillet 2007 (régime frais de santé)"/>
+<LIEN_TXT idtxt="KALITEXT000042597773" titretxt="Egalité femmes-hommes"/>
+<LIEN_TXT idtxt="KALITEXT000043510567" titretxt="Contribution conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043954689" titretxt="Règlement intérieur de la commission de gestion du fonds d'action sociale"/>
+<LIEN_TXT idtxt="KALITEXT000044479556" titretxt="Contribution à la formation professionnelle 2021"/>
+<LIEN_TXT idtxt="KALITEXT000044543073" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000045110052" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000045110072" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000048282177" titretxt="Télétravail"/>
+<LIEN_TXT idtxt="KALITEXT000049916626" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000049916639" titretxt="Dénonciation du syndicat de l'Architecture, SYNATPAU, UNSA FESSAD et CFE-CGC de l'accord du 11 décembre 2014 relatif au pacte de responsabilité et de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000048558014" titretxt="Santé, prévoyance et action sociale"/>
+<LIEN_TXT idtxt="KALITEXT000048452698" titretxt="Fonds d'action sociale"/>
+<LIEN_TXT idtxt="KALITEXT000048558039" titretxt="Taux d'appel de la cotisation paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000048674596" titretxt="Egalité femmes-hommes"/>
+<LIEN_TXT idtxt="KALITEXT000048558044" titretxt="Collecte de la cotisation paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000048954007" titretxt="Financement et collecte du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000049439337" titretxt="Formation professionnelle et développement des compétences et des qualifications"/>
+<LIEN_TXT idtxt="KALITEXT000050298651" titretxt="Composition des commissions paritaires nationales et territoriales"/>
+<LIEN_TXT idtxt="KALITEXT000050298663" titretxt="Création du comité national des entreprises d'architecture"/>
+<LIEN_TXT idtxt="KALITEXT000050298674" titretxt="Association paritaire de gestion de la branche architecture (APGB)"/>
+<LIEN_TXT idtxt="KALITEXT000050228869" titretxt="Prévoyance"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005663674" titretxt="Salaires (Aisne et Somme)"/>
+<LIEN_TXT idtxt="KALITEXT000005663203" titretxt="Salaires (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000018797720" titretxt="Salaires (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000020283152" titretxt="Salaires (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000022219191" titretxt="Salaires (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000024454582" titretxt="Salaires et valeur du point au 1er janvier 2011 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000025915285" titretxt="Salaires et valeur du point pour l'année 2012 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000027448595" titretxt="Salaires et valeur du point au 1er janvier 2013 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000029217473" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000030590388" titretxt="Salaires et valeur du point au 1er janvier 2015 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000032310983" titretxt="Valeur du point au 1er janvier 2016 (Alsace)"/>
+<LIEN_TXT idtxt="KALITEXT000036543089" titretxt="Alsace - valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037040860" titretxt="Alsace - valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097027" titretxt="Alsace Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606613" titretxt="Alsace Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046280800" titretxt="Alsace Valeur du point à compter du 1er juin 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557264" titretxt="Alsace Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747792" titretxt="Alsace Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049095120" titretxt="Alsace Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663241" titretxt="Salaires (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000019273643" titretxt="Salaires (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000020973898" titretxt="Salaires (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000022271249" titretxt="Salaires (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000024044061" titretxt="Salaires (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000025915294" titretxt="Salaires et valeur du point pour l'année 2012 (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000027194618" titretxt="Salaires et valeur du point au 1er janvier 2013 (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000029432670" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000030590397" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000032729979" titretxt="Valeur du point au 1er janvier 2016 (Aquitaine)"/>
+<LIEN_TXT idtxt="KALITEXT000036543098" titretxt="Aquitaine -  valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037376978" titretxt="Aquitaine Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039116684" titretxt="Aquitaine Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606623" titretxt="Aquitaine Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045829215" titretxt="Aquitaine Valeur du point à compter du 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557234" titretxt="Aquitaine Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747744" titretxt="Aquitaine Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994131" titretxt="Aquitaine Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493719" titretxt="Aquitaine Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663322" titretxt="Salaires (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000018613413" titretxt="Salaires (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000020498689" titretxt="Salaires (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000022168465" titretxt="Salaires (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000023826444" titretxt="Salaires (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000025525380" titretxt="Salaires et valeur du point au 1er janvier 2012 (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000027041417" titretxt="Salaires minima et valeur du point au 1er janvier 2013 (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000028665659" titretxt="Salaires minima et valeur du point pour l'année 2014 (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000030551771" titretxt="Salaires minima et valeur du point pour l'année 2015 (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000032310992" titretxt="Valeur du point au 1er janvier 2016 (Auvergne)"/>
+<LIEN_TXT idtxt="KALITEXT000036543107" titretxt="Auvergne valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037040869" titretxt="Auvergne - valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097037" titretxt="Auvergne Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606633" titretxt="Auvergne Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046532553" titretxt="Auvergne Salaires au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557307" titretxt="Auvergne Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047881152" titretxt="Auvergne Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049100345" titretxt="Auvergne Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493731" titretxt="Auvergne Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663628" titretxt="Salaires (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000017578310" titretxt="Salaires  (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000024454591" titretxt="Salaires et valeur du point au 1er janvier 2011 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000018925667" titretxt="Salaires (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000020492995" titretxt="Salaires (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000022271258" titretxt="Salaires (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000025915303" titretxt="Salaires et valeur du point pour l'année 2012 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000027194627" titretxt="Salaires et valeur du point au 1er janvier 2013 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000028665668" titretxt="Salaires et valeur du point au 1er janvier 2014 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000030551780" titretxt="Salaires et valeur du point au 1er janvier 2015 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000032311001" titretxt="Valeur du point au 1er janvier 2016 (Basse-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000036543116" titretxt="Basse-Normandie -  valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323531" titretxt="Basse-Normandie valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097047" titretxt="Basse-Normandie Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606643" titretxt="Basse-Normandie Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657376" titretxt="Basse-Normandie Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047747804" titretxt="Basse-Normandie Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047747714" titretxt="Basse-Normandie Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000049337486" titretxt="Basse-Normandie Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663350" titretxt="Salaires (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000018658217" titretxt="Salaires (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000020283162" titretxt="Salaires (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000022219200" titretxt="Salaires (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000024044070" titretxt="Salaires  (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000025371562" titretxt="Salaires et valeur du point au 1er janvier 2012 (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000027036102" titretxt="Valeur du point au 1er janvier 2013 (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000029071413" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000030590406" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000032311010" titretxt="Valeur du point au 1er janvier 2016 (Bourgogne)"/>
+<LIEN_TXT idtxt="KALITEXT000036543125" titretxt="Bourgogne -  valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323540" titretxt="Bourgogne valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097057" titretxt="Bourgogne Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606653" titretxt="Bourgogne Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046532582" titretxt="Bourgogne Salaires au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557244" titretxt="Bourgogne Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747780" titretxt="Bourgogne Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049095108" titretxt="Bourgogne Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663370" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000017578880" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000018658885" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000020493005" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000022271267" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000023826453" titretxt="Salaires (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000025371571" titretxt="Salaires et valeur du point au 1er janvier 2012 (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000027194636" titretxt="Salaires et valeur du point au 1er janvier 2013 (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000029071422" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000030590415" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000032729988" titretxt="Valeur du point au 1er janvier 2016 (Bretagne)"/>
+<LIEN_TXT idtxt="KALITEXT000036543134" titretxt="Bretagne - valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323549" titretxt="Bretagne Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097067" titretxt="Bretagne Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606663" titretxt="Bretagne Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045829225" titretxt="Bretagne Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557277" titretxt="Bretagne Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047881176" titretxt="Bretagne Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994191" titretxt="Bretagne Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663422" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000017578302" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000018658895" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000020283172" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000022271276" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000024044079" titretxt="Salaires (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000026123177" titretxt="Salaires et valeur du point au 1er janvier 2012 (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000027448604" titretxt="Salaires et valeur du point au 1er janvier 2013 (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000029217517" titretxt="Salaires et valeur du point au 1er janvier 2014 (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000030590424" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000032311019" titretxt="Valeur du point au 1er janvier 2016 (Centre)"/>
+<LIEN_TXT idtxt="KALITEXT000036543143" titretxt="Centre -  valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037376987" titretxt="Centre Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039116694" titretxt="Centre Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606673" titretxt="Centre Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046394754" titretxt="Centre Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557287" titretxt="Centre Valeur du point au 1er mars 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747768" titretxt="Centre Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150616" titretxt="Centre-Val-de-Loire Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663432" titretxt="Salaires (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000018658905" titretxt="Salaires (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000022271285" titretxt="Salaires (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000023826462" titretxt="Salaires (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000020498699" titretxt="Salaires (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000025371580" titretxt="Salaires et valeur du point au 1er janvier 2012 (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000027194645" titretxt="Salaires et valeur du point au 1er janvier 2013 (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000029358431" titretxt="Salaires et valeur du point au 1er janvier 2014 (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000030590433" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000032311028" titretxt="Valeur du point au 1er janvier 2016 (Champagne-Ardenne)"/>
+<LIEN_TXT idtxt="KALITEXT000036543152" titretxt="Champagne-Ardenne - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037079280" titretxt="Champagne-Ardenne Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039097077" titretxt="Champagne-Ardenne Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606683" titretxt="Champagne-Ardenne Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046394764" titretxt="Champagne-Ardenne Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047881140" titretxt="Champagne-Ardenne Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994155" titretxt="Champagne-Ardenne Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663435" titretxt="Salaires (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000018826856" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000017580156" titretxt="Salaires (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000020969515" titretxt="Salaires (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000022968919" titretxt="Salaires (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000024454600" titretxt="Salaires et  valeur du point au 1er janvier 2011 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000025915312" titretxt="Salaires et valeur du point pour l'année 2012 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000027194654" titretxt="Salaires et valeur du point au 1er janvier 2013 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000029071431" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000030590442" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000032311037" titretxt="Valeur du point au 1er janvier 2016 (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000036543161" titretxt="Corse - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037376996" titretxt="Corse Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039116704" titretxt="Corse Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606693" titretxt="Corse Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047632390" titretxt="Corse Salaires à compter du 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047881164" titretxt="Corse Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150640" titretxt="Corse Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493743" titretxt="Corse Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663447" titretxt="Salaires (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000018613423" titretxt="Salaires (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000020283182" titretxt="Salaires (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000022759974" titretxt="Salaires (Franche-Comté) "/>
+<LIEN_TXT idtxt="KALITEXT000023561719" titretxt="Salaires (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000025525389" titretxt="Salaires et valeur du point au 1er janvier 2012 (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000027041426" titretxt="Salaires minima et valeur du point au 1er janvier 2013 (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000029432679" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000030590451" titretxt="Salaires minima et valeur du point au 1er janvier 2015 (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000032729997" titretxt="Valeur du point au 1er janvier 2016 (Franche-Comté)"/>
+<LIEN_TXT idtxt="KALITEXT000036543170" titretxt="Franche-Comté - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037079289" titretxt="Franche-Comté Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039097087" titretxt="Franche-Comté Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606703" titretxt="Franche-Comté Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047632380" titretxt="Franche-Comté Salaires à compter du 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557254" titretxt="Franche-Comté Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747756" titretxt="Franche-Comté Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994203" titretxt="Franche-Comté Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000025915321" titretxt="Salaires et valeur du point pour l'année 2012 (Guadeloupe)"/>
+<LIEN_TXT idtxt="KALITEXT000027194663" titretxt="Salaires et valeur du point au 1er janvier 2013 (Guadeloupe)"/>
+<LIEN_TXT idtxt="KALITEXT000029433419" titretxt="Salaires et valeur du point au 1er janvier 2014 (Guadeloupe)"/>
+<LIEN_TXT idtxt="KALITEXT000030641399" titretxt="Valeur du point au 1er janvier 2015 (Guadeloupe)"/>
+<LIEN_TXT idtxt="KALITEXT000032311046" titretxt="Valeur du point au 1er janvier 2016 (Guadeloupe)"/>
+<LIEN_TXT idtxt="KALITEXT000036543179" titretxt="Guadeloupe - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037377005" titretxt="Guadeloupe Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039097097" titretxt="Guadeloupe Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042705329" titretxt="Guadeloupe Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657336" titretxt="Guadeloupe Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047969391" titretxt="Guadeloupe Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994143" titretxt="Guadeloupe Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051447427" titretxt="Guadeloupe Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000025915330" titretxt="Salaires et valeur du point pour l'année 2012 (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000027194672" titretxt="Salaires et valeur du point au 1er janvier 2013 (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000029264428" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000030334921" titretxt="Valeur du point au 1er janvier 2015 (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000032311055" titretxt="Valeur du point au 1er janvier 2016 (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000036543188" titretxt="Guyane - Valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000038544907" titretxt="Guyane Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039097106" titretxt="Guyane Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000043954711" titretxt="Guyane Valeur du point au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047657346" titretxt="Guyane Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047657416" titretxt="Guyane Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969379" titretxt="Guyane Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994179" titretxt="Guyane Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051447403" titretxt="Guyane Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663676" titretxt="Salaires (Haute-Marne)"/>
+<LIEN_TXT idtxt="KALITEXT000022219209" titretxt="Salaires (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000005663630" titretxt="Salaires (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000018925671" titretxt="Salaires (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000023826471" titretxt="Salaires (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000020493015" titretxt="Salaires (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000025371589" titretxt="Salaires et valeur du point au 1er janvier 2012 (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000027194681" titretxt="Salaires et valeur du point au 1er janvier 2013 (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000029433428" titretxt="Salaires et valeur du point au 1er janvier 2014 (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000030641408" titretxt="Valeur du point au 1er janvier 2015 (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000032311064" titretxt="Valeur du point au 1er janvier 2016 (Haute-Normandie)"/>
+<LIEN_TXT idtxt="KALITEXT000036543197" titretxt="Haute-Normandie - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037377014" titretxt="Haute-Normandie Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097116" titretxt="Haute-Normandie Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606713" titretxt="Haute-Normandie Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657366" titretxt="Haute-Normandie Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047747724" titretxt="Haute-Normandie Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048558027" titretxt="Haute-Normandie Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049337474" titretxt="Haute-Normandie Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663465" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000018826527" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000020283192" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000022271294" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000023561728" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000025915339" titretxt="Salaires et valeur du point pour l'année 2012 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000027448613" titretxt="Salaires et valeur du point au 1er janvier 2013 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000029131080" titretxt="Salaires et valeur du point au 1er janvier 2014 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000030641417" titretxt="Valeur du point au 1er janvier 2015 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000032730006" titretxt="Valeur du point au 1er janvier 2016 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000036543206" titretxt="Ile-de-France - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037377023" titretxt="Île-de-France Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039075399" titretxt="Île-de-France Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606723" titretxt="Île-de-France Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657406" titretxt="Île-de-France Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734371" titretxt="Île-de-France Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969329" titretxt="Île-de-France Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994107" titretxt="Île-de-France Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663473" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000017579824" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000020969524" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000023826480" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000019349504" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000022271303" titretxt="Salaires (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000025915348" titretxt="Salaires et valeur du point pour l'année 2012 (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000027194690" titretxt="Salaires et valeur du point au 1er janvier 2013 (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000029071440" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000030641426" titretxt="Valeur du point au 1er janvier 2015 (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000032311073" titretxt="Valeur du point au 1er janvier 2016 (Languedoc-Roussillon)"/>
+<LIEN_TXT idtxt="KALITEXT000036543215" titretxt="Languedoc-Roussillon - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037547288" titretxt="Languedoc-Roussillon Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097126" titretxt="Languedoc-Roussillon Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606733" titretxt="Languedoc-Roussillon Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000046394774" titretxt="Languedoc-Roussillon Valeur du point "/>
+<LIEN_TXT idtxt="KALITEXT000047557224" titretxt="Languedoc-Roussillon Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052172" titretxt="Languedoc-Roussillon Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049100369" titretxt="Languedoc-Roussillon Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000025915357" titretxt="Salaires et valeur du point pour l'année 2012 (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000027593249" titretxt="Salaires et valeur du point au 1er janvier 2013 (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000029360790" titretxt="Valeur du point au 1er janvier 2014 (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000030661083" titretxt="Valeur du point au 1er janvier 2015 (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000032730051" titretxt="Valeur du point au 1er janvier 2016 (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000036543304" titretxt="La Réunion - Valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037377041" titretxt="La Réunion Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039116714" titretxt="La Réunion Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597792" titretxt="La Réunion Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657396" titretxt="La Réunion Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000048052160" titretxt="La Réunion Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150580" titretxt="La Réunion Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663549" titretxt="Salaires (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000018797727" titretxt="Salaires (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000022219218" titretxt="Salaires (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000024399764" titretxt="Salaires (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000020720146" titretxt="Salaires (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000025525398" titretxt="Salaires et valeur du point au 1er janvier 2012 (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000027626420" titretxt="Salaires et valeur du point au 1er janvier 2013 (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000029149054" titretxt="Salaires minima au 1er janvier 2014 (Limousin"/>
+<LIEN_TXT idtxt="KALITEXT000030641435" titretxt="Valeur du point au 1er janvier 2015 (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000032311082" titretxt="Valeur du point au 1er janvier 2016 (Limousin)"/>
+<LIEN_TXT idtxt="KALITEXT000036543224" titretxt="Limousin - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037040878" titretxt="Limousin - Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097136" titretxt="Limousin Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042606743" titretxt="Limousin Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657316" titretxt="Limousin Valeur du point au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047969367" titretxt="Limousin Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150628" titretxt="Limousin Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051447439" titretxt="Limousin Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663616" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000018562772" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000020283202" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000022219227" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000023956632" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000025804999" titretxt="Salaires (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000027041435" titretxt="Salaires minima et valeur du point au 1er janvier 2013 (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000029071449" titretxt="Salaires minima et valeur du point pour l'année 2014 (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000030661092" titretxt="Valeur du point au 1er janvier 2015 (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000032730015" titretxt="Valeur du point au 1er janvier 2016 (Lorraine)"/>
+<LIEN_TXT idtxt="KALITEXT000036543233" titretxt="Lorraine - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037040887" titretxt="Lorraine - Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097146" titretxt="Lorraine Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042705339" titretxt="Lorraine Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045829235" titretxt="Lorraine Valeur du point à compter du 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047557297" titretxt="Lorraine Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048044421" titretxt="Lorraine Salaires 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048674584" titretxt="Lorraine Salaires au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000025915366" titretxt="Salaires et valeur du point pour l'année 2012 (Martinique)"/>
+<LIEN_TXT idtxt="KALITEXT000027194699" titretxt="Salaires et valeur du point au 1er janvier 2013 (Martinique)"/>
+<LIEN_TXT idtxt="KALITEXT000029264437" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Martinique)"/>
+<LIEN_TXT idtxt="KALITEXT000030334930" titretxt="Valeur du point au 1er janvier 2015 (Martinique)"/>
+<LIEN_TXT idtxt="KALITEXT000032311091" titretxt="Valeur du point au 1er janvier 2016 (Martinique)"/>
+<LIEN_TXT idtxt="KALITEXT000036543242" titretxt="Martinique - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037377032" titretxt="Martinique Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000047657356" titretxt="Martinique Valeur du point au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047969403" titretxt="Martinique Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994167" titretxt="Martinique Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051447415" titretxt="Martinique Valeur du point au 1er mai 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663624" titretxt="Salaires (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000018562782" titretxt="Salaires (Midi-Pyrénées) "/>
+<LIEN_TXT idtxt="KALITEXT000022168474" titretxt="Salaires (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000023956641" titretxt="Salaires (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000020493025" titretxt="Salaires (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000025805008" titretxt="Salaires (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000027627493" titretxt="Salaires et valeur du point pour l'année 2013 (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000029264446" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000030661101" titretxt="Valeur du point au 1er janvier 2015 (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000032311100" titretxt="Valeur du point au 1er janvier 2016 (Midi-Pyrénées)"/>
+<LIEN_TXT idtxt="KALITEXT000036543251" titretxt="Midi-Pyrénées - Valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323558" titretxt="Midi-Pyrénées Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097156" titretxt="Midi-Pyrénées Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597802" titretxt="Midi-Pyrénées Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045518209" titretxt="Midi-Pyrénées Valeur du point et salaires bruts mensuels"/>
+<LIEN_TXT idtxt="KALITEXT000047734381" titretxt="Midi-Pyrénées Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969341" titretxt="Midi-Pyrénées Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150592" titretxt="Midi-Pyrénées Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000006934491" titretxt="Salaires (Nord - Pas-De-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000018562792" titretxt="Salaires (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000024454609" titretxt="Salaires et valeur du point au 1er janvier 2011 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000022759983" titretxt="Salaires (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000020498709" titretxt="Salaires (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000025915375" titretxt="Salaires et valeur du point pour l'année 2012 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000027194708" titretxt="Salaires et valeur du point au 1er janvier 2013 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000028836790" titretxt="Salaires et valeur du point au 1er janvier 2014 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000030661110" titretxt="Valeur du point au 1er janvier 2015 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000032311109" titretxt="Valeur du point au 1er janvier 2016 (Nord - Pas-de-Calais)"/>
+<LIEN_TXT idtxt="KALITEXT000036543260" titretxt="Nord – Pas-de-Calais - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037323567" titretxt="Nord - Pas-de-Calais Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097166" titretxt="Nord - Pas-de-Calais Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597812" titretxt="Nord – Pas-de-Calais Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047632400" titretxt="Nord-Pas-de-Calais Salaires à compter du 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047747734" titretxt="Nord - Pas-de-Calais Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048674572" titretxt="Nord-Pas-de-Calais Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049100357" titretxt="Nord-Pas-de-Calais Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663699" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005663660" titretxt="Salaires (Provence - Alpes - Côte-d'Azur)"/>
+<LIEN_TXT idtxt="KALITEXT000019208997" titretxt="Salaires (Provence-Alpes-Côte-d'Azur)"/>
+<LIEN_TXT idtxt="KALITEXT000020720164" titretxt="Salaires (Provence-Alpes-Côte-d'Azur)"/>
+<LIEN_TXT idtxt="KALITEXT000022759487" titretxt="Salaires (Provence-Alpes-Côte-d'Azur)"/>
+<LIEN_TXT idtxt="KALITEXT000024454618" titretxt="Salaires et valeur du point au 1er janvier 2011 (PACA)"/>
+<LIEN_TXT idtxt="KALITEXT000025915384" titretxt="Salaires et valeur du point pour l'année 2012 (PACA)"/>
+<LIEN_TXT idtxt="KALITEXT000027627502" titretxt="Salaires et valeur du point pour l'année 2013 (PACA)"/>
+<LIEN_TXT idtxt="KALITEXT000029432688" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (PACA)"/>
+<LIEN_TXT idtxt="KALITEXT000030661119" titretxt="Valeur du point au 1er janvier 2015 (PACA)"/>
+<LIEN_TXT idtxt="KALITEXT000032311118" titretxt="Valeur du point au 1er janvier 2016 (Paca)"/>
+<LIEN_TXT idtxt="KALITEXT000036543296" titretxt="PACA - Valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037040896" titretxt="PACA - Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097176" titretxt="PACA Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597852" titretxt="PACA Valeur du point au 1er janvier 2020 "/>
+<LIEN_TXT idtxt="KALITEXT000047657386" titretxt="PACA Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734361" titretxt="PACA Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052136" titretxt="PACA Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150568" titretxt="PACA Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051314944" titretxt="PACA Valeur du point au 1er avril 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005663632" titretxt="Salaires (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000017580149" titretxt="Salaires (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000018797737" titretxt="Salaires (Pays-de-la-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000022168483" titretxt="Salaires (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000024454627" titretxt="Salaires et valeur du point au 1er janvier 2011 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000020493035" titretxt="Salaires (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000025915393" titretxt="Salaires et valeur du point pour l'année 2012 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000027194717" titretxt="Salaires et valeur du point au 1er janvier 2013 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000029071458" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000030641444" titretxt="Valeur du point au 1er janvier 2015 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000032730024" titretxt="Valeur du point au 1er janvier 2016 (Pays de la Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000036543269" titretxt="Pays de la Loire - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037323576" titretxt="Pays de la Loire Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097186" titretxt="Pays de la Loire Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597822" titretxt="Pays de la Loire Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047657326" titretxt="Pays de la Loire Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734401" titretxt="Pays de la Loire Valeur du point au 1er mars 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969355" titretxt="Pays de la Loire Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049100381" titretxt="Pays de la Loire Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663638" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000018658224" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000020283209" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000023826489" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000022759965" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000025805017" titretxt="Salaires (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000027626429" titretxt="Salaires minima et valeur du point au 1er janvier 2013 (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000028665677" titretxt="Salaires minima et valeur du point pour l'année 2014 (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000030334939" titretxt="Valeur du point au 1er janvier 2015 (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000032730033" titretxt="Valeur du point au 1er janvier 2016 (Picardie)"/>
+<LIEN_TXT idtxt="KALITEXT000036543278" titretxt="Picardie - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037547297" titretxt="Picardie Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097196" titretxt="Picardie Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597832" titretxt="Picardie Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045829245" titretxt="Picardie Valeur du point à compter du 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734351" titretxt="Picardie Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052148" titretxt="Picardie Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048994119" titretxt="Picardie Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000005663648" titretxt="Salaires (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000017578887" titretxt="Salaires (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000022168492" titretxt="Salaires (Poitou-Charente)"/>
+<LIEN_TXT idtxt="KALITEXT000018925681" titretxt="Salaires (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000020720155" titretxt="Salaires (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000023826498" titretxt="Salaires (Poitou-Charente)"/>
+<LIEN_TXT idtxt="KALITEXT000025525407" titretxt="Salaires et valeur du point au 1er janvier 2012 (Poitou-Charentes) "/>
+<LIEN_TXT idtxt="KALITEXT000027041444" titretxt="Salaires et valeur du point au 1er janvier 2013 (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000029071467" titretxt="Salaires minima et valeur du point au 1er janvier 2014 (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000030334948" titretxt="Valeur du point au 1er janvier 2015 (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000032730042" titretxt="Valeur du point au 1er janvier 2016 (Poitou-Charentes)"/>
+<LIEN_TXT idtxt="KALITEXT000036543287" titretxt="Poitou-Charentes - Valeur du point au 1er janvier 2017 "/>
+<LIEN_TXT idtxt="KALITEXT000037323585" titretxt="Poitou-Charentes Valeur du point au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039097206" titretxt="Poitou-Charentes Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597842" titretxt="Poitou-Charentes Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000047632370" titretxt="Poitou-Charentes Salaires à compter du 1er juin 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734341" titretxt="Poitou-Charente Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048044433" titretxt="Poitou-Charentes Salaires 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150604" titretxt="Poitou-Charentes Valeur du point au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051537885" titretxt="Poitou-Charentes Salaires 2025"/>
+<LIEN_TXT idtxt="KALITEXT000022219236" titretxt="Salaires (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000005663666" titretxt="Salaires (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000019209007" titretxt="Salaires (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000020498717" titretxt="Salaires (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000023826507" titretxt="Salaires (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000025525416" titretxt="Salaires et valeur du point au 1er janvier 2012 (Rhône-Alpes) "/>
+<LIEN_TXT idtxt="KALITEXT000027627511" titretxt="Salaires et valeur du point pour l'année 2013 (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000029433437" titretxt="Salaires et valeur du point au 1er janvier 2014 (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000030661128" titretxt="Valeur du point au 1er janvier 2015 (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000032311127" titretxt="Valeur du point au 1er janvier 2016 (Rhône-Alpes)"/>
+<LIEN_TXT idtxt="KALITEXT000036543313" titretxt="Rhône-Alpes - Valeur du point au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037377050" titretxt="Rhône-Alpes Valeur du point au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000039097216" titretxt="Rhône-Alpes Valeur du point au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042597862" titretxt="Rhône-Alpes Valeur du point au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042597872" titretxt="Rhône-Alpes Valeur du point au 1er janvier 2020 "/>
+<LIEN_TXT idtxt="KALITEXT000046394784" titretxt="Rhône-Alpes Valeur du point au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000047734391" titretxt="Rhône-Alpes Valeur du point au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052124" titretxt="Rhône-Alpes Valeur du point au 1er mars 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048974970" titretxt="Valeur du point au 1er févreier 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005663731" titretxt="ARRETE du 6 janvier 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663737" titretxt="ARRETE du 16 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663741" titretxt="ARRETE du 20 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663743" titretxt="ARRETE du 4 août 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663747" titretxt="ARRETE du 4 août 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663751" titretxt="ARRETE du 4 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663753" titretxt="ARRETE du 4 août 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663755" titretxt="ARRETE du 26 novembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663757" titretxt="ARRETE du 8 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663759" titretxt="ARRETE du 15 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663761" titretxt="ARRETE du 28 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005663763" titretxt="ARRETE du 11 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663769" titretxt="ARRETE du 11 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663777" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663781" titretxt="ARRETE du 25 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663785" titretxt="ARRETE du 25 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663789" titretxt="ARRETE du 21 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663797" titretxt="ARRETE du 27 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663799" titretxt="ARRETE du 28 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663803" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663805" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663809" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663813" titretxt="ARRETE du 4 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663823" titretxt="ARRETE du 3 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663827" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663834" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663848" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663852" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663854" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663858" titretxt="ARRETE du 4 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663860" titretxt="ARRETE du 1 septembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663866" titretxt="ARRETE du 1 septembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663874" titretxt="ARRETE du 4 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663878" titretxt="ARRETE du 4 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663884" titretxt="ARRETE du 4 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663890" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663900" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663908" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663912" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663924" titretxt="ARRETE du 5 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663936" titretxt="ARRETE du 28 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663940" titretxt="ARRETE du 7 novembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663948" titretxt="ARRETE du 7 novembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663952" titretxt="ARRETE du 25 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663954" titretxt="ARRETE du 9 novembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663960" titretxt="ARRETE du 7 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663964" titretxt="ARRETE du 9 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663968" titretxt="ARRETE du 9 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663972" titretxt="ARRETE du 9 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005663975" titretxt="ARRETE du 11 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005663983" titretxt="ARRETE du 11 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005663987" titretxt="ARRETE du 17 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005663995" titretxt="ARRETE du 20 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664009" titretxt="ARRETE du 20 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664025" titretxt="ARRETE du 1 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664039" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664053" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664067" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664079" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664095" titretxt="ARRETE du 30 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664110" titretxt="ARRETE du 11 avril 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664124" titretxt="ARRETE du 4 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664138" titretxt="ARRETE du 4 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664154" titretxt="ARRETE du 12 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664174" titretxt="ARRETE du 12 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664194" titretxt="ARRETE du 29 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664217" titretxt="ARRETE du 30 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664239" titretxt="ARRETE du 6 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664261" titretxt="ARRETE du 28 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664283" titretxt="ARRETE du 28 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664305" titretxt="ARRETE du 28 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664328" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664350" titretxt="ARRETE du 17 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664372" titretxt="ARRETE du 20 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664394" titretxt="ARRETE du 18 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664416" titretxt="ARRETE du 20 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664438" titretxt="ARRETE du 10 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664460" titretxt="ARRETE du 10 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664483" titretxt="ARRETE du 10 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664505" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664527" titretxt="ARRETE du 20 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664549" titretxt="ARRETE du 17 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664565" titretxt="ARRETE du 17 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664569" titretxt="ARRETE du 17 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664571" titretxt="ARRETE du 21 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664573" titretxt="ARRETE du 4 septembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664575" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664579" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664589" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664593" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664597" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664608" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664616" titretxt="ARRETE du 19 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664618" titretxt="ARRETE du 19 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664620" titretxt="ARRETE du 19 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664622" titretxt="ARRETE du 19 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664624" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664626" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664642" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664664" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664670" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664676" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664678" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664680" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664684" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664686" titretxt="ARRETE du 17 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664688" titretxt="ARRETE du 11 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664690" titretxt="ARRETE du 8 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664692" titretxt="ARRETE du 26 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005664694" titretxt="ARRETE du 6 février 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664700" titretxt="ARRETE du 8 février 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664702" titretxt="ARRETE du 8 février 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664718" titretxt="ARRETE du 8 février 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664734" titretxt="ARRETE du 13 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664759" titretxt="ARRETE du 13 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664781" titretxt="ARRETE du 14 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664803" titretxt="ARRETE du 19 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664809" titretxt="ARRETE du 19 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664811" titretxt="ARRETE du 23 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664815" titretxt="ARRETE du 28 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664819" titretxt="ARRETE du 28 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664823" titretxt="ARRETE du 19 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664827" titretxt="ARRETE du 19 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664829" titretxt="ARRETE du 19 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664831" titretxt="ARRETE du 19 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664833" titretxt="ARRETE du 24 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664837" titretxt="ARRETE du 25 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664839" titretxt="ARRETE du 3 mai 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664843" titretxt="ARRETE du 20 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664845" titretxt="ARRETE du 26 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664849" titretxt="ARRETE du 26 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664851" titretxt="ARRETE du 22 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664855" titretxt="ARRETE du 20 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664861" titretxt="ARRETE du 20 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664868" titretxt="ARRETE du 20 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664870" titretxt="ARRETE du 20 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664886" titretxt="ARRETE du 21 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664888" titretxt="ARRETE du 21 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664890" titretxt="ARRETE du 21 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664898" titretxt="ARRETE du 22 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664914" titretxt="ARRETE du 22 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664920" titretxt="ARRETE du 22 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664926" titretxt="ARRETE du 26 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664930" titretxt="ARRETE du 27 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664932" titretxt="ARRETE du 12 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664934" titretxt="ARRETE du 3 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664936" titretxt="ARRETE du 2 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664940" titretxt="ARRETE du 12 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664944" titretxt="ARRETE du 16 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664948" titretxt="ARRETE du 16 juillet 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005664950" titretxt="ARRETE du 20 juillet 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Entreprises d'architecture</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3062</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

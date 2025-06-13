@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715090</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715090.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715068">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715090" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Annexe I</p>
+<p>
+<br/>Audiodescription pour tout œuvre de fiction</p>
+<p>
+<br/>Salaires minimaux couvrant la prestation et la fixation sonore des artistes-interprètes par œuvre</p>
+<p>
+<br/>(En euros.)</p>
+<div>
+<div align="center">
+
+<table border="1">
+<tr>
+<th>Catégorie</th>
+<th>A compter<br/>du 1er janvier 2013</th>
+<th>A compter<br/>du 1er janvier 2014</th>
+</tr>
+<tr>
+<td align="center">1re catégorie (de 1 à 50 lignes)<br/>2e catégorie (de 1 à 100 lignes)</td>
+<td align="center">105,53<br/>167,08</td>
+<td align="center">106,78<br/>169,06</td>
+</tr>
+<tr>
+<td align="center">Pour la même œuvre et par journée de travail</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Dégressivité<br/>a) A partir de 101 lignes, le cachet depuis la 1re est donné par la formule suivante (où N est le nombre de lignes)</td>
+<td align="center">
+<br/>(N puissance 0,36) × 31,88</td>
+<td align="center">
+<br/>(N puissance 0,36) × 32,26</td>
+</tr>
+<tr>
+<td align="center">b) A partir de 701 lignes, s'applique le montant fixe de</td>
+<td align="center">0,49</td>
+<td align="center">0,49</td>
+</tr>
+</table>
+
+</div>
+</div>
+<p>
+<br/>Lexique</p>
+<p>
+<br/>Doublage : travail consistant pour un artiste à interpréter vocalement, dans une œuvre audiovisuelle, le caractère, le comportement, les sentiments, les intentions, l'esprit et le jeu d'un rôle qu'il n'a pas lui-même interprété à l'image, afin de rendre au personnage son intégrité et sa vérité dans la langue usuelle du spectateur.<br/>Ambiance : une ambiance définit tout ce que doit interpréter un artiste-interprète qui n'est pas écrit sur la bande rythmo et qui n'est pas synchrone avec les personnages à l'écran. L'ambiance est un brouhaha qui sert de toile de fond dans un plan où plusieurs personnes sont réunies et parlent entre elles. Certains cris, mots, éléments de phrases peuvent être perceptibles pour la compréhension de la scène.<br/>Ambiance spécifique : cette ambiance constitue un des éléments essentiels ou importants de l'œuvre cinématographique à doubler, elle comprend une attention soutenue de la part de l'artiste et un jeu dramatique intensif. Cette ambiance ne peut être faite que sur convocation spéciale et doit être annoncée à l'artiste lors de cette convocation.<br/>Ligne : la ligne est composée de 50 caractères (lettres, signes et intervalles). Les caractères sont comptés pour chaque rôle dans leur totalité, puis divisés par 50, étant bien entendu que le reliquat compte pour une ligne.<br/>Œuvre audiovisuelle : par « œuvre audiovisuelle », il faut comprendre un film, un téléfilm, une série de téléfilms, une émission dramatique ou toute autre production télévisuelle, cinématographique, ou audiovisuelle, quel qu'en soit le support, matérialisé ou non, destinés à toute exploitation publique ou privée, lucrative ou non.<br/>Réenregistrement (retake) : travail consistant pour un artiste à redoubler tout ou partie du doublage qu'il a lui-même effectué.<br/>Rôle/définition : chaque rôle doit être identifié par un libellé distinct afin de permettre le comptage de ses lignes.<br/>« Making of » ou une revue de tournage : film documentaire relatant le tournage ou la production d'un film ou d'une œuvre audiovisuelle (téléfilm, série télévisée...).<br/>Track : piste sonore isolée sur laquelle l'artiste pose sa voix.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

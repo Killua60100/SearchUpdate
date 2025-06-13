@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625611</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625611.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE>Révision et dénonciation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625611" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<em>Conformément aux articles L. 2222-5 et L. 2261-7 du code du travail, il peut être révisé, en tout ou partie, sur demande d'une ou de plusieurs organisations signataires ou qui y ont adhéré conformément aux dispositions de l'article L. 2261-3 du code du travail. Toute demande de révision devra être notifiée à chacune des parties par lettre recommandée avec avis de réception et indiquer les dispositions à réviser ainsi que le texte proposé pour la modification.</em>
+ (1)
+</p>
+<p align="left">Conformément aux articles L. 2222-6 et L. 2261-9 et suivants du code du travail, toute organisation syndicale signataire du présent accord a la faculté de le dénoncer, en tout ou partie, à tout moment, moyennant le respect d'un préavis de 3 mois, en informant les autres signataires de cette dénonciation ainsi qu'en procédant aux formalités de dépôt en vigueur. Dans ce cas, l'accord continuera de s'appliquer pendant une période de 1 année à compter de la fin du préavis de dénonciation, période qui pourra être mise à profit pour négocier un accord de substitution.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2261-7 du code du travail dans sa rédaction issue de la loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels publiée au Journal officiel du 9 août 2016 et de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation.<br/>
+(Arrêté du 26 décembre 2016 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901667" naturetexte="CODE" nortexte="" num="L2222-5" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2222-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901668" naturetexte="CODE" nortexte="" num="L2222-6" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2222-6</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901781" naturetexte="CODE" nortexte="" num="L2261-3" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901785" naturetexte="CODE" nortexte="" num="L2261-7" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901787" naturetexte="CODE" nortexte="" num="L2261-9" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-9</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

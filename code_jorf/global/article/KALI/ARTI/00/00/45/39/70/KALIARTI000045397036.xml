@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397036</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/70/KALIARTI000045397036.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Dépôt et publicité</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397023">Chapitre Ier Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397036" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La présente convention est établie en nombre suffisant pour remise à chaque organisation patronale et syndicale concernée et permettre l'accomplissement des formalités légales de dépôt et de publicité.</p>
+<p align="left">Elle sera notifiée par la délégation patronale à l'ensemble des organisations syndicales représentatives de salariés, à l'issue de la séance de signature, par remise d'un exemplaire de la convention signée contre récépissé si elle a été signée en séance, à défaut par lettre recommandée avec accusé de réception.</p>
+<p align="left">Elle sera déposée, accompagnée de ses annexes, par la délégation patronale, en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, auprès des services centraux du ministre chargé du travail.</p>
+<p align="left">La délégation patronale remettra également un exemplaire de la présente convention, accompagnée de ses annexes, au greffe du conseil de prud'hommes de Lyon.<br/>
+Son extension ainsi que celle de ses annexes sera demandée à l'initiative de la délégation patronale auprès du ministre chargé du travail.</p>
+<p align="left">Le salarié est informé, au moment de l'embauche, de l'application dans l'entreprise de la présente convention collective.</p>
+<p align="left">Un exemplaire à jour de la présente convention, ainsi que de chacune de ses annexes, est tenu à la disposition des salariés sur le lieu de travail.</p>
+<p align="left">Un avis précisant le lieu de cette mise à disposition est communiqué par tout moyen aux salariés.</p>
+<p align="left">L'employeur peut décider une publication sur l'intranet, dans les entreprises dotées de ce dernier.</p>
+<p align="left">Un exemplaire à jour de la présente convention, ainsi que de chacune de ses annexes, est remis au comité social économique, aux comités d'établissement comme au comité central, aux délégués syndicaux, aux représentants des sections syndicales, ainsi que, en cas de négociation dérogatoire dans une entreprise dépourvue de délégué syndical, aux élus du personnel ou aux salariés mandatés participant à cette négociation.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

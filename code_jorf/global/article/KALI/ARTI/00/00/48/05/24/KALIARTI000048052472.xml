@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000048052472</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/48/05/24/KALIARTI000048052472.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6.1</NUM>
+<TITRE>Échéance taux de collecte</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-10-20</DATE_DEBUT>
+<DATE_FIN>2025-06-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000048052461" date_publi="2999-01-01" date_signature="2023-05-11" nature="Avenant" nor="ASET2350813M" num="197" num_parution_jo="">
+<TITRE_TXT c_titre_court="Droit syndical " debut="2024-10-20" fin="2999-01-01" id_txt="KALITEXT000048052461">Avenant n° 197 du 11 mai 2023 relatif à l'harmonisation des dispositions conventionnelles en matière de droit syndical national</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000029100418" date_publi="2013-06-22" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3203" titre="Convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique du 22 juin 2013" url="conteneur/KALI/CONT/00/00/29/10/04/KALICONT000029100418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051690923" num="6.1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2024-10-20" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000048052472" num="6.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Dans le cadre des négociations visant à harmoniser les dispositions en la matière pour les structures familles rurales (IDCC 1031) et les structures associatives de pêche de loisir et de protection du milieu aquatique (IDCC 3203), le montant de la cotisation fixé à l'article 1.8.3 de la CCN Éclat est un taux cible pour ces deux secteurs.</p>
+<p align="left">Ainsi, pour ces deux secteurs, la cotisation cible est fixée à 0,10 % de la masse salariale brute annuelle à compter du 1er janvier 2025.</p>
+<p align="left">Pour aboutir à ce taux, les structures initialement comprises dans le champ d'application de la CCN des structures familles rurales (IDCC 1031) et celle des structures associatives de pêche de loisir et de protection du milieu aquatique (IDCC 3203), devront cotiser à hauteur de 0,05 % à compter du 1er janvier l'année suivant l'extension de l'avenant. Cette cotisation évoluera ensuite l'année suivante par une augmentation égale à la cotisation versée la première année jusqu'à aboutir à la cotisation cible prévue dans le présent texte.</p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Année suivant<br/>
+			l'extension de l'accord</th>
+<th>Cotisation à verser sur la MSB</th>
+</tr>
+<tr>
+<td align="center">1ère année</td>
+<td align="center">0,05 %</td>
+</tr>
+<tr>
+<td align="center">2e année</td>
+<td align="center">0,10 %</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Pour les entreprises initialement comprises dans le champ d'application de la CCN ÉCLAT tel que défini avant l'accord de fusion interbranches du 9 février 2023, dans la mesure où ces dernières versent, à la date de signature du présent texte, une cotisation de 0,10 % de la MSB, cette dernière reste donc identique.</p>
+<p align="left">Dans le cas où la collecte de ces fonds s'avère insuffisante pour assurer le bon fonctionnement du paritarisme, les trésoriers de l'association de gestion du paritarisme devront alerter, dès constatations, les membres de la commission paritaire permanente de négociation et d'interprétation.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397221</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/72/KALIARTI000045397221.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Apprentissage. Rémunération</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000047825387">Annexe 7 Formation professionnelle tout au long de la vie</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397221" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les partenaires sociaux souhaitent simplifier et valoriser la rémunération des jeunes en contrat d'apprentissage. </p>
+<p align="left">
+<i>Par dérogation aux dispositions fixées par l'article D. 6222-26 du code du travail, le salaire minimum des apprentis de la branche est fixé en pourcentage du minimum conventionnel et non du Smic.</i>  (1)
+</p>
+<p align="left">Afin d'encourager et de motiver les jeunes apprentis de moins de 18 ans, leur rémunération est alignée sur celle des apprentis âgés de 18 à 20 ans à ce, à compter de la deuxième année d'apprentissage. </p>
+<p align="left">Les dispositions ci-dessous fixent les minima de rémunération des apprentis dans la branche : </p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th rowspan="2">Âge du salarié </th>
+<th colspan="4">Salaire minimal <br/>(en pourcentage du minimum conventionnel <br/>correspondant à l'emploi occupé) </th>
+</tr>
+<tr>
+<th align="center">Moins de 18 ans </th>
+<th align="center">18 – 20 ans </th>
+<th align="center">21 – 25 ans </th>
+<th align="center">26 ans et plus </th>
+</tr>
+<tr>
+<td>1re année d'exécution du contrat </td>
+<td align="center">27 % </td>
+<td align="center">43 % </td>
+<td align="center">53 % </td>
+<td align="center">100 % </td>
+</tr>
+<tr>
+<td>2e année d'exécution du contrat </td>
+<td align="center">51 % </td>
+<td align="center">51 % </td>
+<td align="center">61 % </td>
+<td align="center">100 % </td>
+</tr>
+<tr>
+<td>3e année d'exécution du contrat </td>
+<td align="center">67 % </td>
+<td align="center">67 % </td>
+<td align="center">78 % </td>
+<td align="center">100 % </td>
+</tr>
+<tr>
+<td colspan="5">N. B. : le calcul s'effectue en pourcentage du Smic lorsque le minimum conventionnel se trouve être en dessous du Smic.</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+<p>
+<font color="808080">
+<em>
+ (1) A l'annexe 7, le 2e alinéa de l'article 6 est étendu sous réserve du respect de l'article D. 6222-26 du code du travail.  <br/>(Arrêté du 5 juillet 2023 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018497238" naturetexte="CODE" nortexte="" num="D6222-26" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D6222-26</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

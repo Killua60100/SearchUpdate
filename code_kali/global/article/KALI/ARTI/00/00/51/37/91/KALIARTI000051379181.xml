@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051379181</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/37/91/KALIARTI000051379181.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051379178" date_publi="2025-03-26" date_signature="2024-11-27" nature="Accord" nor="ASET2550102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Métiers exposés à des risques ergonomiques" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051379178">Accord du 27 novembre 2024 relatif aux métiers exposés à des risques ergonomiques</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051379181" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 créé un fonds d'investissement dans la prévention de l'usure professionnelle (FIPU), rattaché à la commission des accidents du travail et des maladies professionnelles (CATMP) de la caisse nationale d'assurance maladie (CNAM), afin de financer des actions de prévention ou de reconversion à destination des salariés exposés aux risques ergonomiques définis à l'article L. 4163-2-1 du code du travail. Elle invite les branches professionnelles à engager, des négociations, en vue d'aboutir à l'établissement des listes de métiers ou d'activités particulièrement exposés aux facteurs des risques ergonomiques.</p>
+<p align="left">En ce sens, afin de parvenir à l'objectif de lutte contre l'usure professionnelle, les partenaires sociaux de la branche de la boulangerie et boulangerie-pâtisserie artisanale ont souhaité identifier une liste de métiers particulièrement exposés aux risques ergonomiques et définir des mesures de prévention aux expositions aux dits risques.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000047445077" datesignatexte="2023-04-14" id="JORFTEXT000047445077" naturetexte="LOI" nortexte="ECOX2300575L" num="" numtexte="2023-270" sens="source" typelien="CITATION">LOI n°2023-270 du 14 avril 2023</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000047450513" naturetexte="CODE" nortexte="" num="L4163-2-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L4163-2-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625602</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625602.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Affectation. – Formation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625602" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">4.1. Par dérogation à l'alinéa suivant du présent article, les salariés déjà en poste qui, au moment de l'entrée en vigueur du présent accord, accomplissent des actions et missions décrites dans une des fiches métiers figurant à l'annexe I ci-jointe bénéficient, du fait de l'expérience acquise, d'une équivalence avec les formations attachées au bloc de compétences de ce métier repère et s'en trouvent ainsi dispensés.</p>
+<p align="left">4.2. Un salarié embauché à compter de l'entrée en vigueur du présent accord ne peut être affecté à des missions relevant d'un emploi repère susceptible d'entraîner l'attribution de la dénomination correspondante s'il n'a pas reçu l'ensemble des formations prévues pour cet emploi repère dans les conditions prévues à l'article 3.3. Cette formation doit répondre aux conditions de contenu précisées soit dans la fiche formation jointe aux définitions des emplois repères en annexe I, soit dans les textes réglementaires applicables aux métiers considérés.</p>
+<p align="left">Selon la nature de la formation prévue, celle-ci peut être globale et spécialement dispensée en vue de l'affectation précisément envisagée ou résulter totalement ou partiellement d'une ou de plusieurs formations complémentaires acquises antérieurement y compris celles suivies pour l'obtention de l'aptitude préalable prévue par la loi n° 2003-239 du 18 mars 2003 et le décret n° 2005-1122 du 6 septembre 2005 modifié.</p>
+<p align="left">En tout état de cause, une récapitulation des formations requises pour un emploi repère devra impérativement faire l'objet d'une attestation à remettre au salarié, en mentionnant obligatoirement la ou les dates auxquelles ont été dispensés l'ensemble des formations et recyclages, la durée, ainsi que le nom de l'organisme ou service de formation les ayant dispensés et, le cas échéant, les certificats, qualifications ou titres que la formation inclurait nécessairement en application de la fiche formation emploi repère ou en application de la réglementation.</p>
+<p align="left">4.3. En cas de transfert de personnels consécutif à une perte de marché, une copie de ces attestations doit impérativement être transmise par l'employeur « sortant » à l'employeur « entrant » dans les conditions prévues aux alinéas 1 et 2 de l'article 2.5 de l'accord de reprise du personnel du 5 mars 2002 modifié par  avenant en date du 28 janvier 2011.</p>
+<p align="left">4.4. Afin de permettre une évolution de carrière mais aussi pour préserver l'emploi des salariés, les parties conviennent d'instaurer un ou plusieurs blocs de compétences permettant de favoriser l'accès à un métier différent, de renforcer la formation initiale et de maintenir les compétences. Ces blocs de compétences pourront notamment être obtenus par la VAE, le CPF sous réserve de l'accord du salarié, les périodes de professionnalisation, etc.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="JORFTEXT000000412199" naturetexte="LOI" nortexte="INTX0200145L" num="" numtexte="2003-239" sens="source" typelien="CITATION">Loi n° 2003-239 du 18 mars 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000790313" datesignatexte="2005-09-06" id="JORFTEXT000000790313" naturetexte="DECRET" nortexte="INTD0500243D" num="" numtexte="2005-1122" sens="source" typelien="CITATION">Décret n° 2005-1122 du 6 septembre 2005</LIEN>
+
+<LIEN cidtexte="KALITEXT000024408739" datesignatexte="2011-01-28" id="KALITEXT000024408739" naturetexte="Avenant" nortexte="ASET1150602M" num="" numtexte="" sens="source" typelien="CITATION">Avenant à l'accord du 5 mars 2002 relatif à la reprise du personnel</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

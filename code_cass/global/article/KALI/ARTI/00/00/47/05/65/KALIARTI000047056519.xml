@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047056519</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/05/65/KALIARTI000047056519.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Œuvres audiovisuelles destinées à une première exploitation télévisuelle linéaire, non linéaire, Internet ou sur des supports vidéo</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-01-01</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715065">Titre II Conditions de rémunération des artistes-interprètes</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2023-01-01" etat="ABROGE" fin="2025-04-01" id="KALIARTI000047056519" num="2" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-02-05" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000027715081" num="2" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2024-08-22" etat="ABROGE" fin="2025-04-01" id="KALIARTI000050372481" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Salaires minimaux couvrant la prestation et la fixation sonore des doublages effectués par des artistes-interprètes par œuvre</p>
+<p align="right">(En euros.)</p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Base de réévaluation des salaires<br/>
+			(indice 100 au 1er juillet 2008)</th>
+<th>Indice 101,2<br/>
+			à compter<br/>
+			du 1er janvier 2013</th>
+<th>Indice 102,4<br/>
+			à compter<br/>
+			du 1er janvier 2014</th>
+</tr>
+<tr>
+<td align="center">Total des lignes par œuvre</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="center">1re catégorie<br/>
+			a) De 1 à 6 lignes : 1/2 journée maximum 3 rôles<br/>
+			b) De 7 à 14 lignes : 1/2 journée maximum 3 rôles + ambiance<br/>
+			c) De 1 à 14 lignes : 1 journée maximum 3 rôles + ambiance</td>
+<td align="center">105,53<br/>
+			167,09<br/>
+			228,64</td>
+<td align="center">106,78<br/>
+			169,06<br/>
+			231,35</td>
+</tr>
+<tr>
+<td align="center">2e catégorie<br/>
+			a) De 15 à 29 lignes : 1/2 journée maximum 2 rôles + ambiance<br/>
+			b) De 15 à 29 lignes : 1 journée maximum 2 rôles + ambiance</td>
+<td align="center">202,26<br/>
+			228,64</td>
+<td align="center">204,66<br/>
+			231,35</td>
+</tr>
+<tr>
+<td align="center">3e catégorie<br/>
+			a) De 30 à 50 lignes : 1/2 journée 1 rôle + ambiance<br/>
+			b) De 30 à 50 lignes : 1 journée 1 rôle + ambiance</td>
+<td align="center">242,71<br/>
+			263,82</td>
+<td align="center">245,59<br/>
+			266,95</td>
+</tr>
+<tr>
+<td align="center">Pour la même œuvre et par journée de travail<br/>
+			De 51 à 110 lignes prix à la ligne depuis la 1re</td>
+<td align="center">5,20</td>
+<td align="center">5,26</td>
+</tr>
+<tr>
+<td align="center">Dégressivité<br/>
+			a) A partir de 111 lignes, le prix à la ligne depuis la 1re est donné par la formule suivante (où N est le nombre de lignes)</td>
+<td align="center">5,51 − N/327</td>
+<td align="center">5,57 − N/323</td>
+</tr>
+<tr>
+<td align="center">b) Pour les séries télévisuelles d'au moins 52 épisodes (sur une période de 12 mois consécutifs)<br/>
+			A partir de 120 lignes, le prix à la ligne depuis la 1re ligne est donné par la formule suivante (où N est le nombre de lignes)</td>
+<td align="center">5,51 − N/164</td>
+<td align="center">5,57 − N/162</td>
+</tr>
+<tr>
+<td align="center">Le prix de la ligne ne pourra cependant en aucun cas, par l'application des formules de dégressivité a ou b, être inférieur à :</td>
+<td align="center">3,52</td>
+<td align="center">3,56</td>
+</tr>
+<tr>
+<td align="center">Pour les longues séries à enregistrement hebdomadaire, une feuille de convocation de la semaine suivante sera présentée à la signature des artistes sous le contrôle du directeur artistique. La dégressivité b sera appliquée en cas de non-présence de l'artiste le jour de l'enregistrement prévu par l'employeur, et ce dès la première ligne quel que soit le nombre de lignes<br/>
+			Si un artiste convoqué est décommandé moins de 5 jours ouvrables précédant la date d'enregistrement, il recevra un cachet catégorie 1 b ou sera engagé pour un autre cachet le même jour hors catégorie 1 a</td>
+<td/>
+<td/>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Les deux formules de dégressivité a et b ne sont en aucun cas cumulables.</p>
+<p align="left">Le lignage peut être groupé sur plusieurs épisodes au cours d'une même journée sans que les épisodes ne puissent avoir une durée cumulée de plus de 3 heures.</p>
+<p align="left">Dans l'hypothèse où des aménagements de temps seraient consentis à un artiste-interprète l'amenant, à sa demande, à enregistrer son ou ses rôles seul et/ ou en dehors des horaires prévus initialement et qui ont fait l'objet d'un accord préalable entre l'entreprise de doublage et l'artiste-interprète, le plafond prévu ci-dessus ne s'appliquera plus, donnant la possibilité de regrouper le lignage sur une même journée au-delà de 3 heures d'épisodes cumulées dans la limite de la durée maximale d'un cachet.</p>
+<p align="left">Toutefois, quand les lignages sont groupés sur plusieurs journées (maximum 3 heures de programme), le total sera divisé, à parts égales, par le nombre de journées de travail pour obtenir un nombre de lignes moyen par journée de travail. C'est sur la base de ce nombre de lignes moyen par journée de travail que sera déterminé le prix par catégorie ou, selon le barème de dégressivité, correspondant au montant du salaire.</p>
+<p align="left">Exemple : jour 1 œuvre A : 100 lignes, et jour 2 œuvre A : 50 lignes. Le salaire est égal à un cachet le jour 1 sur la base de 75 lignes et à un cachet le jour 2 sur la base de 75 lignes.</p>
+<p align="left">En aucun cas le tarif dégressif de 150 lignes ne sera applicable.</p>
+<p align="left">En aucun cas les lignages effectués sur plusieurs œuvres ne peuvent être cumulés pour définir le cachet par catégorie ou le cachet à la ligne.</p>
+<p align="left">Exemple : jour 1 œuvre A : 10 lignes, et jour 1 œuvre B : 50 lignes. Le salaire est égal à deux cachets distincts sur le jour 1 dont un cachet sur la base de 10 lignes et un autre cachet sur la base de 50 lignes.</p>
+<p align="right">(En euros.)</p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th/>
+<th>à compter<br/>
+			du 1er janvier 2013</th>
+<th>à compter<br/>
+			du 1er janvier 2014</th>
+</tr>
+<tr>
+<td align="center">Ambiance<br/>
+			Ambiance comprise dans les catégories 1re b et c, 2e et 3e<br/>
+			Mais si l'artiste est spécialement convoqué pour des ambiances uniquement<br/>
+			– ambiance seule 1/2 journée<br/>
+			– ambiance seule 1 journée</td>
+<td align="center">167,09<br/>
+			228,64</td>
+<td align="center">169,06<br/>
+			231,35</td>
+</tr>
+<tr>
+<td align="center">Réenregistrement (retake)<br/>
+			Si l'artiste est spécialement convoqué 1/2 journée</td>
+<td align="center">105,53</td>
+<td align="center">106,80</td>
+</tr>
+<tr>
+<td align="center">Narration de bandes-annonces<br/>
+			Par exception à ce qui précède, les narrations de bandes-annonces seront payées sur la base des forfaits minimaux suivants</td>
+<td align="center">175,87</td>
+<td align="center">177,95</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">Dessins animés</p>
+<p align="left">Si l'œuvre audiovisuelle est un dessin animé de moins de 1 heure, l'artiste est rémunéré selon les catégories définies à l'annexe « Salaires », mais il peut interpréter un plus grand nombre de rôles que celui ou ceux prévus dans chaque catégorie.</p>
+<p align="left">À partir du 1er janvier 2023, l'enregistrement et la direction du doublage des films dits « de plateforme » seront rémunérés selon les salaires minimaux de la catégorie cinéma – aussi bien pour les artistes-interprètes que pour les directrices et directeurs artistiques – dès lors que le film sort dans une salle de cinéma quelque part dans le monde.</p>
+<p align="left">Il convient toutefois de préciser que cela ne remet en aucun cas en cause la nature de l'œuvre qui reste donc en l'occurrence une œuvre audiovisuelle destinée à une première exploitation télévisuelle (linéaire ou non-linéaire), internet ou sur des supports vidéo, au sens du droit français et des accords DAD-R.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000047046154" datesignatexte="2022-11-07" id="KALIARTI000047046170" naturetexte="Avenant" nortexte="ASET2251416M" num="8" numtexte="1" sens="cible" typelien="MODIFIE">Salaires minimaux au 1er janvier 2023 - art. 8 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000047046154" datesignatexte="2022-11-07" id="KALIARTI000047046171" naturetexte="Avenant" nortexte="ASET2251416M" num="9" numtexte="1" sens="cible" typelien="MODIFIE">Salaires minimaux au 1er janvier 2023 - art. 9 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

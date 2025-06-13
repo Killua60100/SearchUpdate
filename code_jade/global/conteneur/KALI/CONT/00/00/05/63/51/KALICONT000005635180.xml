@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635180</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635180.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la miroiterie, de la transformation et du négoce du verre du 9 mars 1988</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1499</NUM>
+
+<DATE_PUBLI>1988-07-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005684942" titretxt="Convention collective nationale du 9 mars 1988"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005684946" titretxt="Annexe : Collaborateurs"/>
+<LIEN_TXT idtxt="KALITEXT000005684948" titretxt="Annexe : Encadrement"/>
+<LIEN_TXT idtxt="KALITEXT000005684950" titretxt="ARTT"/>
+<LIEN_TXT idtxt="KALITEXT000005684952" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005684954" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000020974006" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000025773936" titretxt="Formation en alternance et heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000025773948" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026484130" titretxt="Création d'une commission paritaire de validation des accords collectifs"/>
+<LIEN_TXT idtxt="KALITEXT000029584927" titretxt="Certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000032826635" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000035779387" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000037652213" titretxt="Mise en place et fonctionnement de la CPPNIC"/>
+<LIEN_TXT idtxt="KALITEXT000037652256" titretxt="Négociations de la branche pour 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038683742" titretxt="Négociations de branche pour 2019"/>
+<LIEN_TXT idtxt="KALITEXT000049438762" titretxt="Alternance, emploi des jeunes et tutorat"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005684956" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684958" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684960" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684962" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684965" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684967" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684969" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005684971" titretxt="Salaires minimaux et prime d'ancienneté."/>
+<LIEN_TXT idtxt="KALITEXT000005684973" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005684975" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005684977" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005684979" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005684981" titretxt="Salaire"/>
+<LIEN_TXT idtxt="KALITEXT000005684983" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005684985" titretxt="Salaires à compter du 1er décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000018563520" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019861353" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024271720" titretxt="Salaires minima pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000026167721" titretxt="Salaires minima au 1er avril 2012"/>
+<LIEN_TXT idtxt="KALITEXT000029148809" titretxt="Salaires minimaux au 1er mars 2014"/>
+<LIEN_TXT idtxt="KALITEXT000032849560" titretxt="Salaires minimaux professionnels au 1er juin 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035233012" titretxt="Salaires minimaux au 1er juin 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037398108" titretxt="Salaires minimaux professionnels au 1er avril 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038894722" titretxt="Salaires minimaux professionnels 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042110877" titretxt="Salaires minimaux au 1er juin 2020"/>
+<LIEN_TXT idtxt="KALITEXT000044086018" titretxt="Salaires minima au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046098983" titretxt="Salaires minimaux professionnels au 1er mai 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046313962" titretxt="Salaires minimaux professionnels (SMP)"/>
+<LIEN_TXT idtxt="KALITEXT000046970882" titretxt="Salaires minimaux au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048051967" titretxt="Salaires minimaux professionnels (SMP) au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049949466" titretxt="Salaires minimaux professionnels au 1er juin 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005684987" titretxt="ARRÊTÉ du 29 juillet 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005684989" titretxt="ARRÊTÉ du 11 mai 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005684991" titretxt="ARRÊTÉ du 9 juillet 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005684993" titretxt="ARRÊTÉ du 11 mai 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005684995" titretxt="ARRETE du 22 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005684997" titretxt="ARRETE du 12 octobre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005684999" titretxt="ARRETE du 3 août 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685001" titretxt="ARRETE du 26 décembre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005685003" titretxt="ARRETE du 4 juin 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685005" titretxt="ARRETE du 23 juillet 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005685007" titretxt="ARRETE du 28 avril 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005685009" titretxt="ARRETE du 27 mai 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005685011" titretxt="ARRETE du 19 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005685013" titretxt="ARRETE du 23 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005685015" titretxt="ARRETE du 19 juin 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005685017" titretxt="ARRETE du 22 janvier 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005685019" titretxt="ARRETE du 6 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685021" titretxt="ARRETE du 20 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685023" titretxt="ARRETE du 20 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005685025" titretxt="ARRETE du 29 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005685027" titretxt="ARRETE du 23 mars 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685029" titretxt="ARRETE du 9 novembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005685031" titretxt="ARRETE du 17 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005685033" titretxt="ARRETE du 10 janvier 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Miroiterie (transformation et négoce du verre)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3050</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

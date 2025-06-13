@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715088</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715088.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2023-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2023-01-01" id="KALISCTA000027715066">Titre III Conditions de rémunération des directeurs artistiques</TITRE_TM>
+<TITRE_TM debut="2023-01-01" fin="2025-04-01" id="KALISCTA000047056517">Titre III Conditions de rémunération des directrices et directeurs artistiques</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2023-01-01" etat="ABROGE" fin="2025-04-01" id="KALIARTI000047056515" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-02-05" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000027715088" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Directeur artistique : cadre engagé pour assurer la direction artistique du doublage d'une œuvre audiovisuelle et tout ou partie des tâches ci-dessous répertoriées.<br/>Par principe, un directeur artistique ne devra pas être distribué sur un programme ou épisode dont il assure la direction de l'enregistrement.</p>
+<p align="right">
+<br/>(En euros.)</p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th>
+<br/>
+</th>
+<th>Base 100<br/>au 1er janvier 2008</th>
+<th>Indice 101,2<br/>à compter<br/>du 1er janvier 2013</th>
+<th>Indice 102,4<br/>à compter<br/>du 1er janvier 2014</th>
+</tr>
+<tr>
+<td align="center">Cinéma</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Essai/réenregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1/4 de journée</td>
+<td align="center">141,60</td>
+<td align="center">143,30</td>
+<td align="center">145,02</td>
+</tr>
+<tr>
+<td align="center">1/2 journée</td>
+<td align="center">228,00</td>
+<td align="center">230,74</td>
+<td align="center">233,50</td>
+</tr>
+<tr>
+<td align="center">1 journée</td>
+<td align="center">364,80</td>
+<td align="center">369,18</td>
+<td align="center">373,61</td>
+</tr>
+<tr>
+<td align="center">Enregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jusqu'à 3 fois par jour</td>
+<td align="center">732,00</td>
+<td align="center">740,78</td>
+<td align="center">749,67</td>
+</tr>
+<tr>
+<td align="center">Au-delà de 3 jours, par jour dès le 1er jour</td>
+<td align="center">642,00</td>
+<td align="center">649,70</td>
+<td align="center">657,50</td>
+</tr>
+<tr>
+<td align="center">Préparation</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Distribution + projection (1 jour)</td>
+<td align="center">548,40</td>
+<td align="center">554,98</td>
+<td align="center">561,64</td>
+</tr>
+<tr>
+<td align="center">Plan de travail (1 jour)</td>
+<td align="center">246,00</td>
+<td align="center">248,95</td>
+<td align="center">251,94</td>
+</tr>
+<tr>
+<td align="center">Convocation (1 jour)</td>
+<td align="center">210,00</td>
+<td align="center">212,52</td>
+<td align="center">215,07</td>
+</tr>
+<tr>
+<td align="center">Plan + convocation (2 jours)</td>
+<td align="center">402,00</td>
+<td align="center">406,82</td>
+<td align="center">411,71</td>
+</tr>
+<tr>
+<td align="center">Vérification 2 × 1/2 journée</td>
+<td align="center">453,60</td>
+<td align="center">459,04</td>
+<td align="center">464,55</td>
+</tr>
+<tr>
+<td align="center">Vérification 3 × 1/2 journée</td>
+<td align="center">603,60</td>
+<td align="center">610,84</td>
+<td align="center">618,17</td>
+</tr>
+<tr>
+<td align="center">Vérification 4 × 1/2 journée</td>
+<td align="center">639,60</td>
+<td align="center">647,28</td>
+<td align="center">655,04</td>
+</tr>
+<tr>
+<td align="center">Vérification 5 × 1/2 journée</td>
+<td align="center">776,40</td>
+<td align="center">785,72</td>
+<td align="center">795,15</td>
+</tr>
+<tr>
+<td align="center">Vérification 6 × 1/2 journée</td>
+<td align="center">823,20</td>
+<td align="center">833,08</td>
+<td align="center">843,08</td>
+</tr>
+<tr>
+<td align="center">1/2 journée supplémentaire</td>
+<td align="center">146,40</td>
+<td align="center">148,16</td>
+<td align="center">149,93</td>
+</tr>
+<tr>
+<td align="center">Mixage</td>
+<td align="center">273,60</td>
+<td align="center">276,88</td>
+<td align="center">280,21</td>
+</tr>
+<tr>
+<td align="center">FA inclus dans journées d'enregistrement, par FA</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">FA indépendants de l'enregistrement du film, par FA</td>
+<td align="center">228,00</td>
+<td align="center">230,74</td>
+<td align="center">233,50</td>
+</tr>
+<tr>
+<td align="center">TV films, vidéo et internet</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Essai/réenregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1/4 de journée</td>
+<td align="center">102,60</td>
+<td align="center">103,83</td>
+<td align="center">105,08</td>
+</tr>
+<tr>
+<td align="center">Essai</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1/2 journée</td>
+<td align="center">167,58</td>
+<td align="center">169,59</td>
+<td align="center">171,63</td>
+</tr>
+<tr>
+<td align="center">1 journée</td>
+<td align="center">274,74</td>
+<td align="center">278,04</td>
+<td align="center">281,37</td>
+</tr>
+<tr>
+<td align="center">Enregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée</td>
+<td align="center">434,34</td>
+<td align="center">439,55</td>
+<td align="center">444,83</td>
+</tr>
+<tr>
+<td align="center">Si plus de 10 jours d'enregistrement (hors cinéma) dans le mois :</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">– du 11e au 15e jour, journée (à compter de la 1re)<br/>(N = nombre de jours)</td>
+<td align="center">434,30 − ([N − 10] × 10)</td>
+<td align="center">439,55 − ([N − 10] × 10)</td>
+<td align="center">444,83 − ([N − 10] × 10)</td>
+</tr>
+<tr>
+<td align="center">– au-delà de 15 jours : journée (à compter de la 1re)</td>
+<td align="center">377,34</td>
+<td align="center">381,87</td>
+<td align="center">386,45</td>
+</tr>
+<tr>
+<td align="center">Préparation</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Distribution (1/2 journée)</td>
+<td align="center">173,28</td>
+<td align="center">175,36</td>
+<td align="center">177,46</td>
+</tr>
+<tr>
+<td align="center">Plan de travail (1/2 journée)</td>
+<td align="center">234,84</td>
+<td align="center">237,66</td>
+<td align="center">240,51</td>
+</tr>
+<tr>
+<td align="center">Convocation (1/2 journée)</td>
+<td align="center">43,32</td>
+<td align="center">43,84</td>
+<td align="center">44,37</td>
+</tr>
+<tr>
+<td align="center">Distribution + plan + convocation (1 jour)</td>
+<td align="center">329,46</td>
+<td align="center">333,41</td>
+<td align="center">337,41</td>
+</tr>
+<tr>
+<td align="center">Vérification 1 journée</td>
+<td align="center">225,72</td>
+<td align="center">228,43</td>
+<td align="center">213,17</td>
+</tr>
+<tr>
+<td align="center">1/2 journée supplémentaire</td>
+<td align="center">112,86</td>
+<td align="center">114,21</td>
+<td align="center">115,58</td>
+</tr>
+<tr>
+<td align="center">Mixage</td>
+<td align="center">274,74</td>
+<td align="center">278,04</td>
+<td align="center">281,37</td>
+</tr>
+<tr>
+<td align="center">FA inclus dans journées d'enregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">FA indépendant de l'enregistrement = 1/4 jour</td>
+<td align="center">102,60</td>
+<td align="center">103,83</td>
+<td align="center">105,08</td>
+</tr>
+<tr>
+<td align="center">TV séries</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Essai/réenregistrement/track</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1/4 de journée</td>
+<td align="center">102,60</td>
+<td align="center">103,83</td>
+<td align="center">105,08</td>
+</tr>
+<tr>
+<td align="center">Essai</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1/2 journée</td>
+<td align="center">167,58</td>
+<td align="center">169,59</td>
+<td align="center">171,63</td>
+</tr>
+<tr>
+<td align="center">1 journée</td>
+<td align="center">274,74</td>
+<td align="center">278,04</td>
+<td align="center">281,37</td>
+</tr>
+<tr>
+<td align="center">Enregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation</td>
+<td align="center">434,34</td>
+<td align="center">439,55</td>
+<td align="center">444,83</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation par jour d'enregistrement</td>
+<td align="center">519,84</td>
+<td align="center">526,08</td>
+<td align="center">532,39</td>
+</tr>
+<tr>
+<td align="center">Si plus de 10 jours d'enregistrement (hors cinéma) dans le mois :</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">– du 11e au 15e jour, par jour à compter du 1er</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation (N = nombre de jours)</td>
+<td align="center">434,30 − ([N − 10] × 10)</td>
+<td align="center">439,55 − ([N − 10] × 10)</td>
+<td align="center">444,83 − ([N − 10] × 10)</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation par jour d'enregistrement (N = nombre de jours)</td>
+<td align="center">519,84 − ([N − 10] × 10)</td>
+<td align="center">526,08 − ([N − 10] × 10)</td>
+<td align="center">532,39 − ([N − 10] × 10)</td>
+</tr>
+<tr>
+<td align="center">– au-delà de 15 jours</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation</td>
+<td align="center">377,34</td>
+<td align="center">381,87</td>
+<td align="center">386,45</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation par jour d'enregistrement</td>
+<td align="center">469,84</td>
+<td align="center">475,48</td>
+<td align="center">481,18</td>
+</tr>
+<tr>
+<td align="center">Vérification 1/2 journée</td>
+<td align="center">86,64</td>
+<td align="center">87,68</td>
+<td align="center">88,73</td>
+</tr>
+<tr>
+<td align="center">Série de plus de 52 épisodes</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pour les séries de plus de 52 épisodes, si au moins 52 jours sur une période de 12 mois consécutifs</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Enregistrement par jour</td>
+<td align="center">348,84</td>
+<td align="center">353,03</td>
+<td align="center">357,26</td>
+</tr>
+<tr>
+<td align="center">DVD bonus, « making of »,<br/>supports interactifs</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Enregistrement</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation</td>
+<td align="center">434,34</td>
+<td align="center">439,55</td>
+<td align="center">444,83</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation</td>
+<td align="center">519,84</td>
+<td align="center">526,08</td>
+<td align="center">532,39</td>
+</tr>
+<tr>
+<td align="center">Si plus de 10 jours d'enregistrement (hors cinéma) dans le mois :</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">– du 11e au 15e jour, par jour à compter du 1er</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation (N = nombre de jours)</td>
+<td align="center">434,30 − ([N − 10] × 10)</td>
+<td align="center">439,55 − ([N − 10]<br/>× 10)</td>
+<td align="center">444,83 − ([N − 10]<br/>× 10)</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation par jour d'enregistrement (N = nombre de jours)</td>
+<td align="center">519,84 − ([N − 10]<br/>× 10)</td>
+<td align="center">526,08 − ([N − 10]<br/>× 10)</td>
+<td align="center">532,39 − ([N − 10]<br/>× 10)</td>
+</tr>
+<tr>
+<td align="center">– au-delà de 15 jours</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Journée sans préparation</td>
+<td align="center">377,34</td>
+<td align="center">381,87</td>
+<td align="center">386,45</td>
+</tr>
+<tr>
+<td align="center">Direction + préparation par jour d'enregistrement</td>
+<td align="center">469,84</td>
+<td align="center">475,48</td>
+<td align="center">481,18</td>
+</tr>
+<tr>
+<td align="center">Documentaires, reportages,<br/>institutionnels</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Enregistrement incluant la préparation</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 journée</td>
+<td align="center">434,34</td>
+<td align="center">439,55</td>
+<td align="center">444,83</td>
+</tr>
+<tr>
+<td align="center">1/2 journée</td>
+<td align="center">216,60</td>
+<td align="center">219,20</td>
+<td align="center">221,83</td>
+</tr>
+<tr>
+<td align="center">Si plus de 10 jours d'enregistrement (hors cinéma) dans le mois :</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">– du 11e au 15e jour, journée (à compter de la 1re)<br/>(N = nombre de jours)</td>
+<td align="center">434,30 − ([N − 10]<br/>× 10)</td>
+<td align="center">439,55 − ([N − 10]<br/>× 10)</td>
+<td align="center">444,83 − ([N − 10]<br/>× 10)</td>
+</tr>
+<tr>
+<td align="center">– au-delà de 15 jours : journée (à compter de la 1re)</td>
+<td align="center">377,34</td>
+<td align="center">381,87</td>
+<td align="center">386,45</td>
+</tr>
+</table>
+
+</div>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

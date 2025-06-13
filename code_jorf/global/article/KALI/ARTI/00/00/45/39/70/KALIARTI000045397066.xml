@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045397066</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/70/KALIARTI000045397066.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>15</NUM>
+<TITRE>Délégué syndical</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397025">Chapitre III Droit syndical et institutions représentatives du personnel</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000047839180" date_publi="2023-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3243" titre="Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023" url="conteneur/KALI/CONT/00/00/47/83/91/KALICONT000047839180.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397066" num="15" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les délégués syndicaux, sous réserve de satisfaire les conditions prévues à l'article L. 2143-1 du code du travail, sont désignés dans les conditions suivantes :</p>
+<p align="left">• Dans l'entreprise ou l'établissement de cinquante salariés ou plus, les organisations syndicales représentatives constituant une section syndicale peuvent désigner, dans les limites prévues par les dispositions légales en vigueur, un ou plusieurs délégués syndicaux pour la représenter auprès de l'employeur, parmi les candidats aux élections professionnelles qui ont recueilli à titre personnel et dans leur collège au moins 10 % des suffrages exprimés au premier tour des dernières élections au comité social et économique, quel que soit le nombre de votants ;</p>
+<p align="left">Si aucun des candidats présentés par le syndicat ne remplit la condition de score électoral ou s'il ne reste, dans l'entreprise ou l'établissement, plus aucun candidat aux élections professionnelles satisfaisant à cette condition ou si l'ensemble des élus remplissant cette condition renoncent par écrit à leur droit d'être désignés comme délégué syndical, ce syndicat peut désigner un délégué syndical parmi les autres candidats ou, à défaut, parmi ses adhérents au sein de l'entreprise ou de l'établissement ou parmi ses anciens élus ayant atteint la limite de durée d'exercice du mandat au comité social et économique.</p>
+<p align="left">• Dans les établissements qui emploient moins de cinquante salariés, les syndicats représentatifs dans l'établissement peuvent désigner, pour la durée de son mandat, un membre du comité social et économique comme délégué syndical. À défaut d'accord d'entreprise ou d'établissement, ce mandat n'ouvre pas droit à un crédit d'heures. Le temps dont dispose le membre du comité social et économique pour l'exercice de son mandat peut être utilisé dans les mêmes conditions pour l'exercice de ses fonctions de délégué syndical.</p>
+<p align="left">Les modalités de désignation, de publicité, de contestation, ainsi que les conditions d'exercice et de perte du mandat de délégué syndical sont déterminées par les dispositions légales en vigueur.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901625" naturetexte="CODE" nortexte="" num="L2143-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2143-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

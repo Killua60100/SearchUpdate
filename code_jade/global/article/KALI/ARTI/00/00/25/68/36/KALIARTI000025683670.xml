@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025683670</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/68/36/KALIARTI000025683670.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+<TITRE>Formalités</TITRE>
+
+<ETAT>PERIME</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2012-12-20</DATE_DEBUT>
+<DATE_FIN>2015-12-20</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000025683654" date_publi="2999-01-01" date_signature="2011-12-08" nature="Accord" nor="ASET1250290M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Désignation de l'OPCA de branche" debut="2012-12-20" fin="2015-12-20" id_txt="KALITEXT000025683654">Accord du 8 décembre 2011 relatif à la désignation de l'OPCA de branche</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027065067" date_publi="2011-06-24" etat="VIGUEUR_ETEN" nature="IDCC" num="3032" titre="Convention collective nationale de l'esthétique-cosmétique et de l'enseignement technique et professionnel lié aux métiers de l'esthétique et de la parfumerie du 24 juin 2011 " url="conteneur/KALI/CONT/00/00/27/06/50/KALICONT000027065067.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="PERIME">
+<LIEN_ART debut="2012-12-20" etat="PERIME" fin="2015-12-20" id="KALIARTI000025683670" num="12" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Le présent accord fera l'objet d'un dépôt auprès de la DGT et du greffe du conseil des prud'hommes dans les conditions légales en vigueur. Son extension sera demandée auprès de la DGT par la partie la plus diligente.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

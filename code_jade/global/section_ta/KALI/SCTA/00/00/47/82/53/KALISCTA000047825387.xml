@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000047825387</ID>
+<TITRE_TA>Annexe 7 Formation professionnelle tout au long de la vie</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="KALISCTA000045397156" debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000045397156" niv="3" url="/KALI/SCTA/00/00/45/39/71/KALISCTA000045397156.xml">Préambule</LIEN_SECTION_TA>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397213" num="1er" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397215" num="2" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397216" num="3" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="REMPLACE" fin="2024-05-23" id="KALIARTI000045397217" num="4" origine="KALI"/>
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050146365" num="4" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397220" num="5" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397221" num="6" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397223" num="7" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397231" num="8" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397235" num="9" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397236" num="10" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397237" num="11" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397238" num="12" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397240" num="13" origine="KALI"/>
+<LIEN_ART debut="2023-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045397241" num="14" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045397019" date_publi="2999-01-01" date_signature="2021-11-24" nature="Convention collective nationale" nor="ASET2250047M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 24 novembre 2021" debut="2023-08-01" fin="2999-01-01" id_txt="KALITEXT000045397019">Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, métaux et équipement de la maison du 24 novembre 2021 - Etendue par arrêté du 5 juillet 2023 JORF 13 juillet 2023</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2023-08-01" fin="2999-01-01" id="KALISCTA000045397032">Annexes</TITRE_TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

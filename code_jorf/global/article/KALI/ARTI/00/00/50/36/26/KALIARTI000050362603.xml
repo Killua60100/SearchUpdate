@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050362603</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/36/26/KALIARTI000050362603.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Objet</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-08-22</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050362600" date_publi="2024-10-17" date_signature="2024-07-16" nature="Avenant" nor="ASET2450748M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Films de plateforme" debut="2024-08-22" fin="2999-01-01" id_txt="KALITEXT000050362600">Avenant du 16 juillet 2024 à l'avenant n° 1 du 7 novembre 2022 relatif aux salaires minimaux</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-08-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050362603" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent avenant a pour objet unique la suppression de l'article 9 intitulé « Films de plateforme » de l'avenant n° 1 du 7 novembre 2022 portant révision de l'accord national professionnel de salaires du doublage du 5 février 2013.</p>
+<p align="left">Le présent avenant constitue une annexe de la convention collective étendue des entreprises techniques au service de la création et de l'événement (IDCC 2717) du 21 février 2008.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

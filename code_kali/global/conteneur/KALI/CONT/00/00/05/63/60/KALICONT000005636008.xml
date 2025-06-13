@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005636008</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1850</NUM>
+
+<DATE_PUBLI>1995-02-17</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale des avocats et de leur personnel (IDCC 1000) par accord du 26 juillet 2019.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005669391" titretxt="Convention collective nationale du 17 février 1995"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005669397" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005669399" titretxt="ACCORD S'INSCRIVANT DANS L'ESPRIT DE LA RÉFORME DE CERTAINES PROFESSIONS JUDICIAIRES, Préambule"/>
+<LIEN_TXT idtxt="KALITEXT000005669401" titretxt="Réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005669405" titretxt="Retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005669407" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005669409" titretxt="Création de la section avocats salariés de la CPNE"/>
+<LIEN_TXT idtxt="KALITEXT000005669411" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005669415" titretxt="Lettre d'adhésion de la fédération nationale des unions des jeunes avocats (FNUJA) à l'avenant &quot; Salaires &quot; n 8 du 21 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000018658915" titretxt="Mandat des représentants du personnel"/>
+<LIEN_TXT idtxt="KALITEXT000019987152" titretxt="Période d'essai"/>
+<LIEN_TXT idtxt="KALITEXT000020041763" titretxt="Indemnité de départ volontaire à la retraite"/>
+<LIEN_TXT idtxt="KALITEXT000021747513" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000021980141" titretxt="Licenciement, rupture conventionnelle et retraite"/>
+<LIEN_TXT idtxt="KALITEXT000023157786" titretxt="Formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000023454759" titretxt="Commission paritaire de validation des accords d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000024808954" titretxt="Prévention et gestion des risques psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000025633802" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000026356384" titretxt="Forfait annuel en jours"/>
+<LIEN_TXT idtxt="KALITEXT000030309288" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000036563889" titretxt="Gestion des fonds du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000036650942" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000036789440" titretxt="Egalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000037465898" titretxt="Congés exceptionnels"/>
+<LIEN_TXT idtxt="KALITEXT000039061395" titretxt="Risques psychosociaux"/>
+<LIEN_TXT idtxt="KALITEXT000039070737" titretxt="Indemnité de licenciement (art. 9.2.1)"/>
+<LIEN_TXT idtxt="KALITEXT000039108857" titretxt="Désignation de l'OPCO"/>
+<LIEN_TXT idtxt="KALITEXT000041439645" titretxt="Fusion des champs d'application"/>
+<LIEN_TXT idtxt="KALITEXT000041686392" titretxt="Congés exceptionnels"/>
+<LIEN_TXT idtxt="KALITEXT000041686400" titretxt="Taux de cotisation au fonds de fonctionnement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000043562291" titretxt="Formation professionnelle (contribution conventionnelle)"/>
+<LIEN_TXT idtxt="KALITEXT000043829692" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000044085343" titretxt="Fusion des champs"/>
+<LIEN_TXT idtxt="KALITEXT000045372761" titretxt="Adhésion de la CAT"/>
+<LIEN_TXT idtxt="KALITEXT000046225606" titretxt="Modalités de composition et de vote de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000046225635" titretxt="Modalités de fonctionnement et d'attribution de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000047865919" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000050362430" titretxt="Fusion des champs"/>
+<LIEN_TXT idtxt="KALITEXT000050362437" titretxt="Financement du paritarisme"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005669417" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669419" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669421" titretxt="SALAIRES Barreau de Paris"/>
+<LIEN_TXT idtxt="KALITEXT000005669423" titretxt="SALAIRES Barreau de Paris"/>
+<LIEN_TXT idtxt="KALITEXT000005669425" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669427" titretxt="SALAIRES (Barreau de Paris)"/>
+<LIEN_TXT idtxt="KALITEXT000005669429" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669431" titretxt="SALAIRES (Barreau de Paris)"/>
+<LIEN_TXT idtxt="KALITEXT000005669433" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669435" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669437" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669439" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005669441" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005669445" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018659183" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020216289" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023454780" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025591134" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000027608727" titretxt="Salaires minima au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029148554" titretxt="Salaires minima au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000035318214" titretxt="Salaires minima au 1er mars 2017"/>
+<LIEN_TXT idtxt="KALITEXT000042005021" titretxt="Salaires minima au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045953904" titretxt="Salaires minima année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046970990" titretxt="Salaires au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049150471" titretxt="Salaires minima conventionnels 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005669447" titretxt="Arrêté du 10 juin 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005669451" titretxt="Arrêté du 2 octobre 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005669453" titretxt="Arrêté du 2 octobre 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005669455" titretxt="ARRETE du 28 juillet 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005669457" titretxt="ARRETE du 28 juillet 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005669459" titretxt="ARRETE du 20 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005669461" titretxt="ARRETE du 25 avril 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005669463" titretxt="ARRETE du 4 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005669465" titretxt="ARRETE du 22 février 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005669467" titretxt="ARRETE du 31 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005669469" titretxt="ARRETE du 7 mars 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005669473" titretxt="ARRETE du 13 avril 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005669475" titretxt="ARRETE du 13 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005669477" titretxt="ARRETE du 3 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005669479" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005669481" titretxt="ARRETE du 8 décembre 2006"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Avocats : cabinets d'avocats et avocats salariés</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3078</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

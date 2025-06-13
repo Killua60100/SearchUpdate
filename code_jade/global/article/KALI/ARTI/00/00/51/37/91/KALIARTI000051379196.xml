@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051379196</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/37/91/KALIARTI000051379196.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051379178" date_publi="2025-03-26" date_signature="2024-11-27" nature="Accord" nor="ASET2550102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Métiers exposés à des risques ergonomiques" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051379178">Accord du 27 novembre 2024 relatif aux métiers exposés à des risques ergonomiques</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-06-01" fin="2999-01-01" id="KALISCTA000051379195">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051379196" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe 1<br/>
+Données statistiques des AT et des MP</p>
+<p>(Document non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p>
+<p>
+ https://www.legifrance.gouv.fr/download/file/pdf/boc_20250004_0000_0001.pdf/BOCC
+</p>
+<p align="center">CNO – Activités de boulangerie, pâtisserie, confiserie, chocolaterie et glaces artisanales.</p>
+<p>(Documents non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p>
+<p>
+ https://www.legifrance.gouv.fr/download/file/pdf/boc_20250004_0000_0001.pdf/BOCC
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

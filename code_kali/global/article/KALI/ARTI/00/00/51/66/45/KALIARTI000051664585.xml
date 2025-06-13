@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051664585</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/66/45/KALIARTI000051664585.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Date d'effet et durée</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051664577" date_publi="2025-05-27" date_signature="2025-02-13" nature="Avenant" nor="ASET2550365M" num="1" num_parution_jo="">
+<TITRE_TXT c_titre_court="Métiers exposés à des risques ergonomiques" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051664577">Avenant n° 1 du 13 février 2025 à l'accord du 27 novembre 2024 relatif aux métiers exposés à des risques ergonomiques</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051664585" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent avenant n° 1 est conclu pour une durée indéterminée.</p>
+<p align="left">Le présent avenant deviendra applicable au lendemain de la publication de l'arrêté d'extension au Journal officiel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

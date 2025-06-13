@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051380107</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/38/01/KALIARTI000051380107.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+<TITRE>Durée</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-12-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045396641" date_publi="2999-01-01" date_signature="2021-12-08" nature="Accord" nor="ASET2250032M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Formation professionnelle et apprentissage" debut="2021-12-09" fin="2999-01-01" id_txt="KALITEXT000045396641">Accord du 8 décembre 2021 relatif à la formation professionnelle et à l'apprentissage</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2021-12-09" fin="2999-01-01" id="KALISCTA000045396702">Dispositions conclusives</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635813" date_publi="2002-04-18" etat="VIGUEUR_ETEN" nature="IDCC" num="2264" titre="Convention collective nationale de l'hospitalisation privée du 18 avril 2002&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635813.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2024-01-04" etat="REMPLACE" fin="2024-12-17" id="KALIARTI000049637711" num="12" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-12-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051380107" num="12" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2021-12-09" etat="REMPLACE" fin="2024-01-04" id="KALIARTI000045396705" num="12" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="left">L'accord est reconduit pour une durée déterminée dont l'échéance est fixée, pour toutes les entreprises, au 31 décembre 2025, date à laquelle il cessera totalement de produire effet.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000051379506" datesignatexte="2024-12-17" id="KALIARTI000051379513" naturetexte="Avenant" nortexte="ASET2550115M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Formation professionnelle - art. 3 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

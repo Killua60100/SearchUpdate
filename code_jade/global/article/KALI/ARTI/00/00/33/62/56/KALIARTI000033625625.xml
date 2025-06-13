@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625625</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625625.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625625" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I.3. Agent de sécurité cynophile</p>
+<p>Coefficient 140</p>
+<p>L'agent de sécurité cynophile est un agent de sécurité qui doit s'attacher à constituer une véritable équipe « homme-chien » sachant optimiser les qualités acquises et naturelles du chien.</p>
+<p>Le chien est l'auxiliaire du conducteur de chien dans l'exercice de sa mission. L'agent de sécurité cynophile est obligatoirement propriétaire de son chien, en règle avec la législation en vigueur.</p>
+<p>Les risques inhérents à cette activité sont couverts par la responsabilité civile souscrite par l'employeur.</p>
+<p>Dans le cadre de ses missions, son activité consiste à assurer la protection des biens et/ou des personnes sur un secteur géographique déterminé en application des consignes écrites transmises par l'employeur et en utilisant les qualités combinées du conducteur et du chien.</p>
+<p>Les activités de base les plus communément attribuées consistent à :<br/>
+– effectuer des rondes de surveillance, à horaires variables ou non, pour prévenir des malveillances et des risques détectables tels que l'intrusion, le vandalisme ou l'incendie ;<br/>
+– contrôler et surveiller les sites et périmètres déterminés tels que parkings, entrepôts, chapiteaux et toutes autres zones dont il a la garde ;<br/>
+– procéder aux actions de sauvegarde adaptées et assurer la continuité de la protection du site selon les consignes prédéterminées et/ou les instructions de la hiérarchie ;<br/>
+– intervenir à la demande de personnel autorisé à le faire ou sur des alarmes pour effectuer une levée de doute ;<br/>
+– prévenir ou faire prévenir les services compétents et/ou les personnes désignées pour faire cesser le trouble concerné ;<br/>
+– détecter à l'intérieur d'un site ou d'un périmètre clairement déterminé la présence d'une personne, d'objets, de produits pouvant porter un préjudice à la sécurité des biens et des personnes.</p>
+<p>L'utilisation du chien – pouvant être considéré comme une arme par destination – est purement préventive et dissuasive.</p>
+<p>Toutefois, dans une situation d'intrusion et/ou d'agression, l'intervention du chien ne peut s'effectuer que dans le strict respect de la législation relative à la légitime défense.</p>
+<p>L'activité du binôme « conducteur-chien » s'exerce dans le cadre de la réglementation en vigueur et du respect des libertés publiques. Dans les lieux publics ou privés ouverts au public, le chien doit être tenu en laisse et porter la muselière pour les catégories de chiens définies par la réglementation en vigueur.</p>
+<p>Lorsque ses missions sont celles d'un agent de sécurité mobile, l'ensemble des dispositions de la fiche métier « agent de sécurité mobile » s'applique.</p>
+<p>Pour l'exercice de l'activité de l'agent de sécurité cynophile sont exclus les races molossoïdes non soumises au travail par la société centrale canine ainsi que les chiens de type molossoïde entrant dans la première catégorie définie par la législation en vigueur, et notamment les dispositions de la loi n° 99-5 du 6 janvier 1999 relative aux animaux dangereux et errants et à la protection des ­animaux.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000558336" datesignatexte="1999-01-06" id="JORFTEXT000000558336" naturetexte="LOI" nortexte="AGRX9800014L" num="" numtexte="99-5" sens="source" typelien="CITATION">Loi n°99-5 du 6 janvier 1999</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

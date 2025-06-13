@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033625637</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/62/56/KALIARTI000033625637.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000033625593" date_publi="2016-12-19" date_signature="2016-09-26" nature="Accord" nor="ASET1650979M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Qualifications professionnelles" debut="2017-01-01" fin="2999-01-01" id_txt="KALITEXT000033625593">Accord du 26 septembre 2016 relatif aux qualifications professionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033625620">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2017-01-01" fin="2999-01-01" id="KALISCTA000033979970">Annexe I</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635405" date_publi="1985-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1351" titre="Convention collective nationale des entreprises de prévention et de sécurité du 15 février 1985.  Etendue par arrêté du 25 juillet 1985 (JO du 30 juillet 1985)" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635405.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033625637" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I.9. Agent de sécurité filtrage</p>
+<p>Coefficient 140</p>
+<p>L'agent de sécurité filtrage est un agent de sécurité dont l'action permet d'empêcher que des objets illicites soient introduits à l'intérieur d'une zone strictement définie, hors zone de sûreté aéroportuaire.</p>
+<p>L'agent de sécurité filtrage assure l'analyse des informations données par les appareils de contrôle, comprenant notamment l'interprétation d'alarmes émises par ces appareils.</p>
+<p>Il procède, le cas échéant, à la levée de doute suivant les procédures et consignes établies, dans le respect des libertés publiques.</p>
+<p>Ses missions consistent à :<br/>
+– interpréter les informations données par les appareils de contrôle ;<br/>
+– réaliser le contrôle de concordance entre l'objet et son convoyeur ;<br/>
+– effectuer ou faire effectuer la levée de doute conformément aux consignes et dans le respect des libertés publiques ;<br/>
+– alerter les services compétents lorsque l'intervention requise dépasse ses prérogatives.</p>
+<p>Instructions</p>
+<p>Il a pour instructions de :<br/>
+– faciliter l'accès et le passage aux appareils de contrôle ;<br/>
+– préserver le confort des personnes contrôlées ;<br/>
+– filtrer, à l'aide des moyens techniques mis à sa disposition, les objets en présence des détenteurs ;<br/>
+– n'exécuter des consignes en provenance d'un tiers qu'avec l'approbation de sa propre hiérarchie ;<br/>
+– respecter les consignes spécifiques au site.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

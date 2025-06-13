@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051691530</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/69/15/KALIARTI000051691530.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Collecte des cotisations</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000047865919" date_publi="2999-01-01" date_signature="2023-04-14" nature="Accord" nor="ASET2350639M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Financement du paritarisme" debut="2023-04-14" fin="2999-01-01" id_txt="KALITEXT000047865919">Accord du 14 avril 2023 relatif au financement du paritarisme</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005636008" date_publi="1995-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1850" titre="Convention collective nationale des cabinets d'avocats (avocats salariés) du 17 février 1995.  Etendue par arrêté du 10 juin 1996 JORF 28 juin 1996" url="conteneur/KALI/CONT/00/00/05/63/60/KALICONT000005636008.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051691530" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2025-06-01" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000051691460" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-04-14" etat="REMPLACE" fin="2025-06-01" id="KALIARTI000047865928" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'ADDSA a en charge la contractualisation ou la résiliation de toute convention avec un ou plusieurs organismes ou sociétés afin de confier la mission de collecter et recouvrer la cotisation à la charge des employeurs tant pour le personnel non-avocat que pour les avocats salariés.</p>
+<p align="left">L'organisme et/ ou la société retenue (s) en charge de la collecte de la cotisation reverse à l'ADDSA le montant des sommes collectées après prélèvement éventuel de frais de gestion et ce dans les conditions de la convention précitée.</p>
+<p align="left">
+<em>Les partenaires sociaux mandatent l'OPCO EP, sis 4, rue du Colonel-Driant, 75001 Paris, comme opérateur de collecte, pour recouvrer, auprès des entreprises de la branche professionnelle des cabinets d'avocats et avocats salariés (IDCC 1000 et IDCC 1850), la contribution conventionnelle de 6 pour 10 000 (0,06 %) fixée par l'accord du 14 avril 2023 au titre du fonds de fonctionnement du paritarisme.</em>
+ (1)
+</p>
+<p align="left">
+<em>Cette cotisation au titre du financement du paritarisme est appelée à partir de la masse salariale sur l'ensemble des salaires du personnel non avocat et des avocats salariés.</em>
+ (1)
+</p>
+<p align="left">La cotisation au titre de 2025 appelée, par l'opérateur de compétences des entreprises de proximité, à terme échu sera appelée début 2026 sur la base de la masse salariale 2025.</p>
+<p align="left">Ce mode de collecte se poursuivra ainsi pour les années suivantes tant que ce mode de collecte sera en vigueur et s'adaptera, en tant que de besoin, en cas d'évolution du mode de collecte.</p>
+<p align="left">
+<em>Il est convenu qu'il sera conclu une convention de mandat pour la collecte des fonds entre l'ADDSA et l'OPCO EP afin de définir les frais et les modalités de cette collecte. </em>
+ (1)
+</p>
+<p align="left">Tout autre collecteur peut être désigné par la CPPNI tant au titre du personnel non-avocat qu'au titre des avocats salariés.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéas étendus sous réserve du respect du II de l'article L. 6332-1-2 du code du travail concernant le suivi comptable et les frais de recouvrement distincts pour les fonds liés au dialogue social et recouvrés par les opérateurs de compétences. <br/>
+(Arrêté du 15 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000051537665" datesignatexte="2025-01-24" id="KALIARTI000051537669" naturetexte="Avenant" nortexte="ASET2550252M" num="1er" numtexte="3" sens="cible" typelien="MODIFIE">Financement du paritarisme - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045396706</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/39/67/KALIARTI000045396706.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>13</NUM>
+<TITRE>Bilan d'application</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2021-12-09</DATE_DEBUT>
+<DATE_FIN>2024-01-04</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045396641" date_publi="2999-01-01" date_signature="2021-12-08" nature="Accord" nor="ASET2250032M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Formation professionnelle et apprentissage" debut="2021-12-09" fin="2999-01-01" id_txt="KALITEXT000045396641">Accord du 8 décembre 2021 relatif à la formation professionnelle et à l'apprentissage</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2021-12-09" fin="2999-01-01" id="KALISCTA000045396702">Dispositions conclusives</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635813" date_publi="2002-04-18" etat="VIGUEUR_ETEN" nature="IDCC" num="2264" titre="Convention collective nationale de l'hospitalisation privée du 18 avril 2002&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635813.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2021-12-09" etat="ABROGE" fin="2024-01-04" id="KALIARTI000045396706" num="13" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Dans le cadre de la réunion prévue ci-dessus les partenaires sociaux seront attentifs aux dispositions de l'ANI du 14 octobre 2021, destiné à adapter à de nouveaux enjeux la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel et lors du renouvellement éventuel de l'accord, procéderont aux aménagements nécessaires en fonction des différents travaux paritaires prévus par ledit accord national interprofessionnel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000045551626" datesignatexte="2022-04-01" id="JORFARTI000045551630" naturetexte="ARRETE" nortexte="MTRT2209474A" num="1" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 1er avril 2022 - art. 1, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000045669384" datesignatexte="2022-04-19" id="JORFTEXT000045669384" naturetexte="ARRETE" nortexte="MTRT2212107A" num="" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 19 avril 2022, v. init.</LIEN>
+<LIEN cidtexte="KALITEXT000049150553" datesignatexte="2023-11-22" id="KALIARTI000049150563" naturetexte="Avenant" nortexte="ASET2450012M" num="6" numtexte="" sens="cible" typelien="ABROGE">Reconduction accords de formation professionnelle - art. 6 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

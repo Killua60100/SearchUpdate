@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050140748</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/14/07/KALIARTI000050140748.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Demande d'extension</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050140738" date_publi="2024-08-27" date_signature="2024-06-06" nature="Accord paritaire national" nor="ASET2450599M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="RNCSA et RNQSA pour le second semestre 2024" debut="2024-07-01" fin="2999-01-01" id_txt="KALITEXT000050140738">Accord paritaire national du 6 juin 2024 relatif au RNCSA et au RNQSA pour le second semestre 2024</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635191" date_publi="1981-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1090" titre="Convention collective nationale du commerce et de la réparation de l'automobile, du cycle et du motocycle et des activités connexes, ainsi que du contrôle technique automobile du 15 janvier 1981. Etendue par arrêté du 30 octobre 1981 JONC 3 décembre 1981." url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635191.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050140748" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les organisations soussignées conviennent de procéder dans les meilleurs délais aux démarches nécessaires en vue de l'extension du présent accord conformément aux dispositions réglementaires applicables conformément à l'article L. 2261-15 du code du travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901793" naturetexte="CODE" nortexte="" num="L2261-15" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-15</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

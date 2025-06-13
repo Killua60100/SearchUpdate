@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038649907</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/64/99/KALIARTI000038649907.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-12-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000038649836" date_publi="2999-01-01" date_signature="2018-12-20" nature="Convention collective nationale" nor="ASET1950418M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 décembre 2018" debut="2020-12-25" fin="2999-01-01" id_txt="KALITEXT000038649836">Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2020-12-25" fin="2999-01-01" id="KALISCTA000038649846">Annexes</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000043006530" date_publi="2020-12-25" etat="VIGUEUR_ETEN" nature="IDCC" num="3229" titre="Convention collective nationale du personnel des entreprises de transport en navigation intérieure du 20 décembre 2018 - Etendue par arrêté du 18 décembre 2020 JORF 24 décembre 2020" url="conteneur/KALI/CONT/00/00/43/00/65/KALICONT000043006530.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-12-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038649907" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe I<br/>
+Indemnisation des représentants des organisations syndicales lors de leur participation aux CPPNI</p>
+<p>La participation aux travaux de la CPPNI ouvre droit pour les délégations des organisations syndicales représentatives au plan national, à une indemnisation de leurs membres à la charge du syndicat patronal.</p>
+<p>L'indemnité est due dans la limite de 5 journées par an ; elle est versée selon les conditions fixées ci-après :<br/>
+– si les nécessités du dialogue social de branche justifiaient d'organiser un nombre supérieur de réunions, le remboursement des frais de participation fera, le cas échéant, l'objet d'un accord spécifique du CAF ;<br/>
+– chaque organisation syndicale est libre du choix de ses délégués et de leur nombre pour chaque réunion. Toutefois le paiement des indemnités est limité à quatre membres par délégation syndicale.</p>
+<p>Les conditions de participation à la CPPNI et d'indemnisation en matière de salaire pendant le temps de participation, obéissent aux dispositions légales ou réglementaires en vigueur ainsi qu'aux conventions collectives, accords d'entreprise et règlements intérieurs.</p>
+<p>L'indemnisation comprend les éléments suivants :<br/>
+– les frais de transport longue distance sont remboursés au tarif SNCF de 2e classe y compris les suppléments éventuels. Ils sont dus aux participants désignés par les organisations syndicales relevant du présent accord dans les limites de quatre membres par délégation et cinq déplacements annuels ;<br/>
+– les frais de taxi d'accès à la gare de départ ou de retour sont également pris en compte s'ils sont strictement nécessaires par exemple pour les destinations non desservies par transport en commun ;<br/>
+– le remboursement des frais de transport par voiture personnelle reste réservé à des situations exceptionnelles en cas de défaut d'offre de transport en commun par exemple. Dans ce cas le taux de remboursement se réfère au barème kilométrique retenu par les services fiscaux ;<br/>
+– les frais de transport en commun dans Paris ou Paris banlieue ne donnent pas lieu à remboursement ;<br/>
+– les frais de repas sont rémunérés au taux de 30 €. Ce taux est réévalué chaque année comme le barème U des indemnités de grand déplacement en métropole ;<br/>
+– une indemnité forfaitaire de nuitée pourra être versée à titre exceptionnel aux représentants syndicaux résidant en province et qui ne pourraient effectuer le trajet aller-retour entre le lieu de réunion et son domicile dans la journée. Le remboursement serait alors réalisé sur les frais réels et sur présentation des documents justificatifs dans la limite de l'indemnité URSSAF de grand déplacement incluant le logement et le petit-déjeuner pour une nuitée (référence 120 € au 1er juillet 2016).</p>
+<p>Les frais seront remboursés soit à l'issue de la réunion par chèque bancaire, soit par virement bancaire dans les 2 semaines de présentation des demandes de remboursement effectuées par les bénéficiaires, sur présentation des documents justificatifs pour les déplacements en taxi ou pour les abonnements TGV.</p>
+<p>Les autres frais de participation sont remboursés sur présentation des documents justificatifs de déplacement ou par référence à la grille des tarifs publics en vigueur le jour de la réunion. Le CAF se réserve néanmoins la possibilité de vérifier pour des raisons comptables la réalité des frais engagés par les participants.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

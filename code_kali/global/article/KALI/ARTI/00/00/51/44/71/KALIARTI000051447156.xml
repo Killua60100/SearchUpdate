@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051447156</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/44/71/KALIARTI000051447156.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051447130" date_publi="2025-04-10" date_signature="2024-11-21" nature="Accord" nor="ASET2550236M" num="2024/3" num_parution_jo="">
+<TITRE_TXT c_titre_court="Listes de métiers exposés à des risques ergonomiques" debut="2025-06-01" fin="2999-01-01" id_txt="KALITEXT000051447130">Accord n° 2024/3 du 21 novembre 2024 relatif aux listes de métiers exposés à des risques ergonomiques prévues à l'article L. 4163-2-1 du code du travail</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-06-01" fin="2999-01-01" id="KALISCTA000051447133">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635657" date_publi="1989-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1536" titre="Convention collective nationale des distributeurs conseils hors domicile (distributeurs CHD).  Etendue par arrêté du 4 janvier 1974 JORF 20 janvier 1974." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635657.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051447156" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les expositions aux facteurs de risques professionnels ergonomiques peuvent être source d'usure professionnelle, en particulier de troubles musculosquelettiques qui représentent plus de 87 % des maladies professionnelles reconnues chaque année.</p>
+<p align="left">Pour améliorer leur prévention, la loi de financement rectificative de la sécurité sociale pour 2023 a créé un fonds d'investissement dans la prévention de l'usure professionnelle (FIPU) rattaché à la commission des accidents du travail et des maladies professionnelles (CATMP) de la caisse nationale d'assurance maladie (CNAM) doté d'un milliard d'euros sur cinq ans en vue de financer :<br/>
+– des démarches de prévention des effets de l'exposition à ces risques dans les entreprises ;<br/>
+– des actions menées par les organismes de prévention de branche ;<br/>
+– des actions de reconversion à destination des salariés exposés à ces risques.</p>
+<p align="left">Ce nouveau dispositif mobilise pleinement les branches professionnelles, confirmant leur rôle en matière de dialogue social relatif aux conditions de travail.</p>
+<p align="left">La loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale ouvre en effet la possibilité pour les branches de négocier des listes de métiers et activités particulièrement exposés aux facteurs de risques ergonomiques.</p>
+<p align="left">Ces listes, après extension par le ministère chargé du travail, viendront enrichir la cartographie permettant à la CAT/MP de définir chaque année, avant le 15 septembre, pour l'année à venir, après avis du comité national de prévention et de santé au travail mentionné à l'article L. 4641-2-1 du code du travail, les orientations qui encadrent l'attribution des financements du FIPU mentionné à l'article L. 221-1-5 du code de la sécurité sociale.</p>
+<p align="left">Les financements accordés par le FIPU permettent notamment de soutenir les démarches ou actions :<br/>
+– de prévention des effets de l'exposition à ces facteurs de risques ;<br/>
+– de leur formation ;<br/>
+– d'aménagement du poste de travail ;<br/>
+– d'amélioration continue de l'activité en faveur des salariés qui y sont exposés.</p>
+<p align="left">Les entreprises relevant de branches professionnelles ayant conclu un accord étendu bénéficient d'une valorisation du taux de prise en charge et des plafonds de financement.</p>
+<p align="left">C'est dans ce contexte que les partenaires sociaux de la branche des distributeurs conseils hors domicile se sont emparés de ce nouveau dispositif et se sont réunis afin d'élaborer ensemble, dans le cadre d'une négociation de branche, la liste des métiers et activités particulièrement exposés aux facteurs de risques ergonomiques mentionnés au 1° du I de l'article L. 4161-1 du code du travail ainsi que cités en objet du présent accord.</p>
+<p align="left">Les partenaires sociaux soutiennent l'ensemble des mesures d'accompagnement des politiques de branche en faveur des salariés et entreprises et tiennent à rappeler à cette occasion leur volonté constante de mettre à disposition de ces derniers des moyens concrets d'atteindre leurs objectifs d'amélioration des conditions de travail partout où ils se trouvent.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000047445077" datesignatexte="2023-04-14" id="JORFTEXT000047445077" naturetexte="LOI" nortexte="ECOX2300575L" num="" numtexte="2023-270" sens="source" typelien="CITATION">LOI n°2023-270 du 14 avril 2023</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000028495726" naturetexte="CODE" nortexte="" num="L4161-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L4161-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000043891759" naturetexte="CODE" nortexte="" num="L4641-2-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L4641-2-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000047449926" naturetexte="CODE" nortexte="" num="L221-1-5" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L221-1-5</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

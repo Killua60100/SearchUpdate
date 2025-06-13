@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027715069</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/71/50/KALIARTI000027715069.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-05</DATE_DEBUT>
+<DATE_FIN>2025-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000027715061" date_publi="2999-01-01" date_signature="2013-02-05" nature="Accord" nor="ASET1350580M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Salaires minimaux pour 2013-2014 - Annexe à la convention collective" debut="2013-02-05" fin="2025-04-01" id_txt="KALITEXT000027715061">Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-02-05" fin="2025-04-01" id="KALISCTA000027715063">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000019906603" date_publi="2008-02-21" etat="PERIME" nature="IDCC" num="2717" titre="Convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008" url="conteneur/KALI/CONT/00/00/19/90/66/KALICONT000019906603.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-02-05" etat="ABROGE" fin="2025-04-01" id="KALIARTI000027715069" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Il est rappelé que les conditions de négociation du présent accord se sont inscrites dans le cadre plus large des négociations des accords du doublage signés le 24 octobre 2011, expressément l'accord de prorogation de la convention DAD-R, le protocole relatif aux accords collectifs du doublage et l'accord sur les flux financiers dans le secteur du doublage.<br/>Le présent accord fait ainsi partie d'un corpus juridique couvrant le champ d'activité du doublage. Son importance, outre la détermination des salaires minimaux conventionnels, réside dans le fait que ces salaires constituent l'assiette de calcul des droits voisins des artistes-interprètes et la base de contrôle dans le cadre du mécanisme de dépôt des œuvres doublées décrit dans le protocole relatif aux accords collectifs du doublage.<br/>L'esprit ayant concouru à la négociation et la signature de ces textes fut la sécurisation juridique d'un secteur d'activité afin d'en améliorer la professionnalisation des pratiques. Cet esprit est complémentaire d'une démarche volontaire et commune de défense d'un volume d'activité sur le territoire national propre à sauvegarder la compétitivité et l'attractivité dudit secteur.<br/>Toutes les parties prenantes à ces accords affirment l'impérative nécessité de l'extension de chacun de ces textes par les ministères concernés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

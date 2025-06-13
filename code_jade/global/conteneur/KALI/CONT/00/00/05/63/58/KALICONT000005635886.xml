@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635886</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978.</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>843</NUM>
+
+<DATE_PUBLI>1976-04-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005688564" titretxt="Convention collective nationale du 19 mars 1976"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005688566" titretxt="Modalités d'application de l'article 37 relatif au régime incapacité de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005688568" titretxt="Indemnité de départ en retraite - Définition de l'ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000005688570" titretxt="Durée du travail"/>
+<LIEN_TXT idtxt="KALITEXT000005688572" titretxt="Assurance formation"/>
+<LIEN_TXT idtxt="KALITEXT000005688574" titretxt="Comité paritaire professionnel départemental"/>
+<LIEN_TXT idtxt="KALITEXT000005688576" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005688578" titretxt="Formation professionnelle "/>
+<LIEN_TXT idtxt="KALITEXT000005688580" titretxt="Plan de formation, mutualisation des contributions collectées"/>
+<LIEN_TXT idtxt="KALITEXT000005688582" titretxt="Organisme paritaire collecteur agréé (OPCA)"/>
+<LIEN_TXT idtxt="KALITEXT000005688584" titretxt="Affectation des versements prévus à l'article 3 de la loi du 4 août (Contrat initiative emploi - insertion des jeunes)"/>
+<LIEN_TXT idtxt="KALITEXT000005688556" titretxt="Indemnités diverses et congés divers (département de la Somme)"/>
+<LIEN_TXT idtxt="KALITEXT000005688558" titretxt="Prévoyance (Bas-Rhin)"/>
+<LIEN_TXT idtxt="KALITEXT000005688560" titretxt="Accord &quot;Prévoyance&quot; (Moselle) "/>
+<LIEN_TXT idtxt="KALITEXT000005688562" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005688596" titretxt="Travail de nuit des ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005688598" titretxt="Repos hebdomadaire  (Loire-Atlantique)"/>
+<LIEN_TXT idtxt="KALITEXT000005688600" titretxt="Rémunération des apprentis dans le département de la Charente"/>
+<LIEN_TXT idtxt="KALITEXT000005688602" titretxt="Repos hebdomadaire (Calvados)"/>
+<LIEN_TXT idtxt="KALITEXT000005688604" titretxt="Travail des jours fériés ou de repos (Calvados)"/>
+<LIEN_TXT idtxt="KALITEXT000005688606" titretxt="Régime de prévoyance (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688608" titretxt="Régime de prévoyance (Bouches-du-Rhône), Annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005688612" titretxt="Régime de prévoyance (Bouches-du-Rhône), Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005688614" titretxt="Régime de prévoyance (Bouches-du-Rhône), Extension au Protocole d'accord conventionnel départemental du régime mutuelle et prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005688616" titretxt="Modalités de fermeture hebdomadaire des boulangeries et de tous les points de vente du pain dans le département de la Loire "/>
+<LIEN_TXT idtxt="KALITEXT000005688618" titretxt="Repos hebdomadaire et à la fermeture des boulangeries, boulangeries-pâtisseries, magasins, dépôts ou locaux (Lot-et-Garonne)  "/>
+<LIEN_TXT idtxt="KALITEXT000005688620" titretxt="Situation sociale du personnel des boulangeries, boulangeries-pâtisseries (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688858" titretxt="Salaires, jours fériés, travail du dimanche, extras, évènements familiaux, avantages en nature, ancienneté (Meurthe-et-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000005688586" titretxt="Convention collective départementale (Loire-Atlantique)"/>
+<LIEN_TXT idtxt="KALITEXT000005688590" titretxt="Réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005688594" titretxt="Fermeture hebdomadaire (Département Nièvre)"/>
+<LIEN_TXT idtxt="KALITEXT000005688628" titretxt="Création d'une association paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000005688630" titretxt="Accord de branche professionnelle des boulangers, pâtissiers (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005688632" titretxt="ARTT (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005688634" titretxt="Heures supplémentaires dans le cadre des 35 heures"/>
+<LIEN_TXT idtxt="KALITEXT000005688636" titretxt="Travail du dimanche (Vendée)"/>
+<LIEN_TXT idtxt="KALITEXT000005688638" titretxt="Modification des classifications et salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005688640" titretxt="Avenant relatif aux classifications à compter du 1er janvier 2003 (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688642" titretxt="Indemnités de licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000005688644" titretxt="Fonds de péréquation"/>
+<LIEN_TXT idtxt="KALITEXT000005688646" titretxt="Retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005688648" titretxt="Paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000005688651" titretxt="Retraite complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005688653" titretxt="Rémunération des apprentis des Bouches-du-Rhône (accord départemental)"/>
+<LIEN_TXT idtxt="KALITEXT000005688655" titretxt="Assurance incapacité de travail (prévoyance)"/>
+<LIEN_TXT idtxt="KALITEXT000005688657" titretxt="Création d'une CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000005688659" titretxt="Départ à la retraite"/>
+<LIEN_TXT idtxt="KALITEXT000005688661" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005688663" titretxt="Lettre d'adhésion de la fédération des commerces et des services UNSA à la convention collective nationale de la boulangerie-pâtisserie (entreprises artisanales)"/>
+<LIEN_TXT idtxt="KALITEXT000005688665" titretxt="CQP « Vendeur(euse) conseil en boulangerie-pâtisserie »"/>
+<LIEN_TXT idtxt="KALITEXT000005688667" titretxt="Tutorat"/>
+<LIEN_TXT idtxt="KALITEXT000005688669" titretxt="Fonds de péréquation"/>
+<LIEN_TXT idtxt="KALITEXT000005688671" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005688673" titretxt="Travail des jeunes et apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005688675" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000005688677" titretxt="Epargne salariale (Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688681" titretxt="Modification du champ d'application de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000005688685" titretxt="CQP de vendeur(euse) en boulangerie-pâtisserie (modification annexe III de l'avenant n 77)"/>
+<LIEN_TXT idtxt="KALITEXT000005688687" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000005688691" titretxt="Travail des femmes et des jeunes (art. 26) et apprentissage (art. 38)"/>
+<LIEN_TXT idtxt="KALITEXT000018122123" titretxt="Commission paritaire départementale (Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000018613500" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000018772188" titretxt="Régimes de prévoyance et fonds de péréquation"/>
+<LIEN_TXT idtxt="KALITEXT000018772208" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000019349579" titretxt="Primes"/>
+<LIEN_TXT idtxt="KALITEXT000019349057" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000019385547" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000020468516" titretxt="Retraite"/>
+<LIEN_TXT idtxt="KALITEXT000020468525" titretxt="Incapacité de travail"/>
+<LIEN_TXT idtxt="KALITEXT000020898402" titretxt="Paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000021372445" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000021372464" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000021747540" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000023157814" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000023387595" titretxt="Classifications "/>
+<LIEN_TXT idtxt="KALITEXT000023387857" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000024809340" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000024809354" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000024809365" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024809375" titretxt="Désignation des organismes assureurs"/>
+<LIEN_TXT idtxt="KALITEXT000024809412" titretxt="Désignation d'un OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000025063109" titretxt="Union départementale des syndicats des maîtres artisans boulangers et boulangers-pâtissiers des Bouches-du-Rhône"/>
+<LIEN_TXT idtxt="KALITEXT000025063117" titretxt="Union départementale des syndicats des maîtres artisans boulangers et boulangers-pâtissiers des Bouches-du-Rhône"/>
+<LIEN_TXT idtxt="KALITEXT000025915446" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000026533896" titretxt="Egalité professionnelle entre les femmes et hommes"/>
+<LIEN_TXT idtxt="KALITEXT000026533921" titretxt="Création du CQP « Tourier »"/>
+<LIEN_TXT idtxt="KALITEXT000026695770" titretxt="Bouches-du-Rhône (Accord relatif à la convention) "/>
+<LIEN_TXT idtxt="KALITEXT000026695795" titretxt="Financement du paritarisme (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000026696157" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000026804094" titretxt="Gestion des appels de cotisations du paritarisme départemental (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000026804105" titretxt="Comité d'action sociale (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000029148603" titretxt="Création du comité d'action sociale (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000027291921" titretxt="Prévoyance frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000027291933" titretxt="Prévoyance frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000027727277" titretxt="Modification de l'article 39 « Formation professionnelle »"/>
+<LIEN_TXT idtxt="KALITEXT000028354491" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028967537" titretxt="Prime de fin d'année (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000029131273" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000029731770" titretxt="Modification des articles 37 ter, 37 quater et 37 sexies de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000029754149" titretxt="Mise en place d'un régime de remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000030316443" titretxt="Travail du dimanche (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000030369893" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000030369905" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000030369912" titretxt="Congés familiaux"/>
+<LIEN_TXT idtxt="KALITEXT000030482961" titretxt="Temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000030579144" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000031567723" titretxt="Commissions paritaires régionales"/>
+<LIEN_TXT idtxt="KALITEXT000032003113" titretxt="Droits de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000032048307" titretxt="Fonds de péréquation"/>
+<LIEN_TXT idtxt="KALITEXT000033046911" titretxt="Mutualisation des régimes de prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034032486" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034156761" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034156778" titretxt="Congés familiaux"/>
+<LIEN_TXT idtxt="KALITEXT000035657668" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000035980436" titretxt="Champ géographique (La Réunion)"/>
+<LIEN_TXT idtxt="KALITEXT000036740348" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000036740360" titretxt="Régime de prévoyance des salariés non cadres et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000036836244" titretxt="Règlement intérieur des commissions paritaires régionales"/>
+<LIEN_TXT idtxt="KALITEXT000037351439" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000038326391" titretxt="Congés familiaux"/>
+<LIEN_TXT idtxt="KALITEXT000038326404" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000038616241" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000039108930" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000039075486" titretxt="Régime complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000041686423" titretxt="Régime complémentaire santé"/>
+<LIEN_TXT idtxt="KALITEXT000042096258" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000042096270" titretxt="Modification du préambule de l'avenant n° 122 du 16 janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000043709970" titretxt="Modification de l'avenant n° 83 du 24 avril 2006 (régime frais de soins de santé)"/>
+<LIEN_TXT idtxt="KALITEXT000045139316" titretxt="Dispositif de promotion ou reconversion par alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000045396331" titretxt="Modification art. 31 « Congés familiaux »"/>
+<LIEN_TXT idtxt="KALITEXT000045791159" titretxt="Indemnités de départ à la retraite"/>
+<LIEN_TXT idtxt="KALITEXT000045429794" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000046758553" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000047211990" titretxt="Prévoyance des salariés non-cadre et cadre"/>
+<LIEN_TXT idtxt="KALITEXT000047416032" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000047969183" titretxt="Article 39 « Formation professionnelle tout au long de la vie »"/>
+<LIEN_TXT idtxt="KALITEXT000049271086" titretxt="Remboursement complémentaire de frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000049271098" titretxt="Modification de l'article 42 « Prime de fin d'année »"/>
+<LIEN_TXT idtxt="KALITEXT000050140698" titretxt="Bouches-du-Rhône Prime de fin d'année"/>
+<LIEN_TXT idtxt="KALITEXT000050051870" titretxt="Congés familiaux"/>
+<LIEN_TXT idtxt="KALITEXT000051379178" titretxt="Métiers exposés à des risques ergonomiques"/>
+<LIEN_TXT idtxt="KALITEXT000051472331" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000051664577" titretxt="Métiers exposés à des risques ergonomiques"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005688769" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688771" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688773" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688775" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688777" titretxt="Salaires  (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688780" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688782" titretxt="Salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000029256304" titretxt="Salaires horaires minimaux au 1er mars 2014 (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000032048322" titretxt=" Classification et aux salaires (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000032891051" titretxt="Salaires minima au 1er mars 2016 (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000034135117" titretxt="Bouches-du-Rhône - Salaires horaires minimaux au 1er octobre 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035232916" titretxt="Salaires au 1er mars 2017 (Bouches-du-Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000036903694" titretxt="Bouches-du-Rhône Salaires des apprentis "/>
+<LIEN_TXT idtxt="KALITEXT000037377395" titretxt="Bouches-du-Rhône Salaires au 1er janvier 2018 "/>
+<LIEN_TXT idtxt="KALITEXT000038753839" titretxt="Bouches-du-Rhône - Salaires au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000041944400" titretxt="Bouches-du-Rhône Entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000042294900" titretxt="Bouches-du-Rhône Salaires au 1er mars 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042294911" titretxt="Bouches-du-Rhône Avenant à l'avenant n° 10 du 10 mars 2020"/>
+<LIEN_TXT idtxt="KALITEXT000044091325" titretxt="Bouches-du-Rhône Salaires au 1er mars 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045139344" titretxt="Bouches-du-Rhône Salaires au 1er novembre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046076125" titretxt="Bouches-du-Rhône Grille de salaire 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046265769" titretxt="Bouches-du-Rhône Grille des salaires au 1er juin 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047410140" titretxt="Bouches-du-Rhône Salaires au 1er novembre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000048052424" titretxt="Bouches-du-Rhône Salaires au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050130234" titretxt="Bouches-du-Rhône Salaires au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051314587" titretxt="Bouches-du-Rhône Salaires au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005688784" titretxt="Salaires (Charente)"/>
+<LIEN_TXT idtxt="KALITEXT000005688786" titretxt="Salaires (Charente)"/>
+<LIEN_TXT idtxt="KALITEXT000005688788" titretxt="Salaires (Charente)"/>
+<LIEN_TXT idtxt="KALITEXT000005688790" titretxt="Salaires (Dordogne) "/>
+<LIEN_TXT idtxt="KALITEXT000005688792" titretxt="Salaires (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688794" titretxt="Salaires (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688796" titretxt="Salaires (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688798" titretxt="Salaires (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688800" titretxt="Salaires (Dordogne)"/>
+<LIEN_TXT idtxt="KALITEXT000005688802" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688808" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688810" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688898" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688806" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688900" titretxt="Salaires (Eure) "/>
+<LIEN_TXT idtxt="KALITEXT000005688804" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000018192740" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000019732063" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000021237434" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000023330663" titretxt="Salaires au 1er juillet 2010 (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000024358846" titretxt="Salaires (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000026085372" titretxt="Salaires minimaux pour l'année 2012 (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000027715019" titretxt="Salaires minima au 1er avril 2013 (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000030732747" titretxt="Salaires au 1er avril 2015 (Eure)"/>
+<LIEN_TXT idtxt="KALITEXT000005688906" titretxt="Salaires (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005688909" titretxt="Salaires (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005688747" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688749" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688751" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688753" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688755" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688757" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688759" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688761" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688763" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688765" titretxt="Salaires (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000005688767" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000019732070" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000021980158" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000018192929" titretxt="Salaires (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000023387588" titretxt="Salaires et valeur du point au 1er juillet 2010 (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000024659925" titretxt="Salaires minimaux au 1er février 2011 (Ile de France)"/>
+<LIEN_TXT idtxt="KALITEXT000026152877" titretxt="Salaires minima au 1er février 2012 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000027609581" titretxt="Salaires minima au 1er février 2013 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000030733285" titretxt="Salaires minima au 1er février 2015 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000032888038" titretxt="Salaires minima au 1er février 2016 (Ile-de-France)"/>
+<LIEN_TXT idtxt="KALITEXT000035532811" titretxt="Ile-de-France Salaires minima au 1er février 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037939976" titretxt="Île-de-France Salaire horaire minimum au 1er février 2018"/>
+<LIEN_TXT idtxt="KALITEXT000042949257" titretxt="Île-de-France Salaire horaire au 1er février 2020"/>
+<LIEN_TXT idtxt="KALITEXT000044091336" titretxt="Île-de-France Salaires au 1er février 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045847445" titretxt="Île-de-France Salaires au 1er novembre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046532236" titretxt="Île-de-France Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047969172" titretxt="Île-de-France Salaires au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049756142" titretxt="Île-de-France Salaires au 1er mars 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050144921" titretxt="Île-de-France Salaires au 1er juillet 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493595" titretxt="Île-de-France Salaires au 1er février 2025"/>
+<LIEN_TXT idtxt="KALITEXT000005688812" titretxt="Repos hebdomadaire et jours fériés travaillés (Ille-et-Vilaine)"/>
+<LIEN_TXT idtxt="KALITEXT000005688814" titretxt="Salaires (Indre-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688816" titretxt="Salaires (Indre-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688818" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688820" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688822" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688824" titretxt="Salaires (Loiret) "/>
+<LIEN_TXT idtxt="KALITEXT000005688828" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688830" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688832" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688834" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688836" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688838" titretxt="Salaires (Loiret)"/>
+<LIEN_TXT idtxt="KALITEXT000005688695" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688697" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688699" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688703" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688705" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688707" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688826" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688709" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688711" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688713" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688872" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688715" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688717" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688719" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688721" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688725" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688727" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688729" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688731" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688733" titretxt="Salaires (National) "/>
+<LIEN_TXT idtxt="KALITEXT000005688904" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688735" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688737" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688739" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688741" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688743" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688693" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688902" titretxt="Salaires (national)"/>
+<LIEN_TXT idtxt="KALITEXT000018192729" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000019510008" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000021372458" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000023105047" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000023995659" titretxt="Salaires (National)"/>
+<LIEN_TXT idtxt="KALITEXT000025915458" titretxt="Salaires minimaux pour l'année 2012 (National)"/>
+<LIEN_TXT idtxt="KALITEXT000005688840" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688842" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688844" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688846" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688848" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688850" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688852" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688854" titretxt="Salaires (Maine-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688860" titretxt="Salaires (Meurthe-et-Moselle)"/>
+<LIEN_TXT idtxt="KALITEXT000005688862" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688864" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688866" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688868" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688870" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688874" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688876" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688878" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688882" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688880" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688884" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688886" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688888" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688890" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000005688892" titretxt="Salaires (Oise)"/>
+<LIEN_TXT idtxt="KALITEXT000019349575" titretxt="Salaires (Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000020022309" titretxt="Salaires (Rhône)"/>
+<LIEN_TXT idtxt="KALITEXT000005688894" titretxt="Salaires (Saône-et-Loire)"/>
+<LIEN_TXT idtxt="KALITEXT000005688896" titretxt="Salaires (Somme)"/>
+<LIEN_TXT idtxt="KALITEXT000005688856" titretxt="Salaires (Somme)"/>
+<LIEN_TXT idtxt="KALITEXT000024977718" titretxt="Rémunération des jeunes préparant un brevet professionnel de boulanger (Vaucluse)"/>
+<LIEN_TXT idtxt="KALITEXT000027300579" titretxt="Salaires minima et valeur du point au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000030641548" titretxt="Salaire horaire minimum au 1er janvier 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032512737" titretxt="Salaire horaire minimum au 1er janvier 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034868954" titretxt="Salaire horaire minimum au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037147109" titretxt="Salaires au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038655129" titretxt="Salaire horaire minimum au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042250458" titretxt="Salaires au 1er mars 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043709982" titretxt="Salaires au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045139355" titretxt="Salaires au 1er novembre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045971371" titretxt="Salaire horaire minimum"/>
+<LIEN_TXT idtxt="KALITEXT000047011012" titretxt="Salaire horaire minimum"/>
+<LIEN_TXT idtxt="KALITEXT000048213884" titretxt="Salaires au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000050140707" titretxt="Salaires au 1er juin 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051379197" titretxt="Salaires"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005688911" titretxt="ARRETE du 21 juin 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005688913" titretxt="ARRETE du 25 mars 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005688915" titretxt="ARRETE du 3 novembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005688917" titretxt="ARRETE du 16 décembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005688919" titretxt="ARRETE du 5 juin 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005688921" titretxt="ARRETE du 2 juin 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005688923" titretxt="ARRETE du 14 décembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005688925" titretxt="ARRETE du 1 mars 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005688927" titretxt="ARRETE du 29 juillet 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005688929" titretxt="ARRETE du 26 octobre 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005688931" titretxt="ARRETE du 6 août 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005688933" titretxt="ARRETE du 12 août 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005688935" titretxt="ARRETE du 23 décembre 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005688937" titretxt="ARRETE du 23 juin 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005688939" titretxt="ARRETE du 15 décembre 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005688941" titretxt="ARRETE du 8 janvier 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005688943" titretxt="ARRETE du 17 juin 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005688945" titretxt="ARRETE du 28 septembre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005688947" titretxt="ARRETE du 20 octobre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005688949" titretxt="ARRETE du 1 février 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005688951" titretxt="ARRETE du 15 juin 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005688953" titretxt="ARRETE du 19 août 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005688955" titretxt="ARRETE du 1 février 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005688957" titretxt="ARRETE du 5 mai 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005688959" titretxt="ARRETE du 4 décembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005688961" titretxt="ARRETE du 9 février 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005688963" titretxt="ARRETE du 6 mars 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005688965" titretxt="ARRETE du 26 octobre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005688967" titretxt="ARRETE du 9 novembre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005688969" titretxt="ARRETE du 27 mars 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688971" titretxt="ARRETE du 21 mars 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688973" titretxt="ARRETE du 8 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688975" titretxt="ARRETE du 11 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688977" titretxt="ARRETE du 25 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688979" titretxt="ARRETE du 24 juin 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688981" titretxt="ARRETE du 25 juin 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688983" titretxt="ARRETE du 21 août 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688985" titretxt="ARRETE du 10 octobre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688987" titretxt="ARRETE du 14 novembre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005688989" titretxt="ARRETE du 3 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005688991" titretxt="ARRETE du 12 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005688993" titretxt="ARRETE du 24 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005688995" titretxt="ARRETE du 27 avril 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005688997" titretxt="ARRETE du 12 juin 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005688999" titretxt="ARRETE du 1 octobre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005689001" titretxt="ARRETE du 3 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005689003" titretxt="ARRETE du 16 avril 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005689005" titretxt="ARRETE du 3 mai 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005689007" titretxt="ARRETE du 15 novembre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005689009" titretxt="ARRETE du 13 décembre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005689011" titretxt="ARRETE du 16 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689013" titretxt="ARRETE du 7 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689015" titretxt="ARRETE du 7 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689017" titretxt="ARRETE du 30 juin 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689021" titretxt="ARRETE du 25 juillet 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689023" titretxt="ARRETE du 25 juillet 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689025" titretxt="ARRETE du 10 octobre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005689027" titretxt="ARRETE du 8 février 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005689029" titretxt="ARRETE du 5 avril 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005689031" titretxt="ARRETE du 3 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005689033" titretxt="ARRETE du 11 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005689035" titretxt="ARRETE du 18 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005689037" titretxt="ARRETE du 16 avril 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689039" titretxt="ARRETE du 2 mai 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689042" titretxt="ARRETE du 13 septembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689044" titretxt="ARRETE du 4 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689046" titretxt="ARRETE du 16 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689048" titretxt="ARRETE du 16 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005689050" titretxt="ARRETE du 10 janvier 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689052" titretxt="ARRETE du 10 janvier 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689054" titretxt="ARRETE du 10 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689056" titretxt="ARRETE du 14 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689058" titretxt="ARRETE du 18 mars 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689060" titretxt="ARRETE du 25 juin 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689062" titretxt="ARRETE du 18 juillet 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689064" titretxt="ARRETE du 6 août 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689066" titretxt="ARRETE du 6 août 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689068" titretxt="ARRETE du 24 septembre 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689070" titretxt="ARRETE du 9 décembre 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005689072" titretxt="ARRETE du 7 janvier 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005689074" titretxt="ARRETE du 3 février 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005689076" titretxt="ARRETE du 12 octobre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005689078" titretxt="ARRETE du 13 octobre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005689080" titretxt="ARRETE du 11 janvier 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689082" titretxt="ARRETE du 5 février 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689084" titretxt="ARRETE du 29 mars 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689086" titretxt="ARRETE du 29 mars 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689088" titretxt="ARRETE du 4 août 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689090" titretxt="ARRETE du 29 septembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689092" titretxt="ARRETE du 29 septembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689094" titretxt="ARRETE du 29 septembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689096" titretxt="ARRETE du 19 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689098" titretxt="ARRETE du 21 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005689100" titretxt="ARRETE du 23 février 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005689104" titretxt="ARRETE du 6 avril 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005689106" titretxt="ARRETE du 20 juillet 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005689108" titretxt="ARRETE du 12 octobre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005689110" titretxt="ARRETE du 20 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689112" titretxt="ARRETE du 26 juin 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005689114" titretxt="ARRETE du 15 janvier 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689116" titretxt="ARRETE du 21 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689118" titretxt="ARRETE du 17 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689120" titretxt="ARRETE du 11 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689122" titretxt="ARRETE du 15 novembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005689124" titretxt="ARRETE du 19 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005689126" titretxt="ARRETE du 21 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005689128" titretxt="ARRETE du 2 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005689130" titretxt="ARRETE du 7 novembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005689132" titretxt="ARRETE du 8 novembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005689136" titretxt="ARRETE du 10 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689138" titretxt="ARRETE du 10 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689140" titretxt="ARRETE du 9 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689142" titretxt="ARRETE du 18 août 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689144" titretxt="ARRETE du 3 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689146" titretxt="ARRETE du 3 décembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689148" titretxt="ARRETE du 11 décembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005689150" titretxt="ARRETE du 27 janvier 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689152" titretxt="ARRETE du 6 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689154" titretxt="ARRETE du 7 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689156" titretxt="ARRETE du 5 novembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689158" titretxt="ARRETE du 5 novembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689160" titretxt="ARRETE du 8 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005689162" titretxt="ARRETE du 14 avril 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689164" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689168" titretxt="ARRETE du 12 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689170" titretxt="ARRETE du 3 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689172" titretxt="ARRETE du 3 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689174" titretxt="ARRETE du 7 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689177" titretxt="ARRETE du 4 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005689179" titretxt="ARRETE du 1 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689181" titretxt="ARRETE du 12 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689183" titretxt="ARRETE du 13 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689185" titretxt="ARRETE du 16 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689187" titretxt="ARRETE du 17 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689189" titretxt="ARRETE du 20 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689191" titretxt="ARRETE du 6 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005689193" titretxt="ARRETE du 9 février 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Boulangerie-pâtisserie (entreprises artisanales)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3117</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>
